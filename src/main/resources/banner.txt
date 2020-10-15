@@ -1,0 +1,7 @@
+${AnsiColor.BRIGHT_CYAN}  .d8b.  d8888b. d8888b.  .d88b.  d8b   db        ${AnsiColor.BRIGHT_YELLOW}d8888b. d8888b. d888888b  .d88b.  d8888b. d888888b d888888b db    db
+${AnsiColor.BRIGHT_CYAN} d8' `8b 88  `8D 88  `8D .8P  Y8. 888o  88        ${AnsiColor.BRIGHT_YELLOW}88  `8D 88  `8D   `88'   .8P  Y8. 88  `8D   `88'   `~~88~~' `8b  d8'
+${AnsiColor.BRIGHT_CYAN} 88ooo88 88   88 88   88 88    88 88V8o 88        ${AnsiColor.BRIGHT_YELLOW}88oodD' 88oobY'    88    88    88 88oobY'    88       88     `8bd8'
+${AnsiColor.BRIGHT_CYAN} 88~~~88 88   88 88   88 88    88 88 V8o88 C8888D ${AnsiColor.BRIGHT_YELLOW}88~~~   88`8b      88    88    88 88`8b      88       88       88
+${AnsiColor.BRIGHT_CYAN} 88   88 88  .8D 88  .8D `8b  d8' 88  V888        ${AnsiColor.BRIGHT_YELLOW}88      88 `88.   .88.   `8b  d8' 88 `88.   .88.      88       88
+${AnsiColor.BRIGHT_CYAN} YP   YP Y8888D' Y8888D'  `Y88P'  VP   V8P        ${AnsiColor.BRIGHT_YELLOW}88      88   YD Y888888P  `Y88P'  88   YD Y888888P    YP       YP
+${AnsiColor.BRIGHT_CYAN}:: BILLER :: ADDON-PRIORITY UPDATE - RUNNING SPRINGBOOT ${spring-boot.version} :: \ö/${AnsiColor.BLACK}

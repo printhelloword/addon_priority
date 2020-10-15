@@ -1,0 +1,37 @@
+plugins {
+    id 'org.springframework.boot' version '2.3.4.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.10.RELEASE'
+    id 'java'
+}
+
+group = 'com'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    // https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-config-server
+    compile group: 'org.springframework.cloud', name: 'spring-cloud-config-server', version: '2.2.5.RELEASE'
+
+    implementation 'org.springframework.boot:spring-boot-starter'
+
+    // https://mvnrepository.com/artifact/com.massisframework/j-text-utils
+    compile group: 'com.massisframework', name: 'j-text-utils', version: '0.3.4'
+
+    compile group: 'commons-configuration', name: 'commons-configuration', version: '1.5'
+    //Thanks for using https://jar-download.com
+
+    // https://mvnrepository.com/artifact/log4j/log4j
+    compile group: 'log4j', name: 'log4j', version: '1.2.17'
+
+    // https://mvnrepository.com/artifact/org.hibernate/hibernate-core
+    compile group: 'org.hibernate', name: 'hibernate-core', version: '5.4.10.Final'
+
+    compile group: 'com.microsoft.sqlserver', name: 'mssql-jdbc', version: '8.2.1.jre8'
+}
+
+test {
+    useJUnitPlatform()
+}

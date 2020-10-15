@@ -1,7 +1,7 @@
-package com.biller.addonprior;
+package com.biller.addonpriority;
 
-import com.biller.addonprior.database.ParsingDBHelper;
-import com.biller.addonprior.util.Settings;
+import com.biller.addonpriority.database.ParsingDBHelper;
+import com.biller.addonpriority.util.Settings;
 import org.apache.log4j.Logger;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -49,25 +49,28 @@ public class Application {
 
             List<Object[]> parsing;
             ParsingDBHelper parsingdb = new ParsingDBHelper();
-            parsing = parsingdb.getParsing(arrayProductCodes);
+            /*parsing = parsingdb.getParsing(arrayProductCodes);*/
+            for (int i = 0; i < arrayProductCodes.length; i++) {
+                parsing = parsingdb.getParsing(arrayProductCodes[i]);
+                if (parsing.isEmpty()) {
+                    log.info("No Active Products");
+                } else {
+                    log.info("List Of Actives Products: ");
 
-            if (parsing.isEmpty()) {
-                log.info("No Active Products");
-            } else {
-                log.info("List Of Actives Products: ");
-
-                log.info("kode_modul|kode_produk|harga_beli|prioritas|status ");
-                int i=1;
-                for (Object[] row : parsing) {
-                    log.info(row[0] + " | " + row[1] + " | " + String.format("%,.2f", row[2]) + " | " + row[3] + " | " + row[4]);
-                    productsToBeUpdate.put(row[1].toString(), i);
-                    i++;
+                    log.info("kode_modul|kode_produk|harga_beli");
+                    int j = 1;
+                    for (Object[] row : parsing) {
+                        log.info(row[0] + " | " + row[1] + " | " + String.format("%,.2f", row[2]));
+                        productsToBeUpdate.put(row[0].toString(), j);
+                        j++;
+                    }
+                    if (parsingdb.updatePriority(productsToBeUpdate)) {
+                        log.info("Update Succeed");
+                    } else
+                        log.info("Update Failed");
                 }
-                if(parsingdb.updatePriority(productsToBeUpdate)){
-                    log.info("Update Succeed");
-                }else
-                    log.info("Update Failed");
             }
+
 
         } catch (Exception e) {
             e.printStackTrace();

@@ -1,6 +1,5 @@
-package com.biller.addonprior.util;
+package com.biller.addonpriority.util;
 
-import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.stereotype.Component;
 import org.springframework.beans.factory.annotation.Value;

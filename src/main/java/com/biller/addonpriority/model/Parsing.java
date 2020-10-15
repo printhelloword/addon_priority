@@ -1,4 +1,4 @@
-package com.biller.addonprior.model;
+package com.biller.addonpriority.model;
 
 import javax.persistence.*;
 import java.util.Objects;

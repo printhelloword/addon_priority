@@ -1,4 +1,4 @@
-package com.biller.addonprior;
+package com.biller.addonpriority;
 
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.PropertiesConfiguration;

@@ -1,6 +1,6 @@
-package com.biller.addonprior;
+package com.biller.addonpriority;
 
-import com.biller.addonprior.database.ParsingDBHelper;
+import com.biller.addonpriority.database.ParsingDBHelper;
 
 import java.util.List;
 

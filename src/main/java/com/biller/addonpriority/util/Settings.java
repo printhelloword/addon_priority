@@ -1,6 +1,6 @@
-package com.biller.addonprior.util;
+package com.biller.addonpriority.util;
 
-import com.biller.addonprior.Application;
+import com.biller.addonpriority.Application;
 import org.apache.commons.configuration.PropertiesConfiguration;
 import org.apache.commons.configuration.reloading.FileChangedReloadingStrategy;
 

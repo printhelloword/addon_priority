@@ -1,6 +1,6 @@
-package com.biller.addonprior.database;
+package com.biller.addonpriority.database;
 
-import com.biller.addonprior.Application;
+import com.biller.addonpriority.Application;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
@@ -20,22 +20,31 @@ public class ParsingDBHelper {
         return factory.openSession();
     }
 
-    public List<Object[]> getParsing(String[] arrayProductCode) {
+    //    public List<Object[]> getParsing(String[] arrayProductCode) {
+    public List<Object[]> getParsing(String productCode) {
 
         Session session = getSession();
 
         List<Object[]> results = null;
         try {
 
-            List<String> productCodes = Arrays.asList(arrayProductCode);
+//            List<String> productCodes = Arrays.asList(arrayProductCode);
 
-            Query query = session.
+           /* Query query = session.
                     createNativeQuery("select kode_modul, kode_produk, harga_beli, prioritas, aktif from parsing " +
                             "where aktif=1 " +
                             "and harga_beli is not null " +
                             "and kode_produk in :productCodes " +
+                            "order by harga_beli asc");*/
+//            query.setParameter("productCodes", productCodes);
+            Query query = session.
+                    createNativeQuery("select kode_modul, kode_produk, harga_beli\n" +
+                            "from parsing " +
+                            "where aktif=1 " +
+                            "and kode_produk=:productCode " +
+                            "and harga_beli is not null " +
                             "order by harga_beli asc");
-            query.setParameter("productCodes", productCodes);
+            query.setParameter("productCode", productCode);
 
             results = query.getResultList();
 
@@ -49,7 +58,7 @@ public class ParsingDBHelper {
         return results;
     }
 
-    public boolean updatePriority(Map collectionProductCode) {
+    public boolean updatePriority(Map collectionModuleCodes) {
         boolean isSuccess = false;
         Session session = null;
         Transaction tx = null;
@@ -57,22 +66,23 @@ public class ParsingDBHelper {
         try {
             session = getSession();
             tx = session.beginTransaction();
-            List<String> productCodes = new ArrayList<String>();
-            String[] arrayProductCodes = new String[collectionProductCode.size()];
+            List<String> moduleCodes = new ArrayList<String>();
+            String[] arrayModuleCodes = new String[collectionModuleCodes.size()];
             String sql = "UPDATE dbo.parsing " + "SET prioritas = CASE ";
             int iter = 0;
-            for (Object i : collectionProductCode.keySet()) {
-                arrayProductCodes[iter] = i.toString();
-                productCodes.add(i.toString());
-                sql += "WHEN kode_produk = '" + i.toString() + "' THEN " + collectionProductCode.get(i) + " ";
+            for (Object i : collectionModuleCodes.keySet()) {
+                arrayModuleCodes[iter] = i.toString();
+                moduleCodes.add(i.toString());
+//                sql += "WHEN kode_produk = '" + i.toString() + "' THEN " + collectionProductCode.get(i) + " ";
+                sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + collectionModuleCodes.get(i) + " ";
                 iter++;
             }
-            sql += " END WHERE kode_produk IN :productCodes";
-            Application.log.info("Product Code Size " + productCodes.size());
+            sql += " END WHERE kode_modul IN :moduleCodes";
+            Application.log.info("Module Codes Array Length -> " + moduleCodes.size());
 
             Query query = session.
                     createNativeQuery(sql);
-            query.setParameter("productCodes", Arrays.asList(arrayProductCodes));
+            query.setParameter("moduleCodes", Arrays.asList(arrayModuleCodes));
             query.executeUpdate();
             tx.commit();
             isSuccess = true;

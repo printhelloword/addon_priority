@@ -1,4 +1,4 @@
-package com.biller.addonprior;
+package com.biller.addonpriority;
 
 public class TestReloading {
 

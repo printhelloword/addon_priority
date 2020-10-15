@@ -16,7 +16,7 @@ public class Application {
     public static org.apache.log4j.Logger log = Logger.getLogger(Application.class);
 
     static String propertyInterval;
-    static String propertyModuleCodes;
+    static String propertyProductCodes;
 //    static List<String> listModuleCodes = Arrays.asList(arrayModuleCodes);
 
 
@@ -26,12 +26,13 @@ public class Application {
         while (true) {
 
             try {
-                Thread.sleep(Integer.parseInt(Settings.getProperty("interval.update")) * 1000); /*Sleep Thread in seconds*/
                 log.info("Interval Update " + Settings.getProperty("interval.update"));
                 updatePriority();
+                Thread.sleep(Integer.parseInt(Settings.getProperty("interval.update")) * 1000); /*Sleep Thread in seconds*/
             } catch (Exception e) {
+                e.printStackTrace();
                 log.fatal(e);
-                log.info("Invalid Settings. Please Check Again");
+                log.info("Invalid Settings. Please Check Settings Again");
                 Thread.sleep(5000);
             }
 
@@ -41,14 +42,14 @@ public class Application {
 
     private static void updatePriority() {
         try {
-            propertyModuleCodes = Settings.getProperty("kode.modul");
-            String[] arrayModuleCodes = propertyModuleCodes.split(" ");
+            propertyProductCodes = Settings.getProperty("kode.produk");
+            String[] arrayProductCodes = propertyProductCodes.split(" ");
 
             HashMap<String, Integer> productsToBeUpdate = new HashMap<String, Integer>();
 
             List<Object[]> parsing;
             ParsingDBHelper parsingdb = new ParsingDBHelper();
-            parsing = parsingdb.getParsing(arrayModuleCodes);
+            parsing = parsingdb.getParsing(arrayProductCodes);
 
             if (parsing.isEmpty()) {
                 log.info("No Active Products");
@@ -56,7 +57,7 @@ public class Application {
                 log.info("List Of Actives Products: ");
 
                 log.info("kode_modul|kode_produk|harga_beli|prioritas|status ");
-                int i=0;
+                int i=1;
                 for (Object[] row : parsing) {
                     log.info(row[0] + " | " + row[1] + " | " + String.format("%,.2f", row[2]) + " | " + row[3] + " | " + row[4]);
                     productsToBeUpdate.put(row[1].toString(), i);
@@ -73,9 +74,5 @@ public class Application {
             log.fatal(e.getMessage());
         }
     }
-
-//    private static void displayProducts(){
-//
-//    }
 
 }

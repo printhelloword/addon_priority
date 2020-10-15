@@ -1,0 +1,2404 @@
+08:58:15,028  INFO Application:30 - Interval Update 6
+08:58:18,892  INFO Application:56 - List Of Actives Products: 
+08:58:18,892  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:58:18,893  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+08:58:18,894  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+08:58:18,894  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+08:58:18,894  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+08:58:18,895  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+08:58:18,895  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+08:58:18,899  INFO Application:68 - key: CEKPLN20 value: 1
+08:58:18,899  INFO Application:68 - key: S25 value: 3
+08:58:18,899  INFO Application:68 - key: S100 value: 5
+08:58:18,900  INFO Application:68 - key: PLN100 value: 6
+08:58:18,900  INFO Application:68 - key: PLN20 value: 2
+08:58:18,900  INFO Application:68 - key: S50 value: 4
+08:58:18,900  INFO Application:72 - Product Code Size 6
+08:58:18,918  INFO Application:66 - Update Succeed
+08:58:24,928  INFO Application:30 - Interval Update 6
+08:58:24,933  INFO Application:56 - List Of Actives Products: 
+08:58:24,933  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:58:24,933  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+08:58:24,933  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+08:58:24,933  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+08:58:24,933  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+08:58:24,934  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+08:58:24,934  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+08:58:24,934  INFO Application:68 - key: CEKPLN20 value: 1
+08:58:24,934  INFO Application:68 - key: S25 value: 3
+08:58:24,934  INFO Application:68 - key: S100 value: 5
+08:58:24,935  INFO Application:68 - key: PLN100 value: 6
+08:58:24,935  INFO Application:68 - key: PLN20 value: 2
+08:58:24,935  INFO Application:68 - key: S50 value: 4
+08:58:24,935  INFO Application:72 - Product Code Size 6
+08:58:24,941  INFO Application:66 - Update Succeed
+09:01:04,385  INFO Application:30 - Interval Update 6
+09:01:07,191  INFO Application:56 - List Of Actives Products: 
+09:01:07,191  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+09:01:07,192  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+09:01:07,192  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+09:01:07,192  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+09:01:07,192  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+09:01:07,192  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+09:01:07,192  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+09:01:07,194  INFO Application:71 - Product Code Size 6
+09:01:07,203  INFO Application:66 - Update Succeed
+09:22:34,321  INFO Application:30 - Interval Update 6
+09:22:40,258  INFO Application:56 - List Of Actives Products: 
+09:22:40,259  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+09:22:40,259  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 2 | 1
+09:22:40,259  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+09:22:40,260  INFO Application:61 - 303 | S25 | 24,775.00 | 5 | 1
+09:22:40,260  INFO Application:61 - 303 | S50 | 48,600.00 | 3 | 1
+09:22:40,260  INFO Application:61 - 303 | S100 | 96,325.00 | 6 | 1
+09:22:40,260  INFO Application:61 - 304 | PLN100 | 99,975.00 | 4 | 1
+09:22:40,263  INFO Application:71 - Product Code Size 6
+09:22:40,274  INFO Application:66 - Update Succeed
+09:22:46,284  INFO Application:30 - Interval Update 6
+09:22:46,287  INFO Application:56 - List Of Actives Products: 
+09:22:46,287  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+09:22:46,287  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+09:22:46,287  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+09:22:46,288  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+09:22:46,288  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+09:22:46,288  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+09:22:46,288  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+09:22:46,289  INFO Application:71 - Product Code Size 6
+09:22:46,291  INFO Application:66 - Update Succeed
+09:22:52,293  INFO Application:30 - Interval Update 6
+09:22:52,295  INFO Application:56 - List Of Actives Products: 
+09:22:52,295  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+09:22:52,295  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+09:22:52,295  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+09:22:52,295  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+09:22:52,295  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+09:22:52,295  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+09:22:52,295  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+09:22:52,296  INFO Application:71 - Product Code Size 6
+09:22:52,298  INFO Application:66 - Update Succeed
+09:22:58,307  INFO Application:30 - Interval Update 6
+09:22:58,309  INFO Application:56 - List Of Actives Products: 
+09:22:58,309  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+09:22:58,309  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+09:22:58,309  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+09:22:58,309  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+09:22:58,309  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+09:22:58,310  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+09:22:58,310  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+09:22:58,310  INFO Application:71 - Product Code Size 6
+09:22:58,312  INFO Application:66 - Update Succeed
+10:08:42,341  INFO Application:30 - Interval Update 6
+10:09:18,126  INFO Application:30 - Interval Update 6
+10:09:21,102  INFO Application:56 - List Of Actives Products: 
+10:09:21,102  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:09:21,103  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+10:09:21,103  INFO Application:61 - 304 | PLN20 | 19,975.00 | 0 | 1
+10:09:21,103  INFO Application:61 - 303 | S25 | 24,775.00 | 0 | 1
+10:09:21,104  INFO Application:61 - 303 | S50 | 48,600.00 | 0 | 1
+10:09:21,104  INFO Application:61 - 303 | S100 | 96,325.00 | 0 | 1
+10:09:21,104  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+10:09:21,107  INFO Application:71 - Product Code Size 6
+10:09:21,117  INFO Application:66 - Update Succeed
+10:11:25,587  INFO Application:30 - Interval Update 6
+10:11:28,173  INFO Application:56 - List Of Actives Products: 
+10:11:28,174  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:11:28,174  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+10:11:28,175  INFO Application:61 - 304 | PLN20 | 19,975.00 | 0 | 1
+10:11:28,175  INFO Application:61 - 303 | S25 | 24,775.00 | 0 | 1
+10:11:28,175  INFO Application:61 - 303 | S50 | 48,600.00 | 0 | 1
+10:11:28,175  INFO Application:61 - 303 | S100 | 96,325.00 | 0 | 1
+10:11:28,175  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+10:11:28,178  INFO Application:71 - Product Code Size 6
+10:11:28,189  INFO Application:66 - Update Succeed
+10:11:34,195  INFO Application:30 - Interval Update 6
+10:11:34,200  INFO Application:56 - List Of Actives Products: 
+10:11:34,200  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:11:34,201  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:11:34,201  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:11:34,202  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:11:34,202  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:11:34,202  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:11:34,203  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:11:34,203  INFO Application:71 - Product Code Size 6
+10:11:34,210  INFO Application:66 - Update Succeed
+10:11:40,225  INFO Application:30 - Interval Update 100
+10:11:40,229  INFO Application:56 - List Of Actives Products: 
+10:11:40,229  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:11:40,229  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:11:40,229  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:11:40,229  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:11:40,229  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:11:40,229  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:11:40,230  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:11:40,230  INFO Application:71 - Product Code Size 6
+10:11:40,235  INFO Application:66 - Update Succeed
+10:13:20,245  INFO Application:30 - Interval Update 5
+10:13:20,248  INFO Application:56 - List Of Actives Products: 
+10:13:20,248  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:13:20,248  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 2 | 1
+10:13:20,248  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+10:13:20,249  INFO Application:61 - 303 | S25 | 24,775.00 | 8 | 1
+10:13:20,249  INFO Application:61 - 303 | S50 | 48,600.00 | 1 | 1
+10:13:20,249  INFO Application:61 - 303 | S100 | 96,325.00 | 2 | 1
+10:13:20,249  INFO Application:61 - 304 | PLN100 | 99,975.00 | 1 | 1
+10:13:20,249  INFO Application:71 - Product Code Size 6
+10:13:20,253  INFO Application:66 - Update Succeed
+10:13:37,986  INFO Application:30 - Interval Update 5
+10:13:39,926  INFO Application:56 - List Of Actives Products: 
+10:13:39,926  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:13:39,927  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:13:39,927  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:13:39,927  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:13:39,927  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:13:39,927  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:13:39,927  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:13:39,929  INFO Application:71 - Product Code Size 6
+10:13:39,937  INFO Application:66 - Update Succeed
+10:13:44,947  INFO Application:30 - Interval Update 5
+10:13:44,951  INFO Application:56 - List Of Actives Products: 
+10:13:44,951  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:13:44,951  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:13:44,951  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:13:44,952  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:13:44,952  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:13:44,952  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:13:44,952  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:13:44,952  INFO Application:71 - Product Code Size 6
+10:13:44,957  INFO Application:66 - Update Succeed
+10:13:49,966  INFO Application:30 - Interval Update 5
+10:13:49,970  INFO Application:56 - List Of Actives Products: 
+10:13:49,970  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:13:49,970  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:13:49,970  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:13:49,970  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:13:49,970  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:13:49,970  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:13:49,970  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:13:49,971  INFO Application:71 - Product Code Size 6
+10:13:49,975  INFO Application:66 - Update Succeed
+10:13:54,981  INFO Application:30 - Interval Update 5
+10:13:54,985  INFO Application:56 - List Of Actives Products: 
+10:13:54,985  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:13:54,985  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:13:54,985  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:13:54,986  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:13:54,986  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:13:54,986  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:13:54,986  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:13:54,987  INFO Application:71 - Product Code Size 6
+10:13:54,995  INFO Application:66 - Update Succeed
+10:14:00,003  INFO Application:30 - Interval Update 5
+10:14:00,009  INFO Application:56 - List Of Actives Products: 
+10:14:00,009  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:00,009  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:00,010  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:00,010  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:00,010  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:00,010  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:00,010  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:00,010  INFO Application:71 - Product Code Size 6
+10:14:00,015  INFO Application:66 - Update Succeed
+10:14:05,022  INFO Application:30 - Interval Update 5
+10:14:05,025  INFO Application:56 - List Of Actives Products: 
+10:14:05,025  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:05,025  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:05,026  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:05,026  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:05,026  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:05,026  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:05,026  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:05,026  INFO Application:71 - Product Code Size 6
+10:14:05,030  INFO Application:66 - Update Succeed
+10:14:10,037  INFO Application:30 - Interval Update 5
+10:14:10,040  INFO Application:56 - List Of Actives Products: 
+10:14:10,040  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:10,040  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:10,040  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:10,040  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:10,040  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:10,041  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:10,041  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:10,041  INFO Application:71 - Product Code Size 6
+10:14:10,045  INFO Application:66 - Update Succeed
+10:14:15,050  INFO Application:30 - Interval Update 5
+10:14:15,054  INFO Application:56 - List Of Actives Products: 
+10:14:15,054  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:15,055  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:15,055  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:15,055  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:15,055  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:15,055  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:15,055  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:15,055  INFO Application:71 - Product Code Size 6
+10:14:15,060  INFO Application:66 - Update Succeed
+10:14:20,070  INFO Application:30 - Interval Update 5
+10:14:20,074  INFO Application:56 - List Of Actives Products: 
+10:14:20,074  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:20,074  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:20,074  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:20,075  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:20,075  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:20,075  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:20,075  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:20,075  INFO Application:71 - Product Code Size 6
+10:14:20,079  INFO Application:66 - Update Succeed
+10:14:25,092  INFO Application:30 - Interval Update 5
+10:14:25,096  INFO Application:56 - List Of Actives Products: 
+10:14:25,096  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:25,096  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:25,096  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:25,096  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:25,096  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:25,096  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:25,096  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:25,097  INFO Application:71 - Product Code Size 6
+10:14:25,101  INFO Application:66 - Update Succeed
+10:14:30,106  INFO Application:30 - Interval Update 5
+10:14:30,109  INFO Application:56 - List Of Actives Products: 
+10:14:30,109  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:30,110  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:30,110  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:30,110  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:30,110  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:30,110  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:30,110  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:30,110  INFO Application:71 - Product Code Size 6
+10:14:30,114  INFO Application:66 - Update Succeed
+10:14:35,127  INFO Application:30 - Interval Update 5
+10:14:35,131  INFO Application:56 - List Of Actives Products: 
+10:14:35,131  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:35,131  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:35,131  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:35,131  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:35,131  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:35,132  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:35,132  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:35,132  INFO Application:71 - Product Code Size 6
+10:14:35,135  INFO Application:66 - Update Succeed
+10:14:40,144  INFO Application:30 - Interval Update 5
+10:14:40,147  INFO Application:56 - List Of Actives Products: 
+10:14:40,147  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:40,148  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:40,148  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:40,148  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:40,148  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:40,148  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:40,148  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:40,148  INFO Application:71 - Product Code Size 6
+10:14:40,152  INFO Application:66 - Update Succeed
+10:14:45,163  INFO Application:30 - Interval Update 5
+10:14:45,166  INFO Application:56 - List Of Actives Products: 
+10:14:45,166  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:45,166  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:45,166  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:45,166  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:45,166  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:45,166  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:45,166  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:45,167  INFO Application:71 - Product Code Size 6
+10:14:45,170  INFO Application:66 - Update Succeed
+10:14:50,184  INFO Application:30 - Interval Update 5
+10:14:50,189  INFO Application:56 - List Of Actives Products: 
+10:14:50,189  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:50,189  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:50,189  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:50,189  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:50,189  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:50,189  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:50,190  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:50,190  INFO Application:71 - Product Code Size 6
+10:14:50,195  INFO Application:66 - Update Succeed
+10:14:55,209  INFO Application:30 - Interval Update 5
+10:14:55,213  INFO Application:56 - List Of Actives Products: 
+10:14:55,213  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:14:55,213  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:14:55,213  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:14:55,213  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:14:55,214  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:14:55,214  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:14:55,214  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:14:55,214  INFO Application:71 - Product Code Size 6
+10:14:55,220  INFO Application:66 - Update Succeed
+10:15:00,225  INFO Application:30 - Interval Update 5
+10:15:00,228  INFO Application:56 - List Of Actives Products: 
+10:15:00,228  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:00,229  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:00,229  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:00,229  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:00,229  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:00,229  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:00,229  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:00,229  INFO Application:71 - Product Code Size 6
+10:15:00,233  INFO Application:66 - Update Succeed
+10:15:05,242  INFO Application:30 - Interval Update 5
+10:15:05,246  INFO Application:56 - List Of Actives Products: 
+10:15:05,246  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:05,247  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:05,247  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:05,247  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:05,247  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:05,247  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:05,247  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:05,247  INFO Application:71 - Product Code Size 6
+10:15:05,251  INFO Application:66 - Update Succeed
+10:15:10,261  INFO Application:30 - Interval Update 5
+10:15:10,265  INFO Application:56 - List Of Actives Products: 
+10:15:10,265  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:10,265  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:10,265  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:10,265  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:10,265  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:10,265  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:10,265  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:10,266  INFO Application:71 - Product Code Size 6
+10:15:10,269  INFO Application:66 - Update Succeed
+10:15:15,273  INFO Application:30 - Interval Update 5
+10:15:15,277  INFO Application:56 - List Of Actives Products: 
+10:15:15,277  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:15,278  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:15,278  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:15,278  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:15,278  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:15,278  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:15,278  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:15,279  INFO Application:71 - Product Code Size 6
+10:15:15,283  INFO Application:66 - Update Succeed
+10:15:20,291  INFO Application:30 - Interval Update 5
+10:15:20,295  INFO Application:56 - List Of Actives Products: 
+10:15:20,295  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:20,295  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:20,295  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:20,295  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:20,295  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:20,295  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:20,295  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:20,296  INFO Application:71 - Product Code Size 6
+10:15:20,299  INFO Application:66 - Update Succeed
+10:15:25,310  INFO Application:30 - Interval Update 5
+10:15:25,314  INFO Application:56 - List Of Actives Products: 
+10:15:25,315  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:25,315  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:25,315  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:25,315  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:25,315  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:25,315  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:25,315  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:25,316  INFO Application:71 - Product Code Size 6
+10:15:25,320  INFO Application:66 - Update Succeed
+10:15:30,324  INFO Application:30 - Interval Update 5
+10:15:30,327  INFO Application:56 - List Of Actives Products: 
+10:15:30,327  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:30,327  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:30,327  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:30,328  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:30,328  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:30,328  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:30,328  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:30,328  INFO Application:71 - Product Code Size 6
+10:15:30,334  INFO Application:66 - Update Succeed
+10:15:35,345  INFO Application:30 - Interval Update 5
+10:15:35,349  INFO Application:56 - List Of Actives Products: 
+10:15:35,349  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:35,350  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:35,350  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:35,350  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:35,350  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:35,350  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:35,350  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:35,350  INFO Application:71 - Product Code Size 6
+10:15:35,354  INFO Application:66 - Update Succeed
+10:15:40,354  INFO Application:30 - Interval Update 5
+10:15:40,359  INFO Application:56 - List Of Actives Products: 
+10:15:40,359  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:40,359  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:40,359  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:40,359  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:40,359  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:40,359  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:40,359  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:40,360  INFO Application:71 - Product Code Size 6
+10:15:40,365  INFO Application:66 - Update Succeed
+10:15:45,376  INFO Application:30 - Interval Update 5
+10:15:45,379  INFO Application:56 - List Of Actives Products: 
+10:15:45,379  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:45,379  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:45,380  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:45,380  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:45,380  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:45,380  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:45,380  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:45,380  INFO Application:71 - Product Code Size 6
+10:15:45,386  INFO Application:66 - Update Succeed
+10:15:50,396  INFO Application:30 - Interval Update 5
+10:15:50,401  INFO Application:56 - List Of Actives Products: 
+10:15:50,401  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:50,401  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:50,401  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:50,402  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:50,402  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:50,402  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:50,402  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:50,402  INFO Application:71 - Product Code Size 6
+10:15:50,405  INFO Application:66 - Update Succeed
+10:15:55,407  INFO Application:30 - Interval Update 5
+10:15:55,411  INFO Application:56 - List Of Actives Products: 
+10:15:55,411  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:15:55,411  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:15:55,411  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:15:55,411  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:15:55,412  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:15:55,412  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:15:55,412  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:15:55,412  INFO Application:71 - Product Code Size 6
+10:15:55,418  INFO Application:66 - Update Succeed
+10:16:00,419  INFO Application:30 - Interval Update 5
+10:16:00,423  INFO Application:56 - List Of Actives Products: 
+10:16:00,423  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:16:00,423  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:16:00,423  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:16:00,423  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:16:00,423  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:16:00,423  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:16:00,423  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:16:00,423  INFO Application:71 - Product Code Size 6
+10:16:00,427  INFO Application:66 - Update Succeed
+10:16:05,439  INFO Application:30 - Interval Update 5
+10:16:05,443  INFO Application:56 - List Of Actives Products: 
+10:16:05,443  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:16:05,443  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:16:05,443  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:16:05,443  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:16:05,443  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:16:05,443  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:16:05,443  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:16:05,443  INFO Application:71 - Product Code Size 6
+10:16:05,447  INFO Application:66 - Update Succeed
+10:16:10,451  INFO Application:30 - Interval Update 5
+10:16:10,455  INFO Application:56 - List Of Actives Products: 
+10:16:10,455  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:16:10,455  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:16:10,455  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:16:10,455  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:16:10,455  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:16:10,455  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:16:10,455  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:16:10,456  INFO Application:71 - Product Code Size 6
+10:16:10,460  INFO Application:66 - Update Succeed
+10:16:15,469  INFO Application:30 - Interval Update 5
+10:16:15,472  INFO Application:56 - List Of Actives Products: 
+10:16:15,472  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:16:15,472  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:16:15,472  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:16:15,473  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:16:15,473  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:16:15,473  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:16:15,473  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:16:15,473  INFO Application:71 - Product Code Size 6
+10:16:15,478  INFO Application:66 - Update Succeed
+10:16:20,483  INFO Application:30 - Interval Update 15
+10:16:20,487  INFO Application:56 - List Of Actives Products: 
+10:16:20,487  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:16:20,487  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:16:20,488  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:16:20,488  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:16:20,488  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:16:20,488  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:16:20,488  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:16:20,488  INFO Application:71 - Product Code Size 6
+10:16:20,492  INFO Application:66 - Update Succeed
+10:16:35,500  INFO Application:30 - Interval Update 15
+10:16:35,504  INFO Application:56 - List Of Actives Products: 
+10:16:35,504  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:16:35,504  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:16:35,504  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:16:35,504  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:16:35,504  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:16:35,504  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:16:35,504  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:16:35,505  INFO Application:71 - Product Code Size 6
+10:16:35,509  INFO Application:66 - Update Succeed
+10:16:50,523  INFO Application:30 - Interval Update 25
+10:16:50,527  INFO Application:56 - List Of Actives Products: 
+10:16:50,527  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:16:50,527  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:16:50,527  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:16:50,527  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:16:50,527  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:16:50,527  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:16:50,527  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:16:50,528  INFO Application:71 - Product Code Size 6
+10:16:50,532  INFO Application:66 - Update Succeed
+10:17:15,533  INFO Application:30 - Interval Update 10
+10:17:15,537  INFO Application:56 - List Of Actives Products: 
+10:17:15,537  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:17:15,537  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:17:15,537  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:17:15,537  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:17:15,537  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:17:15,537  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:17:15,537  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:17:15,537  INFO Application:71 - Product Code Size 6
+10:17:15,542  INFO Application:66 - Update Succeed
+10:17:25,546  INFO Application:30 - Interval Update 10
+10:17:25,549  INFO Application:56 - List Of Actives Products: 
+10:17:25,549  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:17:25,550  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:17:25,550  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:17:25,550  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:17:25,550  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:17:25,550  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:17:25,550  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:17:25,551  INFO Application:71 - Product Code Size 6
+10:17:25,555  INFO Application:66 - Update Succeed
+10:17:35,565  INFO Application:30 - Interval Update 10
+10:17:35,568  INFO Application:56 - List Of Actives Products: 
+10:17:35,568  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:17:35,568  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:17:35,568  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:17:35,569  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:17:35,569  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:17:35,569  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:17:35,569  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:17:35,569  INFO Application:71 - Product Code Size 6
+10:17:35,572  INFO Application:66 - Update Succeed
+10:17:45,577  INFO Application:30 - Interval Update 10
+10:17:45,580  INFO Application:56 - List Of Actives Products: 
+10:17:45,580  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:17:45,580  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:17:45,580  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:17:45,581  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:17:45,581  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:17:45,581  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:17:45,581  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:17:45,581  INFO Application:71 - Product Code Size 6
+10:17:45,638  INFO Application:66 - Update Succeed
+10:17:55,643  INFO Application:30 - Interval Update 10
+10:17:55,646  INFO Application:56 - List Of Actives Products: 
+10:17:55,646  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:17:55,647  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:17:55,647  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:17:55,647  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:17:55,647  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:17:55,647  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:17:55,647  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:17:55,647  INFO Application:71 - Product Code Size 6
+10:17:55,652  INFO Application:66 - Update Succeed
+10:18:05,653  INFO Application:30 - Interval Update 10
+10:18:05,658  INFO Application:56 - List Of Actives Products: 
+10:18:05,658  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:18:05,658  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:18:05,658  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:18:05,658  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:18:05,658  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:18:05,658  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:18:05,658  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:18:05,659  INFO Application:71 - Product Code Size 6
+10:18:05,663  INFO Application:66 - Update Succeed
+10:18:15,666  INFO Application:30 - Interval Update 10
+10:18:15,669  INFO Application:56 - List Of Actives Products: 
+10:18:15,670  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:18:15,670  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:18:15,670  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:18:15,670  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:18:15,670  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:18:15,670  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:18:15,670  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:18:15,670  INFO Application:71 - Product Code Size 6
+10:18:15,674  INFO Application:66 - Update Succeed
+10:18:25,686  INFO Application:30 - Interval Update 10
+10:18:25,689  INFO Application:56 - List Of Actives Products: 
+10:18:25,689  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:18:25,690  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:18:25,690  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:18:25,690  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:18:25,690  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:18:25,690  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:18:25,690  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:18:25,690  INFO Application:71 - Product Code Size 6
+10:18:25,694  INFO Application:66 - Update Succeed
+10:18:35,701  INFO Application:30 - Interval Update 10
+10:18:35,705  INFO Application:56 - List Of Actives Products: 
+10:18:35,705  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:18:35,705  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:18:35,705  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:18:35,705  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:18:35,705  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:18:35,705  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:18:35,705  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:18:35,705  INFO Application:71 - Product Code Size 6
+10:18:35,709  INFO Application:66 - Update Succeed
+10:18:45,710  INFO Application:30 - Interval Update 10
+10:18:45,713  INFO Application:56 - List Of Actives Products: 
+10:18:45,713  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:18:45,713  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:18:45,714  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:18:45,714  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:18:45,714  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:18:45,714  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:18:45,714  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:18:45,714  INFO Application:71 - Product Code Size 6
+10:18:45,718  INFO Application:66 - Update Succeed
+10:18:55,727  INFO Application:30 - Interval Update 10
+10:18:55,730  INFO Application:56 - List Of Actives Products: 
+10:18:55,730  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:18:55,730  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:18:55,730  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:18:55,730  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:18:55,730  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:18:55,730  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:18:55,730  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:18:55,731  INFO Application:71 - Product Code Size 6
+10:18:55,734  INFO Application:66 - Update Succeed
+10:19:05,750  INFO Application:30 - Interval Update 10
+10:19:05,762  INFO Application:56 - List Of Actives Products: 
+10:19:05,762  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:19:05,762  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:19:05,762  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:19:05,762  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:19:05,763  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:19:05,763  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:19:05,763  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:19:05,764  INFO Application:71 - Product Code Size 6
+10:19:05,781  INFO Application:66 - Update Succeed
+10:19:15,784  INFO Application:30 - Interval Update 10
+10:19:18,561  INFO Application:56 - List Of Actives Products: 
+10:19:18,561  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:19:18,561  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:19:18,561  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:19:18,562  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:19:18,562  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:19:18,562  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:19:18,562  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:19:18,562  INFO Application:71 - Product Code Size 6
+10:19:18,573  INFO Application:66 - Update Succeed
+10:19:33,685  INFO Application:29 - Interval Update 10
+10:19:37,454  INFO Application:57 - List Of Actives Products: 
+10:19:37,455  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:19:37,456  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 0 | 1
+10:19:37,456  INFO Application:62 - 304 | PLN20 | 19,975.00 | 1 | 1
+10:19:37,457  INFO Application:62 - 303 | S25 | 24,775.00 | -1 | 1
+10:19:37,457  INFO Application:62 - 303 | S50 | 48,600.00 | -2 | 1
+10:19:37,458  INFO Application:62 - 303 | S100 | 96,325.00 | -2 | 1
+10:19:37,458  INFO Application:62 - 304 | PLN100 | 99,975.00 | 0 | 1
+10:19:37,478  INFO Application:71 - Product Code Size 6
+10:19:37,530  INFO Application:67 - Update Succeed
+10:19:47,540  INFO Application:29 - Interval Update 10
+10:19:47,564  INFO Application:57 - List Of Actives Products: 
+10:19:47,564  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:19:47,564  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:19:47,564  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:19:47,565  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:19:47,565  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:19:47,565  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:19:47,565  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:19:47,587  INFO Application:71 - Product Code Size 6
+10:19:47,608  INFO Application:67 - Update Succeed
+10:19:57,625  INFO Application:29 - Interval Update 30
+10:19:57,661  INFO Application:57 - List Of Actives Products: 
+10:19:57,661  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:19:57,662  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:19:57,662  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:19:57,662  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:19:57,662  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:19:57,662  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:19:57,662  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:19:57,683  INFO Application:71 - Product Code Size 6
+10:19:57,708  INFO Application:67 - Update Succeed
+10:20:27,723  INFO Application:29 - Interval Update 60
+10:20:27,752  INFO Application:57 - List Of Actives Products: 
+10:20:27,752  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:20:27,752  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:20:27,752  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:20:27,752  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:20:27,752  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:20:27,752  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:20:27,752  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:20:27,768  INFO Application:71 - Product Code Size 6
+10:20:27,808  INFO Application:67 - Update Succeed
+10:21:27,809  INFO Application:29 - Interval Update 60
+10:21:27,834  INFO Application:57 - List Of Actives Products: 
+10:21:27,834  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:21:27,834  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:21:27,834  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:21:27,834  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:21:27,835  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:21:27,835  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:21:27,835  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:21:27,856  INFO Application:71 - Product Code Size 6
+10:21:27,886  INFO Application:67 - Update Succeed
+10:22:27,900  INFO Application:29 - Interval Update 60
+10:22:27,929  INFO Application:57 - List Of Actives Products: 
+10:22:27,929  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:22:27,929  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:22:27,929  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:22:27,929  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:22:27,929  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:22:27,929  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:22:27,930  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:22:27,945  INFO Application:71 - Product Code Size 6
+10:22:27,978  INFO Application:67 - Update Succeed
+10:23:27,991  INFO Application:29 - Interval Update 60
+10:23:28,032  INFO Application:57 - List Of Actives Products: 
+10:23:28,032  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:23:28,032  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:23:28,032  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:23:28,032  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:23:28,032  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:23:28,032  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:23:28,032  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:23:28,057  INFO Application:71 - Product Code Size 6
+10:23:28,105  INFO Application:67 - Update Succeed
+10:24:28,108  INFO Application:29 - Interval Update 10
+10:24:28,144  INFO Application:57 - List Of Actives Products: 
+10:24:28,144  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:24:28,144  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:24:28,144  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:24:28,144  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:24:28,144  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:24:28,144  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:24:28,144  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:24:28,155  INFO Application:71 - Product Code Size 6
+10:24:28,224  INFO Application:67 - Update Succeed
+10:24:38,225  INFO Application:29 - Interval Update 10
+10:24:38,252  INFO Application:57 - List Of Actives Products: 
+10:24:38,252  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:24:38,252  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:24:38,252  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:24:38,252  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:24:38,253  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:24:38,253  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:24:38,253  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:24:38,274  INFO Application:71 - Product Code Size 6
+10:24:38,310  INFO Application:67 - Update Succeed
+10:24:48,325  INFO Application:29 - Interval Update 10
+10:24:48,350  INFO Application:57 - List Of Actives Products: 
+10:24:48,350  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:24:48,350  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:24:48,350  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:24:48,350  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:24:48,350  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:24:48,351  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:24:48,351  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:24:48,363  INFO Application:71 - Product Code Size 6
+10:24:48,383  INFO Application:67 - Update Succeed
+10:24:58,397  INFO Application:29 - Interval Update 10
+10:24:58,423  INFO Application:57 - List Of Actives Products: 
+10:24:58,423  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:24:58,423  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:24:58,424  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:24:58,424  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:24:58,424  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:24:58,424  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:24:58,424  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:24:58,444  INFO Application:71 - Product Code Size 6
+10:24:58,478  INFO Application:67 - Update Succeed
+10:25:08,485  INFO Application:29 - Interval Update 10
+10:25:08,511  INFO Application:57 - List Of Actives Products: 
+10:25:08,511  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:25:08,511  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:25:08,511  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:25:08,511  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:25:08,511  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:25:08,511  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:25:08,512  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:25:08,534  INFO Application:71 - Product Code Size 6
+10:25:08,564  INFO Application:67 - Update Succeed
+10:25:18,573  INFO Application:29 - Interval Update 10
+10:25:18,600  INFO Application:57 - List Of Actives Products: 
+10:25:18,600  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:25:18,600  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:25:18,600  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:25:18,600  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:25:18,600  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:25:18,600  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:25:18,600  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:25:18,615  INFO Application:71 - Product Code Size 6
+10:25:18,644  INFO Application:67 - Update Succeed
+10:25:28,650  INFO Application:29 - Interval Update 10
+10:25:28,678  INFO Application:57 - List Of Actives Products: 
+10:25:28,679  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:25:28,679  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:25:28,679  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:25:28,679  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:25:28,679  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:25:28,679  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:25:28,679  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:25:28,695  INFO Application:71 - Product Code Size 6
+10:25:28,733  INFO Application:67 - Update Succeed
+10:25:38,742  INFO Application:29 - Interval Update 10
+10:25:38,770  INFO Application:57 - List Of Actives Products: 
+10:25:38,770  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:25:38,770  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:25:38,771  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:25:38,771  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:25:38,771  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:25:38,771  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:25:38,771  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:25:38,783  INFO Application:71 - Product Code Size 6
+10:25:38,833  INFO Application:67 - Update Succeed
+10:25:48,846  INFO Application:29 - Interval Update 10
+10:25:48,868  INFO Application:57 - List Of Actives Products: 
+10:25:48,868  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:25:48,868  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:25:48,868  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:25:48,868  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:25:48,868  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:25:48,868  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:25:48,868  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:25:48,883  INFO Application:71 - Product Code Size 6
+10:25:48,903  INFO Application:67 - Update Succeed
+10:25:58,906  INFO Application:29 - Interval Update 10
+10:25:58,928  INFO Application:57 - List Of Actives Products: 
+10:25:58,928  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:25:58,928  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:25:58,929  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:25:58,929  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:25:58,929  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:25:58,929  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:25:58,929  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:25:58,943  INFO Application:71 - Product Code Size 6
+10:25:58,959  INFO Application:67 - Update Succeed
+10:26:08,961  INFO Application:29 - Interval Update 10
+10:26:08,990  INFO Application:57 - List Of Actives Products: 
+10:26:08,990  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:26:08,990  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:26:08,990  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:26:08,990  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:26:08,991  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:26:08,991  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:26:08,991  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:26:09,003  INFO Application:71 - Product Code Size 6
+10:26:09,023  INFO Application:67 - Update Succeed
+10:26:19,034  INFO Application:29 - Interval Update 10
+10:26:19,057  INFO Application:57 - List Of Actives Products: 
+10:26:19,057  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:26:19,057  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:26:19,057  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:26:19,057  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:26:19,058  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:26:19,058  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:26:19,058  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:26:19,082  INFO Application:71 - Product Code Size 6
+10:26:19,113  INFO Application:67 - Update Succeed
+10:26:29,119  INFO Application:29 - Interval Update 10
+10:26:29,148  INFO Application:57 - List Of Actives Products: 
+10:26:29,149  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:26:29,149  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:26:29,149  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:26:29,149  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:26:29,149  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:26:29,149  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:26:29,149  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:26:29,163  INFO Application:71 - Product Code Size 6
+10:26:29,183  INFO Application:67 - Update Succeed
+10:26:39,193  INFO Application:29 - Interval Update 10
+10:26:39,207  INFO Application:57 - List Of Actives Products: 
+10:26:39,207  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:26:39,207  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:26:39,207  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:26:39,207  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:26:39,207  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:26:39,207  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:26:39,207  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:26:39,213  INFO Application:71 - Product Code Size 6
+10:26:39,243  INFO Application:67 - Update Succeed
+10:26:49,253  INFO Application:29 - Interval Update 10
+10:26:49,277  INFO Application:57 - List Of Actives Products: 
+10:26:49,277  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:26:49,277  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:26:49,277  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:26:49,278  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:26:49,278  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:26:49,278  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:26:49,278  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:26:49,293  INFO Application:71 - Product Code Size 6
+10:26:49,323  INFO Application:67 - Update Succeed
+10:26:59,323  INFO Application:29 - Interval Update 10
+10:26:59,348  INFO Application:57 - List Of Actives Products: 
+10:26:59,348  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:26:59,348  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:26:59,348  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:26:59,349  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:26:59,349  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:26:59,349  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:26:59,349  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:26:59,362  INFO Application:71 - Product Code Size 6
+10:26:59,387  INFO Application:67 - Update Succeed
+10:27:09,403  INFO Application:29 - Interval Update 10
+10:27:09,431  INFO Application:57 - List Of Actives Products: 
+10:27:09,431  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:27:09,431  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:27:09,431  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:27:09,432  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:27:09,432  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:27:09,432  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:27:09,432  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:27:09,452  INFO Application:71 - Product Code Size 6
+10:27:09,482  INFO Application:67 - Update Succeed
+10:27:19,488  INFO Application:29 - Interval Update 10
+10:27:19,517  INFO Application:57 - List Of Actives Products: 
+10:27:19,517  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:27:19,517  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:27:19,517  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:27:19,517  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:27:19,517  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:27:19,517  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:27:19,518  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:27:19,532  INFO Application:71 - Product Code Size 6
+10:27:19,552  INFO Application:67 - Update Succeed
+10:27:29,565  INFO Application:29 - Interval Update 10
+10:27:29,587  INFO Application:57 - List Of Actives Products: 
+10:27:29,588  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:27:29,588  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:27:29,588  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:27:29,588  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:27:29,588  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:27:29,588  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:27:29,588  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:27:29,601  INFO Application:71 - Product Code Size 6
+10:27:29,621  INFO Application:67 - Update Succeed
+10:27:39,634  INFO Application:29 - Interval Update 10
+10:27:39,663  INFO Application:55 - No Active Products
+10:27:49,675  INFO Application:29 - Interval Update 10
+10:27:49,727  INFO Application:55 - No Active Products
+10:27:59,733  INFO Application:29 - Interval Update 10
+10:27:59,802  INFO Application:57 - List Of Actives Products: 
+10:27:59,802  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:27:59,802  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:27:59,802  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:27:59,802  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:27:59,802  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:27:59,802  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:27:59,802  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:27:59,827  INFO Application:71 - Product Code Size 6
+10:27:59,867  INFO Application:67 - Update Succeed
+10:28:09,881  INFO Application:29 - Interval Update 10
+10:28:09,910  INFO Application:57 - List Of Actives Products: 
+10:28:09,910  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:28:09,910  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:28:09,910  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:28:09,910  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:28:09,910  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:28:09,910  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:28:09,910  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:28:09,942  INFO Application:71 - Product Code Size 6
+10:28:09,973  INFO Application:67 - Update Succeed
+10:28:19,978  INFO Application:29 - Interval Update 10
+10:28:20,014  INFO Application:57 - List Of Actives Products: 
+10:28:20,014  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:28:20,014  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:28:20,014  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:28:20,014  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:28:20,014  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:28:20,015  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:28:20,015  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:28:20,035  INFO Application:71 - Product Code Size 6
+10:28:20,079  INFO Application:67 - Update Succeed
+10:28:30,084  INFO Application:29 - Interval Update 10
+10:28:30,107  INFO Application:57 - List Of Actives Products: 
+10:28:30,107  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:28:30,107  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:28:30,107  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:28:30,107  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:28:30,108  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:28:30,108  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:28:30,108  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:28:30,131  INFO Application:71 - Product Code Size 6
+10:28:30,152  INFO Application:67 - Update Succeed
+10:28:40,154  INFO Application:29 - Interval Update 10
+10:28:40,178  INFO Application:57 - List Of Actives Products: 
+10:28:40,178  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:28:40,178  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:28:40,178  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:28:40,178  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:28:40,178  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:28:40,178  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:28:40,178  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:28:40,191  INFO Application:71 - Product Code Size 6
+10:28:40,208  INFO Application:67 - Update Succeed
+10:28:50,209  INFO Application:29 - Interval Update 10
+10:28:50,237  INFO Application:57 - List Of Actives Products: 
+10:28:50,237  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:28:50,237  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:28:50,237  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:28:50,237  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:28:50,237  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:28:50,237  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:28:50,237  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:28:50,265  INFO Application:71 - Product Code Size 6
+10:28:50,301  INFO Application:67 - Update Succeed
+10:29:00,311  INFO Application:29 - Interval Update 10
+10:29:00,326  INFO Application:57 - List Of Actives Products: 
+10:29:00,326  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:29:00,326  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:29:00,326  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:29:00,327  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:29:00,327  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:29:00,327  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:29:00,327  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:29:00,340  INFO Application:71 - Product Code Size 6
+10:29:00,360  INFO Application:67 - Update Succeed
+10:29:10,369  INFO Application:29 - Interval Update 10
+10:29:10,396  INFO Application:57 - List Of Actives Products: 
+10:29:10,396  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:29:10,396  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:29:10,396  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:29:10,396  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:29:10,396  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:29:10,396  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:29:10,396  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:29:10,412  INFO Application:71 - Product Code Size 6
+10:29:10,441  INFO Application:67 - Update Succeed
+10:29:20,455  INFO Application:29 - Interval Update 10
+10:29:20,486  INFO Application:57 - List Of Actives Products: 
+10:29:20,486  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:29:20,486  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:29:20,486  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:29:20,487  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:29:20,487  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:29:20,487  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:29:20,487  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:29:20,501  INFO Application:71 - Product Code Size 6
+10:29:20,531  INFO Application:67 - Update Succeed
+10:29:30,546  INFO Application:29 - Interval Update 10
+10:29:30,568  INFO Application:57 - List Of Actives Products: 
+10:29:30,568  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:29:30,569  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:29:30,569  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:29:30,569  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:29:30,569  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:29:30,569  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:29:30,569  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:29:30,590  INFO Application:71 - Product Code Size 6
+10:29:30,621  INFO Application:67 - Update Succeed
+10:29:40,629  INFO Application:29 - Interval Update 10
+10:29:40,640  INFO Application:57 - List Of Actives Products: 
+10:29:40,640  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:29:40,640  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:29:40,640  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:29:40,640  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:29:40,640  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:29:40,640  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:29:40,640  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:29:40,651  INFO Application:71 - Product Code Size 6
+10:29:40,671  INFO Application:67 - Update Succeed
+10:29:50,673  INFO Application:29 - Interval Update 10
+10:29:50,690  INFO Application:57 - List Of Actives Products: 
+10:29:50,691  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:29:50,691  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:29:50,691  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:29:50,691  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:29:50,691  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:29:50,691  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:29:50,692  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:29:50,710  INFO Application:71 - Product Code Size 6
+10:29:50,723  INFO Application:67 - Update Succeed
+10:30:00,731  INFO Application:29 - Interval Update 10
+10:30:00,745  INFO Application:57 - List Of Actives Products: 
+10:30:00,745  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:30:00,746  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:30:00,746  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:30:00,746  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:30:00,746  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:30:00,746  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:30:00,746  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:30:00,760  INFO Application:71 - Product Code Size 6
+10:30:00,780  INFO Application:67 - Update Succeed
+10:30:10,792  INFO Application:29 - Interval Update 10
+10:30:10,815  INFO Application:57 - List Of Actives Products: 
+10:30:10,815  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:30:10,815  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:30:10,815  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:30:10,815  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:30:10,815  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:30:10,815  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:30:10,816  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:30:10,829  INFO Application:71 - Product Code Size 6
+10:30:10,853  INFO Application:67 - Update Succeed
+10:30:20,859  INFO Application:29 - Interval Update 10
+10:30:20,874  INFO Application:57 - List Of Actives Products: 
+10:30:20,874  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:30:20,874  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:30:20,874  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:30:20,874  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:30:20,874  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:30:20,874  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:30:20,874  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:30:20,880  INFO Application:71 - Product Code Size 6
+10:30:20,911  INFO Application:67 - Update Succeed
+10:30:30,926  INFO Application:29 - Interval Update 10
+10:30:30,949  INFO Application:57 - List Of Actives Products: 
+10:30:30,949  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:30:30,949  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:30:30,949  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:30:30,949  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:30:30,950  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:30:30,950  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:30:30,950  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:30:30,960  INFO Application:71 - Product Code Size 6
+10:30:30,989  INFO Application:67 - Update Succeed
+10:30:47,283  INFO Application:29 - Interval Update 10
+10:30:50,550  INFO Application:57 - List Of Actives Products: 
+10:30:50,550  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:30:50,551  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:30:50,551  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:30:50,551  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:30:50,552  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:30:50,552  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:30:50,552  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:30:50,559  INFO Application:71 - Product Code Size 6
+10:30:50,599  INFO Application:67 - Update Succeed
+10:31:00,610  INFO Application:29 - Interval Update 10
+10:31:00,648  INFO Application:57 - List Of Actives Products: 
+10:31:00,648  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:31:00,648  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:31:00,648  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:31:00,650  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:31:00,650  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:31:00,650  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:31:00,650  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:31:00,660  INFO Application:71 - Product Code Size 6
+10:31:00,690  INFO Application:67 - Update Succeed
+10:31:29,434  INFO Application:30 - Interval Update 10
+10:31:32,435  INFO Application:56 - List Of Actives Products: 
+10:31:32,435  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:31:32,436  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:31:32,436  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:31:32,436  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+10:31:32,437  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+10:31:32,437  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+10:31:32,437  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:31:32,459  INFO Application:71 - Product Code Size 6
+10:31:32,499  INFO Application:66 - Update Succeed
+10:32:17,765  INFO Application:29 - Interval Update 10
+10:32:20,718  INFO Application:57 - List Of Actives Products: 
+10:32:20,719  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:32:20,719  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 0 | 1
+10:32:20,719  INFO Application:62 - 304 | PLN20 | 19,975.00 | 0 | 1
+10:32:20,719  INFO Application:62 - 303 | S25 | 24,775.00 | 0 | 1
+10:32:20,720  INFO Application:62 - 303 | S50 | 48,600.00 | 0 | 1
+10:32:20,720  INFO Application:62 - 303 | S100 | 96,325.00 | 0 | 1
+10:32:20,720  INFO Application:62 - 304 | PLN100 | 99,975.00 | 0 | 1
+10:32:20,722  INFO Application:71 - Product Code Size 6
+10:32:20,732  INFO Application:67 - Update Succeed
+10:32:30,743  INFO Application:29 - Interval Update 10
+10:32:30,747  INFO Application:57 - List Of Actives Products: 
+10:32:30,748  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:32:30,748  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:32:30,748  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:32:30,749  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:32:30,749  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:32:30,749  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:32:30,749  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:32:30,749  INFO Application:71 - Product Code Size 6
+10:32:30,755  INFO Application:67 - Update Succeed
+10:32:40,769  INFO Application:29 - Interval Update 10
+10:32:40,771  INFO Application:57 - List Of Actives Products: 
+10:32:40,771  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:32:40,771  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:32:40,771  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:32:40,771  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:32:40,771  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:32:40,771  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:32:40,771  INFO Application:62 - 304 | PLN100 | 99,975.00 | 1 | 1
+10:32:40,772  INFO Application:71 - Product Code Size 6
+10:32:40,774  INFO Application:67 - Update Succeed
+10:32:50,778  INFO Application:29 - Interval Update 60
+10:32:50,782  INFO Application:57 - List Of Actives Products: 
+10:32:50,782  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:32:50,782  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:32:50,782  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:32:50,783  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:32:50,783  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:32:50,783  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:32:50,783  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:32:50,784  INFO Application:71 - Product Code Size 6
+10:32:50,788  INFO Application:67 - Update Succeed
+10:33:50,793  INFO Application:29 - Interval Update 60
+10:33:50,796  INFO Application:57 - List Of Actives Products: 
+10:33:50,796  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:33:50,797  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:33:50,797  INFO Application:62 - 304 | PLN20 | 19,975.00 | 1 | 1
+10:33:50,797  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+10:33:50,797  INFO Application:62 - 303 | S50 | 48,600.00 | 1 | 1
+10:33:50,797  INFO Application:62 - 303 | S100 | 96,325.00 | 1 | 1
+10:33:50,797  INFO Application:62 - 304 | PLN100 | 99,975.00 | 1 | 1
+10:33:50,797  INFO Application:71 - Product Code Size 6
+10:33:50,801  INFO Application:67 - Update Succeed
+10:34:50,807  INFO Application:29 - Interval Update 60
+10:34:50,811  INFO Application:57 - List Of Actives Products: 
+10:34:50,811  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:34:50,811  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:34:50,811  INFO Application:62 - 304 | PLN20 | 19,975.00 | 1 | 1
+10:34:50,811  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+10:34:50,811  INFO Application:62 - 303 | S50 | 48,600.00 | 1 | 1
+10:34:50,811  INFO Application:62 - 303 | S100 | 96,325.00 | 1 | 1
+10:34:50,811  INFO Application:62 - 304 | PLN100 | 99,975.00 | 1 | 1
+10:34:50,812  INFO Application:71 - Product Code Size 6
+10:34:50,816  INFO Application:67 - Update Succeed
+10:35:50,823  INFO Application:29 - Interval Update 60
+10:35:50,830  INFO Application:57 - List Of Actives Products: 
+10:35:50,830  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+10:35:50,830  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+10:35:50,830  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+10:35:50,831  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+10:35:50,831  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+10:35:50,831  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+10:35:50,831  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+10:35:50,832  INFO Application:71 - Product Code Size 6
+10:35:50,838  INFO Application:67 - Update Succeed
+13:33:55,320  INFO Application:29 - Interval Update 5
+13:33:55,322 FATAL Application:74 - 
+13:34:00,324  INFO Application:29 - Interval Update 5
+13:34:00,324 FATAL Application:74 - 
+13:34:05,325  INFO Application:29 - Interval Update 5
+13:34:05,325 FATAL Application:74 - 
+13:34:10,328  INFO Application:29 - Interval Update 5
+13:34:10,329 FATAL Application:74 - 
+13:34:15,342  INFO Application:29 - Interval Update 5
+13:34:15,342 FATAL Application:74 - 
+13:34:27,573  INFO Application:29 - Interval Update 5
+13:34:30,919  INFO Application:55 - No Active Products
+13:34:35,922  INFO Application:29 - Interval Update 5
+13:34:35,933  INFO Application:55 - No Active Products
+13:34:40,937  INFO Application:29 - Interval Update 5
+13:34:40,947  INFO Application:55 - No Active Products
+13:34:45,950  INFO Application:29 - Interval Update 5
+13:34:45,960  INFO Application:55 - No Active Products
+13:34:50,961  INFO Application:29 - Interval Update 5
+13:34:50,971  INFO Application:55 - No Active Products
+13:34:55,976  INFO Application:29 - Interval Update 5
+13:34:55,987  INFO Application:55 - No Active Products
+13:35:00,995  INFO Application:29 - Interval Update 5
+13:35:01,005  INFO Application:55 - No Active Products
+13:35:06,019  INFO Application:29 - Interval Update 5
+13:35:06,030  INFO Application:55 - No Active Products
+13:35:11,041  INFO Application:29 - Interval Update 5
+13:35:11,057  INFO Application:55 - No Active Products
+13:35:16,065  INFO Application:29 - Interval Update 5
+13:35:16,072  INFO Application:55 - No Active Products
+13:35:21,081  INFO Application:29 - Interval Update 5
+13:35:21,092  INFO Application:55 - No Active Products
+13:35:26,101  INFO Application:29 - Interval Update 5
+13:35:26,113  INFO Application:55 - No Active Products
+13:35:37,678  INFO Application:29 - Interval Update 5
+13:35:39,894  INFO Application:55 - No Active Products
+13:35:44,906  INFO Application:29 - Interval Update 5
+13:35:44,915  INFO Application:55 - No Active Products
+13:35:49,923  INFO Application:29 - Interval Update 5
+13:35:49,936  INFO Application:55 - No Active Products
+13:35:54,949  INFO Application:29 - Interval Update 5
+13:35:54,962  INFO Application:55 - No Active Products
+13:35:59,964  INFO Application:29 - Interval Update 5
+13:35:59,973  INFO Application:55 - No Active Products
+13:36:04,979  INFO Application:29 - Interval Update 5
+13:36:04,990  INFO Application:55 - No Active Products
+13:36:10,000  INFO Application:29 - Interval Update 5
+13:36:10,015  INFO Application:55 - No Active Products
+13:36:15,028  INFO Application:29 - Interval Update 5
+13:36:15,039  INFO Application:55 - No Active Products
+13:36:20,045  INFO Application:29 - Interval Update 5
+13:36:20,052  INFO Application:55 - No Active Products
+13:36:25,052  INFO Application:29 - Interval Update 5
+13:36:25,062  INFO Application:55 - No Active Products
+13:36:30,074  INFO Application:29 - Interval Update 5
+13:36:30,088  INFO Application:55 - No Active Products
+13:36:35,094  INFO Application:29 - Interval Update 5
+13:36:35,113  INFO Application:55 - No Active Products
+13:36:40,114  INFO Application:29 - Interval Update 5
+13:36:40,123  INFO Application:55 - No Active Products
+13:36:45,132  INFO Application:29 - Interval Update 5
+13:36:45,142  INFO Application:55 - No Active Products
+13:36:50,154  INFO Application:29 - Interval Update 5
+13:36:50,162  INFO Application:55 - No Active Products
+13:36:55,167  INFO Application:29 - Interval Update 5
+13:36:55,189  INFO Application:55 - No Active Products
+13:37:00,193  INFO Application:29 - Interval Update 5
+13:37:00,204  INFO Application:55 - No Active Products
+13:37:05,217  INFO Application:29 - Interval Update 5
+13:37:05,234  INFO Application:55 - No Active Products
+13:37:10,241  INFO Application:29 - Interval Update 5
+13:37:10,252  INFO Application:55 - No Active Products
+13:37:15,253  INFO Application:29 - Interval Update 5
+13:37:15,266  INFO Application:55 - No Active Products
+13:37:20,267  INFO Application:29 - Interval Update 5
+13:37:20,290  INFO Application:55 - No Active Products
+13:37:25,294  INFO Application:29 - Interval Update 5
+13:37:25,309  INFO Application:55 - No Active Products
+13:37:30,317  INFO Application:29 - Interval Update 5
+13:37:30,328  INFO Application:55 - No Active Products
+13:37:35,330  INFO Application:29 - Interval Update 5
+13:37:35,346  INFO Application:55 - No Active Products
+13:37:40,356  INFO Application:29 - Interval Update 5
+13:37:40,367  INFO Application:55 - No Active Products
+13:37:45,371  INFO Application:29 - Interval Update 5
+13:37:45,379  INFO Application:55 - No Active Products
+13:37:50,395  INFO Application:29 - Interval Update 5
+13:37:50,409  INFO Application:57 - List Of Actives Products: 
+13:37:50,409  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:37:50,409  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:37:50,409  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:37:50,415  INFO Application:71 - Product Code Size 2
+13:37:50,430  INFO Application:67 - Update Succeed
+13:37:55,433  INFO Application:29 - Interval Update 5
+13:37:55,443  INFO Application:57 - List Of Actives Products: 
+13:37:55,443  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:37:55,443  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:37:55,444  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:37:55,447  INFO Application:71 - Product Code Size 2
+13:37:55,455  INFO Application:67 - Update Succeed
+13:38:00,465  INFO Application:29 - Interval Update 5
+13:38:00,474  INFO Application:57 - List Of Actives Products: 
+13:38:00,474  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:00,474  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:00,474  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:00,476  INFO Application:71 - Product Code Size 2
+13:38:00,486  INFO Application:67 - Update Succeed
+13:38:05,488  INFO Application:29 - Interval Update 5
+13:38:05,501  INFO Application:57 - List Of Actives Products: 
+13:38:05,501  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:05,501  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:05,501  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:05,504  INFO Application:71 - Product Code Size 2
+13:38:05,512  INFO Application:67 - Update Succeed
+13:38:10,513  INFO Application:29 - Interval Update 5
+13:38:10,523  INFO Application:57 - List Of Actives Products: 
+13:38:10,523  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:10,523  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:10,523  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:10,526  INFO Application:71 - Product Code Size 2
+13:38:10,536  INFO Application:67 - Update Succeed
+13:38:15,542  INFO Application:29 - Interval Update 5
+13:38:15,551  INFO Application:57 - List Of Actives Products: 
+13:38:15,551  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:15,551  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:15,551  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:15,554  INFO Application:71 - Product Code Size 2
+13:38:15,562  INFO Application:67 - Update Succeed
+13:38:20,569  INFO Application:29 - Interval Update 5
+13:38:20,583  INFO Application:57 - List Of Actives Products: 
+13:38:20,583  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:20,583  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:20,583  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:20,588  INFO Application:71 - Product Code Size 2
+13:38:20,601  INFO Application:67 - Update Succeed
+13:38:25,605  INFO Application:29 - Interval Update 5
+13:38:25,619  INFO Application:57 - List Of Actives Products: 
+13:38:25,619  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:25,619  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:25,619  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:25,622  INFO Application:71 - Product Code Size 2
+13:38:25,631  INFO Application:67 - Update Succeed
+13:38:30,639  INFO Application:29 - Interval Update 5
+13:38:30,647  INFO Application:57 - List Of Actives Products: 
+13:38:30,647  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:30,647  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:30,647  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:30,650  INFO Application:71 - Product Code Size 2
+13:38:30,658  INFO Application:67 - Update Succeed
+13:38:35,665  INFO Application:29 - Interval Update 5
+13:38:35,675  INFO Application:57 - List Of Actives Products: 
+13:38:35,675  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:35,675  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:35,675  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:35,679  INFO Application:71 - Product Code Size 2
+13:38:35,689  INFO Application:67 - Update Succeed
+13:38:40,690  INFO Application:29 - Interval Update 5
+13:38:40,703  INFO Application:57 - List Of Actives Products: 
+13:38:40,703  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:40,703  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:40,703  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:40,705  INFO Application:71 - Product Code Size 2
+13:38:40,717  INFO Application:67 - Update Succeed
+13:38:45,726  INFO Application:29 - Interval Update 5
+13:38:45,741  INFO Application:57 - List Of Actives Products: 
+13:38:45,741  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:45,741  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:45,741  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:45,744  INFO Application:71 - Product Code Size 2
+13:38:45,759  INFO Application:67 - Update Succeed
+13:38:50,761  INFO Application:29 - Interval Update 5
+13:38:50,773  INFO Application:57 - List Of Actives Products: 
+13:38:50,773  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:50,773  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:50,773  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:50,776  INFO Application:71 - Product Code Size 2
+13:38:50,814  INFO Application:67 - Update Succeed
+13:38:55,828  INFO Application:29 - Interval Update 5
+13:38:55,838  INFO Application:57 - List Of Actives Products: 
+13:38:55,838  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:38:55,838  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:38:55,838  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:38:55,842  INFO Application:71 - Product Code Size 2
+13:38:55,853  INFO Application:67 - Update Succeed
+13:39:00,869  INFO Application:29 - Interval Update 5
+13:39:00,879  INFO Application:57 - List Of Actives Products: 
+13:39:00,879  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:00,880  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:00,880  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:00,883  INFO Application:71 - Product Code Size 2
+13:39:00,897  INFO Application:67 - Update Succeed
+13:39:05,903  INFO Application:29 - Interval Update 5
+13:39:05,914  INFO Application:57 - List Of Actives Products: 
+13:39:05,915  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:05,915  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:05,915  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:05,918  INFO Application:71 - Product Code Size 2
+13:39:05,927  INFO Application:67 - Update Succeed
+13:39:10,928  INFO Application:29 - Interval Update 5
+13:39:10,939  INFO Application:57 - List Of Actives Products: 
+13:39:10,939  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:10,940  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:10,940  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:10,943  INFO Application:71 - Product Code Size 2
+13:39:10,953  INFO Application:67 - Update Succeed
+13:39:15,966  INFO Application:29 - Interval Update 5
+13:39:15,974  INFO Application:57 - List Of Actives Products: 
+13:39:15,975  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:15,975  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:15,975  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:15,978  INFO Application:71 - Product Code Size 2
+13:39:15,988  INFO Application:67 - Update Succeed
+13:39:20,988  INFO Application:29 - Interval Update 5
+13:39:20,999  INFO Application:57 - List Of Actives Products: 
+13:39:20,999  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:20,999  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:20,999  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:21,002  INFO Application:71 - Product Code Size 2
+13:39:21,011  INFO Application:67 - Update Succeed
+13:39:26,013  INFO Application:29 - Interval Update 5
+13:39:26,022  INFO Application:57 - List Of Actives Products: 
+13:39:26,022  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:26,022  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:26,022  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:26,024  INFO Application:71 - Product Code Size 2
+13:39:26,032  INFO Application:67 - Update Succeed
+13:39:31,034  INFO Application:29 - Interval Update 5
+13:39:31,050  INFO Application:57 - List Of Actives Products: 
+13:39:31,050  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:31,050  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:31,050  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:31,054  INFO Application:71 - Product Code Size 2
+13:39:31,069  INFO Application:67 - Update Succeed
+13:39:36,083  INFO Application:29 - Interval Update 5
+13:39:36,092  INFO Application:57 - List Of Actives Products: 
+13:39:36,092  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:36,092  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:36,092  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:36,094  INFO Application:71 - Product Code Size 2
+13:39:36,102  INFO Application:67 - Update Succeed
+13:39:41,112  INFO Application:29 - Interval Update 5
+13:39:41,124  INFO Application:57 - List Of Actives Products: 
+13:39:41,124  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:41,124  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:41,124  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:41,128  INFO Application:71 - Product Code Size 2
+13:39:41,141  INFO Application:67 - Update Succeed
+13:39:46,156  INFO Application:29 - Interval Update 5
+13:39:46,168  INFO Application:57 - List Of Actives Products: 
+13:39:46,168  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:46,168  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:46,168  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:46,171  INFO Application:71 - Product Code Size 2
+13:39:46,184  INFO Application:67 - Update Succeed
+13:39:51,194  INFO Application:29 - Interval Update 5
+13:39:51,209  INFO Application:57 - List Of Actives Products: 
+13:39:51,209  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:51,209  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:51,209  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:51,214  INFO Application:71 - Product Code Size 2
+13:39:51,241  INFO Application:67 - Update Succeed
+13:39:56,247  INFO Application:29 - Interval Update 5
+13:39:56,259  INFO Application:57 - List Of Actives Products: 
+13:39:56,259  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:39:56,259  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:39:56,259  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:39:56,262  INFO Application:71 - Product Code Size 2
+13:39:56,273  INFO Application:67 - Update Succeed
+13:40:01,276  INFO Application:29 - Interval Update 5
+13:40:01,286  INFO Application:57 - List Of Actives Products: 
+13:40:01,286  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:01,286  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:01,286  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:01,289  INFO Application:71 - Product Code Size 2
+13:40:01,297  INFO Application:67 - Update Succeed
+13:40:06,309  INFO Application:29 - Interval Update 5
+13:40:06,317  INFO Application:57 - List Of Actives Products: 
+13:40:06,318  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:06,318  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:06,318  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:06,320  INFO Application:71 - Product Code Size 2
+13:40:06,331  INFO Application:67 - Update Succeed
+13:40:11,340  INFO Application:29 - Interval Update 5
+13:40:11,354  INFO Application:57 - List Of Actives Products: 
+13:40:11,355  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:11,355  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:11,355  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:11,358  INFO Application:71 - Product Code Size 2
+13:40:11,366  INFO Application:67 - Update Succeed
+13:40:16,374  INFO Application:29 - Interval Update 5
+13:40:16,385  INFO Application:57 - List Of Actives Products: 
+13:40:16,385  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:16,385  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:16,385  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:16,389  INFO Application:71 - Product Code Size 2
+13:40:16,399  INFO Application:67 - Update Succeed
+13:40:21,415  INFO Application:29 - Interval Update 5
+13:40:21,425  INFO Application:57 - List Of Actives Products: 
+13:40:21,425  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:21,425  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:21,425  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:21,430  INFO Application:71 - Product Code Size 2
+13:40:21,438  INFO Application:67 - Update Succeed
+13:40:26,449  INFO Application:29 - Interval Update 5
+13:40:26,457  INFO Application:57 - List Of Actives Products: 
+13:40:26,457  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:26,458  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:26,458  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:26,461  INFO Application:71 - Product Code Size 2
+13:40:26,470  INFO Application:67 - Update Succeed
+13:40:31,481  INFO Application:29 - Interval Update 5
+13:40:31,490  INFO Application:57 - List Of Actives Products: 
+13:40:31,490  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:31,490  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:31,490  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:31,493  INFO Application:71 - Product Code Size 2
+13:40:31,502  INFO Application:67 - Update Succeed
+13:40:36,507  INFO Application:29 - Interval Update 5
+13:40:36,517  INFO Application:57 - List Of Actives Products: 
+13:40:36,517  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:36,517  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:36,517  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:36,520  INFO Application:71 - Product Code Size 2
+13:40:36,531  INFO Application:67 - Update Succeed
+13:40:41,543  INFO Application:29 - Interval Update 5
+13:40:41,551  INFO Application:57 - List Of Actives Products: 
+13:40:41,551  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:41,551  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:41,551  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:41,553  INFO Application:71 - Product Code Size 2
+13:40:41,564  INFO Application:67 - Update Succeed
+13:40:46,565  INFO Application:29 - Interval Update 5
+13:40:46,575  INFO Application:57 - List Of Actives Products: 
+13:40:46,575  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:46,575  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:46,575  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:46,578  INFO Application:71 - Product Code Size 2
+13:40:46,585  INFO Application:67 - Update Succeed
+13:40:51,588  INFO Application:29 - Interval Update 5
+13:40:51,602  INFO Application:57 - List Of Actives Products: 
+13:40:51,602  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:51,602  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:51,602  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:51,604  INFO Application:71 - Product Code Size 2
+13:40:51,618  INFO Application:67 - Update Succeed
+13:40:56,627  INFO Application:29 - Interval Update 5
+13:40:56,640  INFO Application:57 - List Of Actives Products: 
+13:40:56,640  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:40:56,640  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:40:56,640  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:40:56,645  INFO Application:71 - Product Code Size 2
+13:40:56,656  INFO Application:67 - Update Succeed
+13:41:01,663  INFO Application:29 - Interval Update 5
+13:41:01,675  INFO Application:57 - List Of Actives Products: 
+13:41:01,675  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:01,675  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:01,675  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:01,678  INFO Application:71 - Product Code Size 2
+13:41:01,687  INFO Application:67 - Update Succeed
+13:41:06,692  INFO Application:29 - Interval Update 5
+13:41:06,702  INFO Application:57 - List Of Actives Products: 
+13:41:06,702  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:06,702  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:06,702  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:06,706  INFO Application:71 - Product Code Size 2
+13:41:06,715  INFO Application:67 - Update Succeed
+13:41:11,715  INFO Application:29 - Interval Update 5
+13:41:11,726  INFO Application:57 - List Of Actives Products: 
+13:41:11,726  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:11,726  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:11,726  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:11,730  INFO Application:71 - Product Code Size 2
+13:41:11,741  INFO Application:67 - Update Succeed
+13:41:16,748  INFO Application:29 - Interval Update 5
+13:41:16,759  INFO Application:57 - List Of Actives Products: 
+13:41:16,759  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:16,760  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:16,761  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:16,764  INFO Application:71 - Product Code Size 2
+13:41:16,777  INFO Application:67 - Update Succeed
+13:41:21,792  INFO Application:29 - Interval Update 5
+13:41:21,802  INFO Application:57 - List Of Actives Products: 
+13:41:21,802  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:21,802  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:21,802  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:21,805  INFO Application:71 - Product Code Size 2
+13:41:21,814  INFO Application:67 - Update Succeed
+13:41:26,823  INFO Application:29 - Interval Update 5
+13:41:26,833  INFO Application:57 - List Of Actives Products: 
+13:41:26,833  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:26,833  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:26,833  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:26,837  INFO Application:71 - Product Code Size 2
+13:41:26,846  INFO Application:67 - Update Succeed
+13:41:31,850  INFO Application:29 - Interval Update 5
+13:41:31,859  INFO Application:57 - List Of Actives Products: 
+13:41:31,859  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:31,859  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:31,859  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:31,863  INFO Application:71 - Product Code Size 2
+13:41:31,872  INFO Application:67 - Update Succeed
+13:41:36,878  INFO Application:29 - Interval Update 5
+13:41:36,888  INFO Application:57 - List Of Actives Products: 
+13:41:36,888  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:36,888  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:36,888  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:36,892  INFO Application:71 - Product Code Size 2
+13:41:36,907  INFO Application:67 - Update Succeed
+13:41:41,920  INFO Application:29 - Interval Update 5
+13:41:41,931  INFO Application:57 - List Of Actives Products: 
+13:41:41,931  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:41,931  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:41,931  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:41,936  INFO Application:71 - Product Code Size 2
+13:41:41,944  INFO Application:67 - Update Succeed
+13:41:46,952  INFO Application:29 - Interval Update 5
+13:41:46,962  INFO Application:57 - List Of Actives Products: 
+13:41:46,962  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:46,962  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:46,962  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:46,964  INFO Application:71 - Product Code Size 2
+13:41:46,990  INFO Application:67 - Update Succeed
+13:41:52,004  INFO Application:29 - Interval Update 5
+13:41:52,013  INFO Application:57 - List Of Actives Products: 
+13:41:52,013  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:52,013  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:52,013  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:52,018  INFO Application:71 - Product Code Size 2
+13:41:52,027  INFO Application:67 - Update Succeed
+13:41:57,035  INFO Application:29 - Interval Update 5
+13:41:57,049  INFO Application:57 - List Of Actives Products: 
+13:41:57,049  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:41:57,049  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:41:57,049  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:41:57,051  INFO Application:71 - Product Code Size 2
+13:41:57,065  INFO Application:67 - Update Succeed
+13:42:02,071  INFO Application:29 - Interval Update 5
+13:42:02,082  INFO Application:57 - List Of Actives Products: 
+13:42:02,082  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:02,083  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:02,083  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:02,085  INFO Application:71 - Product Code Size 2
+13:42:02,097  INFO Application:67 - Update Succeed
+13:42:07,102  INFO Application:29 - Interval Update 5
+13:42:07,112  INFO Application:57 - List Of Actives Products: 
+13:42:07,112  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:07,112  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:07,112  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:07,115  INFO Application:71 - Product Code Size 2
+13:42:07,128  INFO Application:67 - Update Succeed
+13:42:12,142  INFO Application:29 - Interval Update 5
+13:42:12,151  INFO Application:57 - List Of Actives Products: 
+13:42:12,151  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:12,151  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:12,151  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:12,155  INFO Application:71 - Product Code Size 2
+13:42:12,164  INFO Application:67 - Update Succeed
+13:42:17,169  INFO Application:29 - Interval Update 5
+13:42:17,180  INFO Application:57 - List Of Actives Products: 
+13:42:17,180  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:17,180  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:17,180  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:17,183  INFO Application:71 - Product Code Size 2
+13:42:17,195  INFO Application:67 - Update Succeed
+13:42:22,206  INFO Application:29 - Interval Update 5
+13:42:22,215  INFO Application:57 - List Of Actives Products: 
+13:42:22,215  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:22,215  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:22,215  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:22,218  INFO Application:71 - Product Code Size 2
+13:42:22,242  INFO Application:67 - Update Succeed
+13:42:27,256  INFO Application:29 - Interval Update 5
+13:42:27,266  INFO Application:57 - List Of Actives Products: 
+13:42:27,266  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:27,266  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:27,266  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:27,272  INFO Application:71 - Product Code Size 2
+13:42:27,294  INFO Application:67 - Update Succeed
+13:42:32,301  INFO Application:29 - Interval Update 5
+13:42:32,328  INFO Application:57 - List Of Actives Products: 
+13:42:32,329  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:32,329  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:32,330  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:32,333  INFO Application:71 - Product Code Size 2
+13:42:32,349  INFO Application:67 - Update Succeed
+13:42:37,360  INFO Application:29 - Interval Update 5
+13:42:37,372  INFO Application:57 - List Of Actives Products: 
+13:42:37,372  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:37,372  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:37,372  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:37,375  INFO Application:71 - Product Code Size 2
+13:42:37,394  INFO Application:67 - Update Succeed
+13:42:42,402  INFO Application:29 - Interval Update 5
+13:42:42,413  INFO Application:57 - List Of Actives Products: 
+13:42:42,413  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:42,413  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:42,413  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:42,416  INFO Application:71 - Product Code Size 2
+13:42:42,427  INFO Application:67 - Update Succeed
+13:42:47,435  INFO Application:29 - Interval Update 5
+13:42:47,448  INFO Application:57 - List Of Actives Products: 
+13:42:47,448  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:47,448  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:47,449  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:47,452  INFO Application:71 - Product Code Size 2
+13:42:47,461  INFO Application:67 - Update Succeed
+13:42:52,472  INFO Application:29 - Interval Update 5
+13:42:52,482  INFO Application:57 - List Of Actives Products: 
+13:42:52,482  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:52,482  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:52,482  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:52,484  INFO Application:71 - Product Code Size 2
+13:42:52,494  INFO Application:67 - Update Succeed
+13:42:57,506  INFO Application:29 - Interval Update 5
+13:42:57,515  INFO Application:57 - List Of Actives Products: 
+13:42:57,515  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:42:57,515  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:42:57,515  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:42:57,519  INFO Application:71 - Product Code Size 2
+13:42:57,527  INFO Application:67 - Update Succeed
+13:43:02,535  INFO Application:29 - Interval Update 5
+13:43:02,551  INFO Application:57 - List Of Actives Products: 
+13:43:02,551  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:02,551  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:02,551  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:02,558  INFO Application:71 - Product Code Size 2
+13:43:02,572  INFO Application:67 - Update Succeed
+13:43:07,573  INFO Application:29 - Interval Update 5
+13:43:07,586  INFO Application:57 - List Of Actives Products: 
+13:43:07,586  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:07,586  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:07,586  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:07,590  INFO Application:71 - Product Code Size 2
+13:43:07,602  INFO Application:67 - Update Succeed
+13:43:12,602  INFO Application:29 - Interval Update 5
+13:43:12,611  INFO Application:57 - List Of Actives Products: 
+13:43:12,611  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:12,611  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:12,611  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:12,614  INFO Application:71 - Product Code Size 2
+13:43:12,623  INFO Application:67 - Update Succeed
+13:43:17,628  INFO Application:29 - Interval Update 5
+13:43:17,638  INFO Application:57 - List Of Actives Products: 
+13:43:17,638  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:17,638  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:17,638  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:17,641  INFO Application:71 - Product Code Size 2
+13:43:17,650  INFO Application:67 - Update Succeed
+13:43:22,661  INFO Application:29 - Interval Update 5
+13:43:22,675  INFO Application:57 - List Of Actives Products: 
+13:43:22,675  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:22,675  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:22,675  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:22,678  INFO Application:71 - Product Code Size 2
+13:43:22,686  INFO Application:67 - Update Succeed
+13:43:27,695  INFO Application:29 - Interval Update 5
+13:43:27,704  INFO Application:57 - List Of Actives Products: 
+13:43:27,704  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:27,704  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:27,704  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:27,709  INFO Application:71 - Product Code Size 2
+13:43:27,720  INFO Application:67 - Update Succeed
+13:43:32,720  INFO Application:29 - Interval Update 5
+13:43:32,801  INFO Application:57 - List Of Actives Products: 
+13:43:32,801  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:32,802  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:32,802  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:32,804  INFO Application:71 - Product Code Size 2
+13:43:32,812  INFO Application:67 - Update Succeed
+13:43:37,820  INFO Application:29 - Interval Update 5
+13:43:37,831  INFO Application:57 - List Of Actives Products: 
+13:43:37,832  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:37,832  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:37,832  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:37,834  INFO Application:71 - Product Code Size 2
+13:43:37,846  INFO Application:67 - Update Succeed
+13:43:42,862  INFO Application:29 - Interval Update 5
+13:43:42,961  INFO Application:57 - List Of Actives Products: 
+13:43:42,961  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:42,961  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:42,961  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:42,966  INFO Application:71 - Product Code Size 2
+13:43:42,977  INFO Application:67 - Update Succeed
+13:43:47,986  INFO Application:29 - Interval Update 5
+13:43:47,995  INFO Application:57 - List Of Actives Products: 
+13:43:47,995  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:47,995  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:47,995  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:47,998  INFO Application:71 - Product Code Size 2
+13:43:48,007  INFO Application:67 - Update Succeed
+13:43:53,022  INFO Application:29 - Interval Update 5
+13:43:53,102  INFO Application:57 - List Of Actives Products: 
+13:43:53,103  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:53,103  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:53,103  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:53,105  INFO Application:71 - Product Code Size 2
+13:43:53,119  INFO Application:67 - Update Succeed
+13:43:58,131  INFO Application:29 - Interval Update 5
+13:43:58,143  INFO Application:57 - List Of Actives Products: 
+13:43:58,143  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:43:58,143  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:43:58,143  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:43:58,145  INFO Application:71 - Product Code Size 2
+13:43:58,153  INFO Application:67 - Update Succeed
+13:44:03,167  INFO Application:29 - Interval Update 5
+13:44:03,246  INFO Application:57 - List Of Actives Products: 
+13:44:03,246  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:03,246  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:44:03,246  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:44:03,249  INFO Application:71 - Product Code Size 2
+13:44:03,265  INFO Application:67 - Update Succeed
+13:44:08,267  INFO Application:29 - Interval Update 5
+13:44:08,283  INFO Application:57 - List Of Actives Products: 
+13:44:08,283  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:08,283  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:44:08,283  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:44:08,288  INFO Application:71 - Product Code Size 2
+13:44:08,304  INFO Application:67 - Update Succeed
+13:44:13,317  INFO Application:29 - Interval Update 5
+13:44:13,366  INFO Application:57 - List Of Actives Products: 
+13:44:13,366  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:13,367  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:44:13,367  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:44:13,369  INFO Application:71 - Product Code Size 2
+13:44:13,381  INFO Application:67 - Update Succeed
+13:44:18,386  INFO Application:29 - Interval Update 5
+13:44:18,396  INFO Application:57 - List Of Actives Products: 
+13:44:18,396  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:18,396  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:44:18,396  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:44:18,399  INFO Application:71 - Product Code Size 2
+13:44:18,407  INFO Application:67 - Update Succeed
+13:44:23,410  INFO Application:29 - Interval Update 5
+13:44:23,501  INFO Application:57 - List Of Actives Products: 
+13:44:23,501  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:23,501  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:44:23,501  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:44:23,501  INFO Application:62 - 303 | S100 | 96,325.00 | 2 | 1
+13:44:23,504  INFO Application:71 - Product Code Size 3
+13:44:23,549  INFO Application:67 - Update Succeed
+13:44:28,552  INFO Application:29 - Interval Update 5
+13:44:28,563  INFO Application:57 - List Of Actives Products: 
+13:44:28,563  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:28,563  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:44:28,564  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:44:28,564  INFO Application:62 - 303 | S50 | 48,600.00 | 2 | 1
+13:44:28,564  INFO Application:62 - 303 | S100 | 96,325.00 | 3 | 1
+13:44:28,564  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:44:28,566  INFO Application:71 - Product Code Size 5
+13:44:28,576  INFO Application:67 - Update Succeed
+13:44:33,578  INFO Application:29 - Interval Update 5
+13:44:33,657  INFO Application:57 - List Of Actives Products: 
+13:44:33,658  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:33,658  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:44:33,658  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:44:33,658  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:44:33,658  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:44:33,658  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:44:33,662  INFO Application:71 - Product Code Size 5
+13:44:33,671  INFO Application:67 - Update Succeed
+13:44:38,683  INFO Application:29 - Interval Update 5
+13:44:38,693  INFO Application:57 - List Of Actives Products: 
+13:44:38,693  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:38,693  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:44:38,693  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:44:38,694  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:44:38,694  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:44:38,694  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:44:38,697  INFO Application:71 - Product Code Size 5
+13:44:38,708  INFO Application:67 - Update Succeed
+13:44:43,722  INFO Application:29 - Interval Update 5
+13:44:43,734  INFO Application:57 - List Of Actives Products: 
+13:44:43,734  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:43,734  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:44:43,734  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:44:43,734  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:44:43,734  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:44:43,734  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:44:43,737  INFO Application:71 - Product Code Size 5
+13:44:43,747  INFO Application:67 - Update Succeed
+13:44:48,751  INFO Application:29 - Interval Update 5
+13:44:48,759  INFO Application:57 - List Of Actives Products: 
+13:44:48,759  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:48,759  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:44:48,759  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:44:48,760  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:44:48,760  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:44:48,760  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:44:48,761  INFO Application:71 - Product Code Size 5
+13:44:48,770  INFO Application:67 - Update Succeed
+13:44:53,782  INFO Application:29 - Interval Update 5
+13:44:53,791  INFO Application:57 - List Of Actives Products: 
+13:44:53,791  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:53,791  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:44:53,791  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:44:53,791  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:44:53,791  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:44:53,792  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:44:53,796  INFO Application:71 - Product Code Size 5
+13:44:53,808  INFO Application:67 - Update Succeed
+13:44:58,816  INFO Application:29 - Interval Update 5
+13:44:58,827  INFO Application:57 - List Of Actives Products: 
+13:44:58,827  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:44:58,827  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:44:58,827  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:44:58,827  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:44:58,827  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:44:58,827  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:44:58,831  INFO Application:71 - Product Code Size 5
+13:44:58,841  INFO Application:67 - Update Succeed
+13:45:03,853  INFO Application:29 - Interval Update 5
+13:45:03,863  INFO Application:57 - List Of Actives Products: 
+13:45:03,863  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:03,863  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:03,863  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:03,863  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:03,863  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:03,863  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:03,866  INFO Application:71 - Product Code Size 5
+13:45:03,879  INFO Application:67 - Update Succeed
+13:45:08,883  INFO Application:29 - Interval Update 5
+13:45:08,893  INFO Application:57 - List Of Actives Products: 
+13:45:08,893  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:08,893  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:08,893  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:08,893  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:08,893  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:08,893  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:08,896  INFO Application:71 - Product Code Size 5
+13:45:08,906  INFO Application:67 - Update Succeed
+13:45:13,910  INFO Application:29 - Interval Update 5
+13:45:13,932  INFO Application:57 - List Of Actives Products: 
+13:45:13,932  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:13,933  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:13,933  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:13,933  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:13,933  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:13,933  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:13,937  INFO Application:71 - Product Code Size 5
+13:45:13,957  INFO Application:67 - Update Succeed
+13:45:18,968  INFO Application:29 - Interval Update 5
+13:45:18,992  INFO Application:57 - List Of Actives Products: 
+13:45:18,992  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:18,992  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:18,992  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:18,992  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:18,992  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:18,992  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:18,997  INFO Application:71 - Product Code Size 5
+13:45:19,017  INFO Application:67 - Update Succeed
+13:45:24,032  INFO Application:29 - Interval Update 5
+13:45:24,048  INFO Application:57 - List Of Actives Products: 
+13:45:24,048  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:24,048  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:24,048  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:24,048  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:24,048  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:24,048  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:24,051  INFO Application:71 - Product Code Size 5
+13:45:24,060  INFO Application:67 - Update Succeed
+13:45:29,066  INFO Application:29 - Interval Update 5
+13:45:29,138  INFO Application:57 - List Of Actives Products: 
+13:45:29,138  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:29,138  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:29,138  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:29,138  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:29,138  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:29,138  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:29,170  INFO Application:71 - Product Code Size 5
+13:45:29,226  INFO Application:67 - Update Succeed
+13:45:34,242  INFO Application:29 - Interval Update 5
+13:45:34,263  INFO Application:57 - List Of Actives Products: 
+13:45:34,263  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:34,263  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:34,263  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:34,263  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:34,263  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:34,263  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:34,267  INFO Application:71 - Product Code Size 5
+13:45:34,285  INFO Application:67 - Update Succeed
+13:45:39,294  INFO Application:29 - Interval Update 5
+13:45:39,302  INFO Application:57 - List Of Actives Products: 
+13:45:39,302  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:39,302  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:39,302  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:39,302  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:39,303  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:39,303  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:39,305  INFO Application:71 - Product Code Size 5
+13:45:39,313  INFO Application:67 - Update Succeed
+13:45:44,318  INFO Application:29 - Interval Update 5
+13:45:44,327  INFO Application:57 - List Of Actives Products: 
+13:45:44,327  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:44,327  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:44,327  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:44,327  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:44,327  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:44,327  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:44,331  INFO Application:71 - Product Code Size 5
+13:45:44,342  INFO Application:67 - Update Succeed
+13:45:49,344  INFO Application:29 - Interval Update 5
+13:45:49,353  INFO Application:57 - List Of Actives Products: 
+13:45:49,353  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:49,353  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:49,353  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:49,353  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:49,354  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:49,354  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:49,356  INFO Application:71 - Product Code Size 5
+13:45:49,415  INFO Application:67 - Update Succeed
+13:45:54,424  INFO Application:29 - Interval Update 5
+13:45:54,434  INFO Application:57 - List Of Actives Products: 
+13:45:54,434  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:54,434  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:54,434  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:54,434  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:54,434  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:54,434  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:54,437  INFO Application:71 - Product Code Size 5
+13:45:54,446  INFO Application:67 - Update Succeed
+13:45:59,448  INFO Application:29 - Interval Update 5
+13:45:59,460  INFO Application:57 - List Of Actives Products: 
+13:45:59,460  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:45:59,460  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:45:59,460  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:45:59,460  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:45:59,460  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:45:59,460  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:45:59,464  INFO Application:71 - Product Code Size 5
+13:45:59,478  INFO Application:67 - Update Succeed
+13:46:04,481  INFO Application:29 - Interval Update 5
+13:46:04,492  INFO Application:57 - List Of Actives Products: 
+13:46:04,492  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:04,492  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:04,492  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:46:04,492  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:46:04,492  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:46:04,492  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:46:04,496  INFO Application:71 - Product Code Size 5
+13:46:04,524  INFO Application:67 - Update Succeed
+13:46:09,524  INFO Application:29 - Interval Update 5
+13:46:09,535  INFO Application:57 - List Of Actives Products: 
+13:46:09,535  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:09,536  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:09,536  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:46:09,537  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:46:09,537  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:46:09,537  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:46:09,541  INFO Application:71 - Product Code Size 5
+13:46:09,557  INFO Application:67 - Update Succeed
+13:46:14,572  INFO Application:29 - Interval Update 5
+13:46:14,584  INFO Application:57 - List Of Actives Products: 
+13:46:14,584  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:14,584  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:14,584  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:46:14,584  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:46:14,584  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:46:14,584  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:46:14,587  INFO Application:71 - Product Code Size 5
+13:46:14,598  INFO Application:67 - Update Succeed
+13:46:19,600  INFO Application:29 - Interval Update 5
+13:46:19,614  INFO Application:57 - List Of Actives Products: 
+13:46:19,614  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:19,614  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:19,614  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:46:19,614  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:46:19,614  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:46:19,614  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:46:19,616  INFO Application:71 - Product Code Size 5
+13:46:19,634  INFO Application:67 - Update Succeed
+13:46:24,648  INFO Application:29 - Interval Update 5
+13:46:24,665  INFO Application:57 - List Of Actives Products: 
+13:46:24,666  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:24,666  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:24,666  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:46:24,666  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:46:24,666  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:46:24,666  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:46:24,671  INFO Application:71 - Product Code Size 5
+13:46:24,683  INFO Application:67 - Update Succeed
+13:46:29,691  INFO Application:29 - Interval Update 5
+13:46:29,699  INFO Application:57 - List Of Actives Products: 
+13:46:29,699  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:29,699  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:29,699  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:46:29,699  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:46:29,699  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:46:29,699  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:46:29,701  INFO Application:71 - Product Code Size 5
+13:46:29,709  INFO Application:67 - Update Succeed
+13:46:34,718  INFO Application:29 - Interval Update 5
+13:46:34,727  INFO Application:57 - List Of Actives Products: 
+13:46:34,727  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:34,727  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:34,728  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:46:34,728  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:46:34,728  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:46:34,728  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:46:34,730  INFO Application:71 - Product Code Size 5
+13:46:34,740  INFO Application:67 - Update Succeed
+13:46:39,741  INFO Application:29 - Interval Update 5
+13:46:39,757  INFO Application:57 - List Of Actives Products: 
+13:46:39,757  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:39,757  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:39,757  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:46:39,758  INFO Application:62 - 303 | S25 | 24,775.00 | 2 | 1
+13:46:39,758  INFO Application:62 - 303 | S50 | 48,600.00 | 3 | 1
+13:46:39,758  INFO Application:62 - 303 | S100 | 96,325.00 | 4 | 1
+13:46:39,758  INFO Application:62 - 304 | PLN100 | 99,975.00 | 5 | 1
+13:46:39,761  INFO Application:71 - Product Code Size 6
+13:46:39,780  INFO Application:67 - Update Succeed
+13:46:44,784  INFO Application:29 - Interval Update 5
+13:46:44,793  INFO Application:57 - List Of Actives Products: 
+13:46:44,793  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:44,793  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:44,793  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:46:44,793  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:46:44,793  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:46:44,793  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:46:44,793  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:46:44,797  INFO Application:71 - Product Code Size 6
+13:46:44,808  INFO Application:67 - Update Succeed
+13:46:49,810  INFO Application:29 - Interval Update 5
+13:46:49,821  INFO Application:57 - List Of Actives Products: 
+13:46:49,821  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:49,821  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:49,821  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:46:49,821  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:46:49,821  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:46:49,821  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:46:49,821  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:46:49,824  INFO Application:71 - Product Code Size 6
+13:46:49,832  INFO Application:67 - Update Succeed
+13:46:54,838  INFO Application:29 - Interval Update 5
+13:46:54,849  INFO Application:57 - List Of Actives Products: 
+13:46:54,849  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:54,849  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:54,849  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:46:54,849  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:46:54,849  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:46:54,849  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:46:54,849  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:46:54,852  INFO Application:71 - Product Code Size 6
+13:46:54,862  INFO Application:67 - Update Succeed
+13:46:59,869  INFO Application:29 - Interval Update 5
+13:46:59,878  INFO Application:57 - List Of Actives Products: 
+13:46:59,878  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:46:59,878  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:46:59,878  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:46:59,878  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:46:59,878  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:46:59,878  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:46:59,878  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:46:59,880  INFO Application:71 - Product Code Size 6
+13:46:59,889  INFO Application:67 - Update Succeed
+13:47:04,899  INFO Application:29 - Interval Update 5
+13:47:04,907  INFO Application:57 - List Of Actives Products: 
+13:47:04,907  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:04,907  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:04,907  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:04,907  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:04,907  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:04,907  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:04,907  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:04,909  INFO Application:71 - Product Code Size 6
+13:47:04,919  INFO Application:67 - Update Succeed
+13:47:09,928  INFO Application:29 - Interval Update 5
+13:47:09,938  INFO Application:57 - List Of Actives Products: 
+13:47:09,938  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:09,938  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:09,938  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:09,938  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:09,938  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:09,938  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:09,938  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:09,941  INFO Application:71 - Product Code Size 6
+13:47:09,950  INFO Application:67 - Update Succeed
+13:47:14,954  INFO Application:29 - Interval Update 5
+13:47:14,967  INFO Application:57 - List Of Actives Products: 
+13:47:14,967  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:14,967  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:14,967  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:14,967  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:14,967  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:14,967  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:14,967  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:14,969  INFO Application:71 - Product Code Size 6
+13:47:14,978  INFO Application:67 - Update Succeed
+13:47:19,991  INFO Application:29 - Interval Update 5
+13:47:19,999  INFO Application:57 - List Of Actives Products: 
+13:47:19,999  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:19,999  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:19,999  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:19,999  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:19,999  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:19,999  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:19,999  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:20,003  INFO Application:71 - Product Code Size 6
+13:47:20,013  INFO Application:67 - Update Succeed
+13:47:25,027  INFO Application:29 - Interval Update 5
+13:47:25,043  INFO Application:57 - List Of Actives Products: 
+13:47:25,043  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:25,043  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:25,043  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:25,043  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:25,043  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:25,043  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:25,043  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:25,046  INFO Application:71 - Product Code Size 6
+13:47:25,062  INFO Application:67 - Update Succeed
+13:47:30,066  INFO Application:29 - Interval Update 5
+13:47:30,079  INFO Application:57 - List Of Actives Products: 
+13:47:30,079  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:30,079  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:30,079  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:30,080  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:30,080  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:30,080  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:30,080  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:30,082  INFO Application:71 - Product Code Size 6
+13:47:30,099  INFO Application:67 - Update Succeed
+13:47:35,103  INFO Application:29 - Interval Update 5
+13:47:35,114  INFO Application:57 - List Of Actives Products: 
+13:47:35,114  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:35,114  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:35,114  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:35,114  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:35,114  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:35,114  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:35,114  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:35,118  INFO Application:71 - Product Code Size 6
+13:47:35,125  INFO Application:67 - Update Succeed
+13:47:40,131  INFO Application:29 - Interval Update 5
+13:47:40,139  INFO Application:57 - List Of Actives Products: 
+13:47:40,139  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:40,139  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:40,139  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:40,139  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:40,139  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:40,139  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:40,139  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:40,141  INFO Application:71 - Product Code Size 6
+13:47:40,149  INFO Application:67 - Update Succeed
+13:47:45,158  INFO Application:29 - Interval Update 5
+13:47:45,168  INFO Application:57 - List Of Actives Products: 
+13:47:45,168  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:45,168  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:45,168  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:45,168  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:45,168  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:45,168  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:45,168  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:45,171  INFO Application:71 - Product Code Size 6
+13:47:45,181  INFO Application:67 - Update Succeed
+13:47:50,194  INFO Application:29 - Interval Update 5
+13:47:50,202  INFO Application:57 - List Of Actives Products: 
+13:47:50,202  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:50,202  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:50,202  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:50,203  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:50,203  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:50,203  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:50,203  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:50,205  INFO Application:71 - Product Code Size 6
+13:47:50,213  INFO Application:67 - Update Succeed
+13:47:55,218  INFO Application:29 - Interval Update 5
+13:47:55,226  INFO Application:57 - List Of Actives Products: 
+13:47:55,226  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:47:55,226  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:47:55,226  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:47:55,226  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:47:55,226  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:47:55,226  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:47:55,228  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:47:55,229  INFO Application:71 - Product Code Size 6
+13:47:55,236  INFO Application:67 - Update Succeed
+13:48:00,243  INFO Application:29 - Interval Update 5
+13:48:00,258  INFO Application:57 - List Of Actives Products: 
+13:48:00,258  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:48:00,258  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:48:00,258  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:48:00,258  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:48:00,258  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:48:00,258  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:48:00,258  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:48:00,260  INFO Application:71 - Product Code Size 6
+13:48:00,272  INFO Application:67 - Update Succeed
+13:48:14,467  INFO Application:29 - Interval Update 5
+13:48:16,904  INFO Application:57 - List Of Actives Products: 
+13:48:16,904  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:48:16,905  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:48:16,905  INFO Application:62 - 304 | PLN20 | 19,975.00 | 1 | 1
+13:48:16,905  INFO Application:62 - 303 | S25 | 24,775.00 | 1 | 1
+13:48:16,905  INFO Application:62 - 303 | S50 | 48,600.00 | 1 | 1
+13:48:16,905  INFO Application:62 - 303 | S100 | 96,325.00 | 1 | 1
+13:48:16,905  INFO Application:62 - 304 | PLN100 | 99,975.00 | 1 | 1
+13:48:16,907  INFO Application:71 - Product Code Size 6
+13:48:16,918  INFO Application:67 - Update Succeed
+13:48:21,925  INFO Application:29 - Interval Update 5
+13:48:21,928  INFO Application:57 - List Of Actives Products: 
+13:48:21,928  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:48:21,928  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:48:21,928  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:48:21,929  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:48:21,929  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:48:21,929  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:48:21,929  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:48:21,931  INFO Application:71 - Product Code Size 6
+13:48:21,933  INFO Application:67 - Update Succeed
+13:48:26,942  INFO Application:29 - Interval Update 5
+13:48:26,945  INFO Application:57 - List Of Actives Products: 
+13:48:26,945  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:48:26,945  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:48:26,945  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:48:26,946  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:48:26,946  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:48:26,946  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:48:26,946  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:48:26,946  INFO Application:71 - Product Code Size 6
+13:48:26,949  INFO Application:67 - Update Succeed
+13:48:31,966  INFO Application:29 - Interval Update 15
+13:48:31,968  INFO Application:57 - List Of Actives Products: 
+13:48:31,968  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:48:31,968  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:48:31,968  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:48:31,968  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:48:31,969  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:48:31,969  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:48:31,969  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:48:31,969  INFO Application:71 - Product Code Size 6
+13:48:31,971  INFO Application:67 - Update Succeed
+13:48:46,978  INFO Application:29 - Interval Update 15
+13:48:46,982  INFO Application:57 - List Of Actives Products: 
+13:48:46,982  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:48:46,982  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:48:46,982  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:48:46,982  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:48:46,982  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:48:46,982  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:48:46,982  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:48:46,983  INFO Application:71 - Product Code Size 6
+13:48:46,987  INFO Application:67 - Update Succeed
+13:51:44,878  INFO Application:29 - Interval Update 15
+13:51:47,690  INFO Application:55 - No Active Products
+13:52:02,704  INFO Application:29 - Interval Update 15
+13:52:02,710  INFO Application:57 - List Of Actives Products: 
+13:52:02,711  INFO Application:59 - kode_modul|kode_produk|harga_beli|prioritas|status 
+13:52:02,711  INFO Application:62 - 304 | CEKPLN20 | 500.00 | 1 | 1
+13:52:02,711  INFO Application:62 - 304 | PLN20 | 19,975.00 | 2 | 1
+13:52:02,712  INFO Application:62 - 303 | S25 | 24,775.00 | 3 | 1
+13:52:02,712  INFO Application:62 - 303 | S50 | 48,600.00 | 4 | 1
+13:52:02,712  INFO Application:62 - 303 | S100 | 96,325.00 | 5 | 1
+13:52:02,712  INFO Application:62 - 304 | PLN100 | 99,975.00 | 6 | 1
+13:52:02,714  INFO Application:71 - Product Code Size 6
+13:52:02,723  INFO Application:67 - Update Succeed

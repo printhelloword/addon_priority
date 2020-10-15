@@ -20,27 +20,28 @@ public class ParsingDBHelper {
         return factory.openSession();
     }
 
-    public List<Object[]> getParsing(String[] arrayModuleCode) {
+    public List<Object[]> getParsing(String[] arrayProductCode) {
 
         Session session = getSession();
 
         List<Object[]> results = null;
         try {
 
-            List<String> moduleCodes = Arrays.asList(arrayModuleCode);
+            List<String> productCodes = Arrays.asList(arrayProductCode);
 
             Query query = session.
                     createNativeQuery("select kode_modul, kode_produk, harga_beli, prioritas, aktif from parsing " +
                             "where aktif=1 " +
                             "and harga_beli is not null " +
-                            "and kode_modul in :moduleCodes " +
+                            "and kode_produk in :productCodes " +
                             "order by harga_beli asc");
-            query.setParameter("moduleCodes", moduleCodes);
+            query.setParameter("productCodes", productCodes);
 
             results = query.getResultList();
 
         } catch (Exception e) {
-            Application.log.debug(" " + e.getMessage());
+            e.printStackTrace();
+            Application.log.fatal(e);
         } finally {
             session.close();
         }
@@ -48,8 +49,8 @@ public class ParsingDBHelper {
         return results;
     }
 
-    public boolean updatePriority(Map collectionModuleCode) {
-        boolean isSuccess=false;
+    public boolean updatePriority(Map collectionProductCode) {
+        boolean isSuccess = false;
         Session session = null;
         Transaction tx = null;
 
@@ -57,30 +58,30 @@ public class ParsingDBHelper {
             session = getSession();
             tx = session.beginTransaction();
             List<String> productCodes = new ArrayList<String>();
-            String sql = "update parsing "+ "SET  prioritas = CASE ";
-            for (Object i : collectionModuleCode.keySet()) {
+            String[] arrayProductCodes = new String[collectionProductCode.size()];
+            String sql = "UPDATE dbo.parsing " + "SET prioritas = CASE ";
+            int iter = 0;
+            for (Object i : collectionProductCode.keySet()) {
+                arrayProductCodes[iter] = i.toString();
                 productCodes.add(i.toString());
-//                Application.log.info("key: " +i.toString()+ " value: " + collectionModuleCode.get(i));
-                sql += " WHEN kode_produk = "+i.toString()+" THEN " +collectionModuleCode.get(i)+ " ";
-                System.out.println("key: " +i.toString()+ " value: " + collectionModuleCode.get(i));
+                sql += "WHEN kode_produk = '" + i.toString() + "' THEN " + collectionProductCode.get(i) + " ";
+                iter++;
             }
             sql += " END WHERE kode_produk IN :productCodes";
-
-            System.out.println(sql);
+            Application.log.info("Product Code Size " + productCodes.size());
 
             Query query = session.
                     createNativeQuery(sql);
-            query.setParameter("productCodes", productCodes.toArray());
+            query.setParameter("productCodes", Arrays.asList(arrayProductCodes));
             query.executeUpdate();
             tx.commit();
-            isSuccess=true;
+            isSuccess = true;
         } catch (Exception e) {
             Application.log.fatal(e);
             e.printStackTrace();
         } finally {
             session.close();
         }
-
         return isSuccess;
     }
 

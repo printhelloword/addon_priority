@@ -11630,3 +11630,200 @@
 07:33:33,679  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
 07:33:33,680 FATAL Application:78 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
 07:33:33,681  INFO Application:68 - Update Failed
+08:15:12,901  INFO Application:30 - Interval Update 6
+08:15:15,717  INFO Application:56 - List Of Actives Products: 
+08:15:15,717  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:15:15,719  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:15:15,719  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:15:15,719  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:15:15,720  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:15:15,720  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:15:15,720  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:15:15,723 FATAL Application:78 - java.lang.IllegalArgumentException: Could not locate named parameter [productCodes], expecting one of []
+08:15:15,725  INFO Application:68 - Update Failed
+08:15:21,732  INFO Application:30 - Interval Update 6
+08:15:21,737  INFO Application:56 - List Of Actives Products: 
+08:15:21,737  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:15:21,738  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:15:21,738  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:15:21,739  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:15:21,739  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:15:21,739  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:15:21,739  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:15:21,740 FATAL Application:78 - java.lang.IllegalArgumentException: Could not locate named parameter [productCodes], expecting one of []
+08:15:21,741  INFO Application:68 - Update Failed
+08:15:53,916  INFO Application:30 - Interval Update 6
+08:16:00,515  INFO Application:56 - List Of Actives Products: 
+08:16:00,515  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:16:00,516  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:16:00,516  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:16:00,516  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:16:00,517  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:16:00,517  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:16:00,517  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:16:00,520 FATAL Application:78 - java.lang.IllegalArgumentException: Could not locate named parameter [productCodes], expecting one of []
+08:16:00,521  INFO Application:68 - Update Failed
+08:16:29,283  INFO Application:30 - Interval Update 6
+08:16:31,519  INFO Application:56 - List Of Actives Products: 
+08:16:31,519  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:16:31,520  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:16:31,520  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:16:31,521  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:16:31,521  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:16:31,521  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:16:31,521  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:16:31,534 FATAL Application:78 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:16:31,536  INFO Application:68 - Update Failed
+08:21:18,349  INFO Application:30 - Interval Update 6
+08:21:24,297  INFO Application:56 - List Of Actives Products: 
+08:21:24,297  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:21:24,298  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:21:24,298  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:21:24,298  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:21:24,298  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:21:24,298  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:21:24,298  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:21:24,308 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:21:24,309  INFO Application:68 - Update Failed
+08:21:30,312  INFO Application:30 - Interval Update 6
+08:21:30,991  INFO Application:56 - List Of Actives Products: 
+08:21:30,991  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:21:30,991  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:21:30,992  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:21:30,993  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:21:30,993  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:21:30,993  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:21:30,993  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:21:30,997 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:21:31,000  INFO Application:68 - Update Failed
+08:21:37,011  INFO Application:30 - Interval Update 6
+08:21:37,016  INFO Application:56 - List Of Actives Products: 
+08:21:37,016  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:21:37,016  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:21:37,016  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:21:37,016  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:21:37,016  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:21:37,016  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:21:37,016  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:21:37,018 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:21:37,019  INFO Application:68 - Update Failed
+08:21:43,031  INFO Application:30 - Interval Update 6
+08:21:43,510  INFO Application:56 - List Of Actives Products: 
+08:21:43,510  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:21:43,510  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:21:43,510  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:21:43,510  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:21:43,510  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:21:43,510  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:21:43,510  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:21:43,514 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:21:43,514  INFO Application:68 - Update Failed
+08:21:49,529  INFO Application:30 - Interval Update 6
+08:21:49,751  INFO Application:56 - List Of Actives Products: 
+08:21:49,751  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:21:49,751  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:21:49,751  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:21:49,751  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:21:49,752  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:21:49,752  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:21:49,752  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:21:49,755 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:21:49,756  INFO Application:68 - Update Failed
+08:22:10,117  INFO Application:30 - Interval Update 6
+08:22:30,863  INFO Application:56 - List Of Actives Products: 
+08:22:30,864  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:22:30,864  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:22:30,864  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:22:30,865  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:22:30,865  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:22:30,865  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:22:30,865  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:22:30,875 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:22:30,876  INFO Application:68 - Update Failed
+08:24:05,258  INFO Application:30 - Interval Update 6
+08:24:07,387  INFO Application:56 - List Of Actives Products: 
+08:24:07,387  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:24:07,388  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:24:07,388  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:24:07,388  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:24:07,389  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:24:07,389  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:24:07,389  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:24:07,398 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:24:07,399  INFO Application:68 - Update Failed
+08:25:46,244  INFO Application:30 - Interval Update 6
+08:25:48,387  INFO Application:56 - List Of Actives Products: 
+08:25:48,387  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:25:48,388  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:25:48,388  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:25:48,388  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:25:48,388  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:25:48,388  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:25:48,388  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:25:48,399 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:25:48,400  INFO Application:68 - Update Failed
+08:26:18,767  INFO Application:30 - Interval Update 6
+08:26:21,019  INFO Application:56 - List Of Actives Products: 
+08:26:21,019  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:26:21,020  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:26:21,020  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:26:21,020  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:26:21,021  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:26:21,021  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:26:21,021  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:26:21,357 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:26:21,358  INFO Application:68 - Update Failed
+08:27:54,266  INFO Application:30 - Interval Update 6
+08:27:56,415  INFO Application:56 - List Of Actives Products: 
+08:27:56,415  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:27:56,415  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:27:56,415  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:27:56,416  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:27:56,416  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:27:56,416  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:27:56,416  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:27:56,754 FATAL Application:80 - javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute statement
+08:27:56,755  INFO Application:68 - Update Failed
+08:32:09,274  INFO Application:30 - Interval Update 6
+08:32:11,423  INFO Application:56 - List Of Actives Products: 
+08:32:11,424  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:32:11,424  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:32:11,424  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:32:11,424  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:32:11,425  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:32:11,425  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:32:11,425  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:32:11,444 FATAL Application:79 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+08:32:11,445  INFO Application:68 - Update Failed
+08:37:24,788  INFO Application:30 - Interval Update 6
+08:37:26,936  INFO Application:56 - List Of Actives Products: 
+08:37:26,936  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:37:26,937  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 0 | 1
+08:37:26,937  INFO Application:61 - 304 | PLN20 | 19,975.00 | 1 | 1
+08:37:26,937  INFO Application:61 - 303 | S25 | 24,775.00 | -1 | 1
+08:37:26,938  INFO Application:61 - 303 | S50 | 48,600.00 | -2 | 1
+08:37:26,938  INFO Application:61 - 303 | S100 | 96,325.00 | -2 | 1
+08:37:26,938  INFO Application:61 - 304 | PLN100 | 99,975.00 | 0 | 1
+08:37:26,940  INFO Application:67 - key: CEKPLN20 value: 1
+08:37:26,940  INFO Application:67 - key: S25 value: 3
+08:37:26,940  INFO Application:67 - key: S100 value: 5
+08:37:26,940  INFO Application:67 - key: PLN100 value: 6
+08:37:26,940  INFO Application:67 - key: PLN20 value: 2
+08:37:26,940  INFO Application:67 - key: S50 value: 4
+08:37:26,951  INFO Application:66 - Update Succeed
+08:37:32,964  INFO Application:30 - Interval Update 6
+08:37:32,968  INFO Application:56 - List Of Actives Products: 
+08:37:32,968  INFO Application:58 - kode_modul|kode_produk|harga_beli|prioritas|status 
+08:37:32,968  INFO Application:61 - 304 | CEKPLN20 | 500.00 | 1 | 1
+08:37:32,968  INFO Application:61 - 304 | PLN20 | 19,975.00 | 2 | 1
+08:37:32,968  INFO Application:61 - 303 | S25 | 24,775.00 | 3 | 1
+08:37:32,968  INFO Application:61 - 303 | S50 | 48,600.00 | 4 | 1
+08:37:32,968  INFO Application:61 - 303 | S100 | 96,325.00 | 5 | 1
+08:37:32,968  INFO Application:61 - 304 | PLN100 | 99,975.00 | 6 | 1
+08:37:32,969  INFO Application:67 - key: CEKPLN20 value: 1
+08:37:32,969  INFO Application:67 - key: S25 value: 3
+08:37:32,969  INFO Application:67 - key: S100 value: 5
+08:37:32,969  INFO Application:67 - key: PLN100 value: 6
+08:37:32,969  INFO Application:67 - key: PLN20 value: 2
+08:37:32,969  INFO Application:67 - key: S50 value: 4
+08:37:33,307  INFO Application:66 - Update Succeed

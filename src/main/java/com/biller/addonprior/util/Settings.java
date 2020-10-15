@@ -6,14 +6,13 @@ import org.apache.commons.configuration.reloading.FileChangedReloadingStrategy;
 
 import java.io.File;
 import java.util.List;
-import java.util.logging.Logger;
 
 public class Settings {
     private static PropertiesConfiguration configuration = null;
 
     static {
         try {
-            configuration = new PropertiesConfiguration(new File("setting.properties"));
+            configuration = new PropertiesConfiguration(new File("application.properties"));
         } catch (Exception e) {
             e.printStackTrace();
             Application.log.fatal(e);

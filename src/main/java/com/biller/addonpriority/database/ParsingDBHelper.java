@@ -82,8 +82,10 @@ public class ParsingDBHelper {
                     if (collectionModuleCodes.get(i).toString().equalsIgnoreCase(tempModuleCode)){
                         sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + (iter-1) + " ";
                         tempIter=iter;
-                    }else
+                    }else {
                         sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + tempIter + " ";
+                        tempIter++;
+                    }
                 }
 
                 tempModuleCode = collectionModuleCodes.get(i).toString();

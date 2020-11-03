@@ -38,7 +38,7 @@ public class ParsingDBHelper {
                             "order by harga_beli asc");*/
 //            query.setParameter("productCodes", productCodes);
             Query query = session.
-                    createNativeQuery("select kode_modul, kode_produk, harga_beli\n" +
+                    createNativeQuery("select kode_modul, kode_produk, harga_beli, prioritas\n" +
                             "from parsing " +
                             "where aktif=1 " +
                             "and kode_produk=:productCode " +
@@ -66,15 +66,29 @@ public class ParsingDBHelper {
         try {
             session = getSession();
             tx = session.beginTransaction();
-            List<String> moduleCodes = new ArrayList<String>();
+            List<String> moduleCodes = new ArrayList<>();
             String[] arrayModuleCodes = new String[collectionModuleCodes.size()];
             String sql = "UPDATE dbo.parsing " + "SET prioritas = CASE ";
-            int iter = 0;
+            int iter = 1;
+            String tempModuleCode="";
+            int tempIter=1;
             for (Object i : collectionModuleCodes.keySet()) {
-                arrayModuleCodes[iter] = i.toString();
+//                arrayModuleCodes[iter] = i.toString();
+
+                System.out.println("Current Itteration = " +iter);
+                if (iter == 1) {
+                    sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + iter + " ";
+                }else{
+                    if (collectionModuleCodes.get(i).toString().equalsIgnoreCase(tempModuleCode)){
+                        sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + (iter-1) + " ";
+                        tempIter=iter;
+                    }else
+                        sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + tempIter + " ";
+                }
+
+                tempModuleCode = collectionModuleCodes.get(i).toString();
                 moduleCodes.add(i.toString());
-//                sql += "WHEN kode_produk = '" + i.toString() + "' THEN " + collectionProductCode.get(i) + " ";
-                sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + collectionModuleCodes.get(i) + " ";
+//                sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + collectionModuleCodes.get(i) + " ";
                 iter++;
             }
             sql += " END WHERE kode_modul IN :moduleCodes";

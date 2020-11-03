@@ -1,0 +1,2842 @@
+13:33:14,809  INFO Application:29 - Interval Update 15
+13:33:19,409  INFO Application:58 - List Of Actives Products: 
+13:33:19,409  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:33:19,412  INFO Application:63 - 302 | X100 | 25,000.00
+13:33:19,412  INFO Application:63 - 309 | X100 | 27,000.00
+13:33:19,413  INFO Application:63 - 297 | X100 | 98,050.00
+13:33:19,422  INFO Application:81 - Module Codes Array Length -> 3
+13:33:19,437  INFO Application:68 - Update Succeed
+13:33:34,451  INFO Application:29 - Interval Update 15
+13:33:34,456  INFO Application:58 - List Of Actives Products: 
+13:33:34,457  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:33:34,457  INFO Application:63 - 302 | X100 | 25,000.00
+13:33:34,457  INFO Application:63 - 309 | X100 | 27,000.00
+13:33:34,458  INFO Application:63 - 297 | X100 | 98,050.00
+13:33:34,458  INFO Application:81 - Module Codes Array Length -> 3
+13:33:34,464  INFO Application:68 - Update Succeed
+13:35:44,733  INFO Application:29 - Interval Update 15
+13:35:47,118  INFO Application:58 - List Of Actives Products: 
+13:35:47,118  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:35:47,122  INFO Application:63 - 302 | X100 | 25,000.00
+13:35:47,122  INFO Application:63 - 309 | X100 | 25,000.00
+13:35:47,122  INFO Application:63 - 297 | X100 | 98,050.00
+13:35:47,132  INFO Application:81 - Module Codes Array Length -> 3
+13:35:47,144  INFO Application:68 - Update Succeed
+13:36:09,573  INFO Application:29 - Interval Update 15
+13:36:11,956  INFO Application:58 - List Of Actives Products: 
+13:36:11,956  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:36:11,960  INFO Application:63 - 302 | X100 | 25,000.00
+13:36:11,960  INFO Application:63 - 309 | X100 | 25,000.00
+13:36:11,961  INFO Application:63 - 297 | X100 | 98,050.00
+13:36:11,972  INFO Application:81 - Module Codes Array Length -> 3
+13:36:11,986  INFO Application:68 - Update Succeed
+13:36:27,000  INFO Application:29 - Interval Update 15
+13:36:27,005  INFO Application:58 - List Of Actives Products: 
+13:36:27,005  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:36:27,006  INFO Application:63 - 302 | X100 | 25,000.00
+13:36:27,006  INFO Application:63 - 309 | X100 | 25,000.00
+13:36:27,006  INFO Application:63 - 297 | X100 | 98,050.00
+13:36:27,007  INFO Application:81 - Module Codes Array Length -> 3
+13:36:27,013  INFO Application:68 - Update Succeed
+13:36:42,028  INFO Application:29 - Interval Update 15
+13:36:42,032  INFO Application:58 - List Of Actives Products: 
+13:36:42,033  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:36:42,033  INFO Application:63 - 302 | X100 | 25,000.00
+13:36:42,033  INFO Application:63 - 309 | X100 | 25,000.00
+13:36:42,033  INFO Application:63 - 297 | X100 | 98,050.00
+13:36:42,033  INFO Application:81 - Module Codes Array Length -> 3
+13:36:42,039  INFO Application:68 - Update Succeed
+13:36:57,044  INFO Application:29 - Interval Update 15
+13:36:57,049  INFO Application:58 - List Of Actives Products: 
+13:36:57,049  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:36:57,049  INFO Application:63 - 302 | X100 | 25,000.00
+13:36:57,049  INFO Application:63 - 309 | X100 | 25,000.00
+13:36:57,049  INFO Application:63 - 297 | X100 | 98,050.00
+13:36:57,050  INFO Application:81 - Module Codes Array Length -> 3
+13:36:57,054  INFO Application:68 - Update Succeed
+13:37:12,064  INFO Application:29 - Interval Update 15
+13:37:12,068  INFO Application:58 - List Of Actives Products: 
+13:37:12,068  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:37:12,068  INFO Application:63 - 302 | X100 | 25,000.00
+13:37:12,068  INFO Application:63 - 309 | X100 | 25,000.00
+13:37:12,068  INFO Application:63 - 297 | X100 | 98,050.00
+13:37:12,069  INFO Application:81 - Module Codes Array Length -> 3
+13:37:12,073  INFO Application:68 - Update Succeed
+13:37:27,077  INFO Application:29 - Interval Update 15
+13:37:27,081  INFO Application:58 - List Of Actives Products: 
+13:37:27,081  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:37:27,081  INFO Application:63 - 302 | X100 | 25,000.00
+13:37:27,081  INFO Application:63 - 309 | X100 | 25,000.00
+13:37:27,081  INFO Application:63 - 297 | X100 | 98,050.00
+13:37:27,081  INFO Application:81 - Module Codes Array Length -> 3
+13:37:27,085  INFO Application:68 - Update Succeed
+13:37:42,091  INFO Application:29 - Interval Update 15
+13:37:42,095  INFO Application:58 - List Of Actives Products: 
+13:37:42,095  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:37:42,095  INFO Application:63 - 302 | X100 | 25,000.00
+13:37:42,095  INFO Application:63 - 309 | X100 | 25,000.00
+13:37:42,096  INFO Application:63 - 297 | X100 | 98,050.00
+13:37:42,096  INFO Application:81 - Module Codes Array Length -> 3
+13:37:42,102  INFO Application:68 - Update Succeed
+13:37:57,102  INFO Application:29 - Interval Update 15
+13:37:57,106  INFO Application:58 - List Of Actives Products: 
+13:37:57,106  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:37:57,106  INFO Application:63 - 302 | X100 | 25,000.00
+13:37:57,106  INFO Application:63 - 309 | X100 | 25,000.00
+13:37:57,106  INFO Application:63 - 297 | X100 | 98,050.00
+13:37:57,107  INFO Application:81 - Module Codes Array Length -> 3
+13:37:57,111  INFO Application:68 - Update Succeed
+13:38:12,123  INFO Application:29 - Interval Update 15
+13:38:12,127  INFO Application:58 - List Of Actives Products: 
+13:38:12,127  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:38:12,127  INFO Application:63 - 302 | X100 | 25,000.00
+13:38:12,127  INFO Application:63 - 309 | X100 | 25,000.00
+13:38:12,127  INFO Application:63 - 297 | X100 | 98,050.00
+13:38:12,128  INFO Application:81 - Module Codes Array Length -> 3
+13:38:12,132  INFO Application:68 - Update Succeed
+13:38:27,134  INFO Application:29 - Interval Update 15
+13:38:27,137  INFO Application:58 - List Of Actives Products: 
+13:38:27,138  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:38:27,138  INFO Application:63 - 302 | X100 | 25,000.00
+13:38:27,138  INFO Application:63 - 309 | X100 | 25,000.00
+13:38:27,138  INFO Application:63 - 297 | X100 | 98,050.00
+13:38:27,138  INFO Application:81 - Module Codes Array Length -> 3
+13:38:27,144  INFO Application:68 - Update Succeed
+13:38:42,159  INFO Application:29 - Interval Update 15
+13:38:42,161  INFO Application:58 - List Of Actives Products: 
+13:38:42,161  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:38:42,162  INFO Application:63 - 302 | X100 | 25,000.00
+13:38:42,162  INFO Application:63 - 309 | X100 | 25,000.00
+13:38:42,162  INFO Application:63 - 297 | X100 | 98,050.00
+13:38:42,163  INFO Application:81 - Module Codes Array Length -> 3
+13:38:42,165  INFO Application:68 - Update Succeed
+13:38:57,180  INFO Application:29 - Interval Update 15
+13:38:57,184  INFO Application:58 - List Of Actives Products: 
+13:38:57,184  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:38:57,184  INFO Application:63 - 302 | X100 | 25,000.00
+13:38:57,185  INFO Application:63 - 309 | X100 | 25,000.00
+13:38:57,185  INFO Application:63 - 297 | X100 | 98,050.00
+13:38:57,185  INFO Application:81 - Module Codes Array Length -> 3
+13:38:57,190  INFO Application:68 - Update Succeed
+13:39:12,194  INFO Application:29 - Interval Update 15
+13:39:12,198  INFO Application:58 - List Of Actives Products: 
+13:39:12,198  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:39:12,198  INFO Application:63 - 302 | X100 | 25,000.00
+13:39:12,198  INFO Application:63 - 309 | X100 | 25,000.00
+13:39:12,198  INFO Application:63 - 297 | X100 | 98,050.00
+13:39:12,198  INFO Application:81 - Module Codes Array Length -> 3
+13:39:12,203  INFO Application:68 - Update Succeed
+13:39:27,216  INFO Application:29 - Interval Update 15
+13:39:27,218  INFO Application:58 - List Of Actives Products: 
+13:39:27,218  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:39:27,218  INFO Application:63 - 302 | X100 | 25,000.00
+13:39:27,218  INFO Application:63 - 309 | X100 | 25,000.00
+13:39:27,218  INFO Application:63 - 297 | X100 | 98,050.00
+13:39:27,218  INFO Application:81 - Module Codes Array Length -> 3
+13:39:27,221  INFO Application:68 - Update Succeed
+13:39:42,223  INFO Application:29 - Interval Update 15
+13:39:42,227  INFO Application:58 - List Of Actives Products: 
+13:39:42,227  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:39:42,227  INFO Application:63 - 302 | X100 | 25,000.00
+13:39:42,227  INFO Application:63 - 309 | X100 | 25,000.00
+13:39:42,227  INFO Application:63 - 297 | X100 | 98,050.00
+13:39:42,227  INFO Application:81 - Module Codes Array Length -> 3
+13:39:42,231  INFO Application:68 - Update Succeed
+13:39:57,242  INFO Application:29 - Interval Update 15
+13:39:57,246  INFO Application:58 - List Of Actives Products: 
+13:39:57,246  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:39:57,246  INFO Application:63 - 302 | X100 | 25,000.00
+13:39:57,246  INFO Application:63 - 309 | X100 | 25,000.00
+13:39:57,246  INFO Application:63 - 297 | X100 | 98,050.00
+13:39:57,246  INFO Application:81 - Module Codes Array Length -> 3
+13:39:57,250  INFO Application:68 - Update Succeed
+13:40:12,253  INFO Application:29 - Interval Update 15
+13:40:12,256  INFO Application:58 - List Of Actives Products: 
+13:40:12,256  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:40:12,256  INFO Application:63 - 302 | X100 | 25,000.00
+13:40:12,256  INFO Application:63 - 309 | X100 | 25,000.00
+13:40:12,256  INFO Application:63 - 297 | X100 | 98,050.00
+13:40:12,256  INFO Application:81 - Module Codes Array Length -> 3
+13:40:12,260  INFO Application:68 - Update Succeed
+13:40:27,266  INFO Application:29 - Interval Update 15
+13:40:27,270  INFO Application:58 - List Of Actives Products: 
+13:40:27,270  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:40:27,270  INFO Application:63 - 302 | X100 | 25,000.00
+13:40:27,270  INFO Application:63 - 309 | X100 | 25,000.00
+13:40:27,270  INFO Application:63 - 297 | X100 | 98,050.00
+13:40:27,270  INFO Application:81 - Module Codes Array Length -> 3
+13:40:27,274  INFO Application:68 - Update Succeed
+13:40:42,279  INFO Application:29 - Interval Update 15
+13:40:42,282  INFO Application:58 - List Of Actives Products: 
+13:40:42,282  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:40:42,282  INFO Application:63 - 302 | X100 | 25,000.00
+13:40:42,282  INFO Application:63 - 309 | X100 | 25,000.00
+13:40:42,282  INFO Application:63 - 297 | X100 | 98,050.00
+13:40:42,283  INFO Application:81 - Module Codes Array Length -> 3
+13:40:42,286  INFO Application:68 - Update Succeed
+13:40:57,295  INFO Application:29 - Interval Update 15
+13:40:57,299  INFO Application:58 - List Of Actives Products: 
+13:40:57,299  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:40:57,299  INFO Application:63 - 302 | X100 | 25,000.00
+13:40:57,299  INFO Application:63 - 309 | X100 | 25,000.00
+13:40:57,299  INFO Application:63 - 297 | X100 | 98,050.00
+13:40:57,300  INFO Application:81 - Module Codes Array Length -> 3
+13:40:57,304  INFO Application:68 - Update Succeed
+13:41:12,311  INFO Application:29 - Interval Update 15
+13:41:12,314  INFO Application:58 - List Of Actives Products: 
+13:41:12,315  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:41:12,315  INFO Application:63 - 302 | X100 | 25,000.00
+13:41:12,315  INFO Application:63 - 309 | X100 | 25,000.00
+13:41:12,315  INFO Application:63 - 297 | X100 | 98,050.00
+13:41:12,315  INFO Application:81 - Module Codes Array Length -> 3
+13:41:12,320  INFO Application:68 - Update Succeed
+13:41:27,321  INFO Application:29 - Interval Update 15
+13:41:27,325  INFO Application:58 - List Of Actives Products: 
+13:41:27,325  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:41:27,325  INFO Application:63 - 302 | X100 | 25,000.00
+13:41:27,325  INFO Application:63 - 309 | X100 | 25,000.00
+13:41:27,325  INFO Application:63 - 297 | X100 | 98,050.00
+13:41:27,325  INFO Application:81 - Module Codes Array Length -> 3
+13:41:27,329  INFO Application:68 - Update Succeed
+13:41:42,333  INFO Application:29 - Interval Update 15
+13:41:42,336  INFO Application:58 - List Of Actives Products: 
+13:41:42,336  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:41:42,336  INFO Application:63 - 302 | X100 | 25,000.00
+13:41:42,336  INFO Application:63 - 309 | X100 | 25,000.00
+13:41:42,337  INFO Application:63 - 297 | X100 | 98,050.00
+13:41:42,337  INFO Application:81 - Module Codes Array Length -> 3
+13:41:42,341  INFO Application:68 - Update Succeed
+13:41:57,347  INFO Application:29 - Interval Update 15
+13:41:57,350  INFO Application:58 - List Of Actives Products: 
+13:41:57,350  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:41:57,350  INFO Application:63 - 302 | X100 | 25,000.00
+13:41:57,350  INFO Application:63 - 309 | X100 | 25,000.00
+13:41:57,350  INFO Application:63 - 297 | X100 | 98,050.00
+13:41:57,350  INFO Application:81 - Module Codes Array Length -> 3
+13:41:57,354  INFO Application:68 - Update Succeed
+13:42:12,362  INFO Application:29 - Interval Update 15
+13:42:12,366  INFO Application:58 - List Of Actives Products: 
+13:42:12,366  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:42:12,366  INFO Application:63 - 302 | X100 | 25,000.00
+13:42:12,366  INFO Application:63 - 309 | X100 | 25,000.00
+13:42:12,366  INFO Application:63 - 297 | X100 | 98,050.00
+13:42:12,366  INFO Application:81 - Module Codes Array Length -> 3
+13:42:12,371  INFO Application:68 - Update Succeed
+13:42:27,380  INFO Application:29 - Interval Update 15
+13:42:27,383  INFO Application:58 - List Of Actives Products: 
+13:42:27,383  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:42:27,384  INFO Application:63 - 302 | X100 | 25,000.00
+13:42:27,384  INFO Application:63 - 309 | X100 | 25,000.00
+13:42:27,384  INFO Application:63 - 297 | X100 | 98,050.00
+13:42:27,384  INFO Application:81 - Module Codes Array Length -> 3
+13:42:27,389  INFO Application:68 - Update Succeed
+13:42:42,398  INFO Application:29 - Interval Update 15
+13:42:42,401  INFO Application:58 - List Of Actives Products: 
+13:42:42,401  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:42:42,402  INFO Application:63 - 302 | X100 | 25,000.00
+13:42:42,402  INFO Application:63 - 309 | X100 | 25,000.00
+13:42:42,402  INFO Application:63 - 297 | X100 | 98,050.00
+13:42:42,402  INFO Application:81 - Module Codes Array Length -> 3
+13:42:42,406  INFO Application:68 - Update Succeed
+13:42:57,407  INFO Application:29 - Interval Update 15
+13:42:57,411  INFO Application:58 - List Of Actives Products: 
+13:42:57,411  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:42:57,411  INFO Application:63 - 302 | X100 | 25,000.00
+13:42:57,411  INFO Application:63 - 309 | X100 | 25,000.00
+13:42:57,411  INFO Application:63 - 297 | X100 | 98,050.00
+13:42:57,411  INFO Application:81 - Module Codes Array Length -> 3
+13:42:57,416  INFO Application:68 - Update Succeed
+13:43:12,423  INFO Application:29 - Interval Update 15
+13:43:12,427  INFO Application:58 - List Of Actives Products: 
+13:43:12,427  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:43:12,427  INFO Application:63 - 302 | X100 | 25,000.00
+13:43:12,428  INFO Application:63 - 309 | X100 | 25,000.00
+13:43:12,428  INFO Application:63 - 297 | X100 | 98,050.00
+13:43:12,428  INFO Application:81 - Module Codes Array Length -> 3
+13:43:12,433  INFO Application:68 - Update Succeed
+13:43:27,445  INFO Application:29 - Interval Update 15
+13:43:27,450  INFO Application:58 - List Of Actives Products: 
+13:43:27,450  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:43:27,450  INFO Application:63 - 302 | X100 | 25,000.00
+13:43:27,450  INFO Application:63 - 309 | X100 | 25,000.00
+13:43:27,450  INFO Application:63 - 297 | X100 | 98,050.00
+13:43:27,451  INFO Application:81 - Module Codes Array Length -> 3
+13:43:27,456  INFO Application:68 - Update Succeed
+13:43:42,467  INFO Application:29 - Interval Update 15
+13:43:42,470  INFO Application:58 - List Of Actives Products: 
+13:43:42,470  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:43:42,470  INFO Application:63 - 302 | X100 | 25,000.00
+13:43:42,470  INFO Application:63 - 309 | X100 | 25,000.00
+13:43:42,470  INFO Application:63 - 297 | X100 | 98,050.00
+13:43:42,470  INFO Application:81 - Module Codes Array Length -> 3
+13:43:42,474  INFO Application:68 - Update Succeed
+13:43:57,477  INFO Application:29 - Interval Update 15
+13:43:57,481  INFO Application:58 - List Of Actives Products: 
+13:43:57,481  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:43:57,481  INFO Application:63 - 302 | X100 | 25,000.00
+13:43:57,481  INFO Application:63 - 309 | X100 | 25,000.00
+13:43:57,481  INFO Application:63 - 297 | X100 | 98,050.00
+13:43:57,481  INFO Application:81 - Module Codes Array Length -> 3
+13:43:57,485  INFO Application:68 - Update Succeed
+13:44:12,494  INFO Application:29 - Interval Update 15
+13:44:12,496  INFO Application:58 - List Of Actives Products: 
+13:44:12,496  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:44:12,496  INFO Application:63 - 302 | X100 | 25,000.00
+13:44:12,496  INFO Application:63 - 309 | X100 | 25,000.00
+13:44:12,496  INFO Application:63 - 297 | X100 | 98,050.00
+13:44:12,496  INFO Application:81 - Module Codes Array Length -> 3
+13:44:12,498  INFO Application:68 - Update Succeed
+13:44:27,512  INFO Application:29 - Interval Update 15
+13:44:27,514  INFO Application:58 - List Of Actives Products: 
+13:44:27,514  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:44:27,514  INFO Application:63 - 302 | X100 | 25,000.00
+13:44:27,515  INFO Application:63 - 309 | X100 | 25,000.00
+13:44:27,515  INFO Application:63 - 297 | X100 | 98,050.00
+13:44:27,515  INFO Application:81 - Module Codes Array Length -> 3
+13:44:27,517  INFO Application:68 - Update Succeed
+13:44:42,520  INFO Application:29 - Interval Update 15
+13:44:42,524  INFO Application:58 - List Of Actives Products: 
+13:44:42,524  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:44:42,524  INFO Application:63 - 302 | X100 | 25,000.00
+13:44:42,524  INFO Application:63 - 309 | X100 | 25,000.00
+13:44:42,524  INFO Application:63 - 297 | X100 | 98,050.00
+13:44:42,525  INFO Application:81 - Module Codes Array Length -> 3
+13:44:42,528  INFO Application:68 - Update Succeed
+13:44:57,529  INFO Application:29 - Interval Update 15
+13:44:57,532  INFO Application:58 - List Of Actives Products: 
+13:44:57,532  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:44:57,532  INFO Application:63 - 302 | X100 | 25,000.00
+13:44:57,532  INFO Application:63 - 309 | X100 | 25,000.00
+13:44:57,532  INFO Application:63 - 297 | X100 | 98,050.00
+13:44:57,532  INFO Application:81 - Module Codes Array Length -> 3
+13:44:57,536  INFO Application:68 - Update Succeed
+13:45:12,544  INFO Application:29 - Interval Update 15
+13:45:12,548  INFO Application:58 - List Of Actives Products: 
+13:45:12,548  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:45:12,548  INFO Application:63 - 302 | X100 | 25,000.00
+13:45:12,548  INFO Application:63 - 309 | X100 | 25,000.00
+13:45:12,548  INFO Application:63 - 297 | X100 | 98,050.00
+13:45:12,549  INFO Application:81 - Module Codes Array Length -> 3
+13:45:12,552  INFO Application:68 - Update Succeed
+13:45:27,561  INFO Application:29 - Interval Update 15
+13:45:27,563  INFO Application:58 - List Of Actives Products: 
+13:45:27,563  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:45:27,563  INFO Application:63 - 302 | X100 | 25,000.00
+13:45:27,563  INFO Application:63 - 309 | X100 | 25,000.00
+13:45:27,563  INFO Application:63 - 297 | X100 | 98,050.00
+13:45:27,564  INFO Application:81 - Module Codes Array Length -> 3
+13:45:27,567  INFO Application:68 - Update Succeed
+13:45:42,577  INFO Application:29 - Interval Update 15
+13:45:42,580  INFO Application:58 - List Of Actives Products: 
+13:45:42,580  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:45:42,580  INFO Application:63 - 302 | X100 | 25,000.00
+13:45:42,580  INFO Application:63 - 309 | X100 | 25,000.00
+13:45:42,580  INFO Application:63 - 297 | X100 | 98,050.00
+13:45:42,581  INFO Application:81 - Module Codes Array Length -> 3
+13:45:42,584  INFO Application:68 - Update Succeed
+13:45:57,598  INFO Application:29 - Interval Update 15
+13:45:57,601  INFO Application:58 - List Of Actives Products: 
+13:45:57,601  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:45:57,601  INFO Application:63 - 302 | X100 | 25,000.00
+13:45:57,601  INFO Application:63 - 309 | X100 | 25,000.00
+13:45:57,601  INFO Application:63 - 297 | X100 | 98,050.00
+13:45:57,601  INFO Application:81 - Module Codes Array Length -> 3
+13:45:57,603  INFO Application:68 - Update Succeed
+13:46:12,614  INFO Application:29 - Interval Update 15
+13:46:12,618  INFO Application:58 - List Of Actives Products: 
+13:46:12,618  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:46:12,619  INFO Application:63 - 302 | X100 | 25,000.00
+13:46:12,619  INFO Application:63 - 309 | X100 | 25,000.00
+13:46:12,619  INFO Application:63 - 297 | X100 | 98,050.00
+13:46:12,619  INFO Application:81 - Module Codes Array Length -> 3
+13:46:12,623  INFO Application:68 - Update Succeed
+13:46:27,639  INFO Application:29 - Interval Update 15
+13:46:27,645  INFO Application:58 - List Of Actives Products: 
+13:46:27,645  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:46:27,645  INFO Application:63 - 302 | X100 | 25,000.00
+13:46:27,645  INFO Application:63 - 309 | X100 | 25,000.00
+13:46:27,645  INFO Application:63 - 297 | X100 | 98,050.00
+13:46:27,646  INFO Application:81 - Module Codes Array Length -> 3
+13:46:27,652  INFO Application:68 - Update Succeed
+13:46:42,666  INFO Application:29 - Interval Update 15
+13:46:42,670  INFO Application:56 - No Active Products
+13:47:02,519  INFO Application:29 - Interval Update 4
+13:47:05,051  INFO Application:56 - No Active Products
+13:47:09,065  INFO Application:29 - Interval Update 4
+13:47:09,069  INFO Application:56 - No Active Products
+13:47:13,072  INFO Application:29 - Interval Update 4
+13:47:13,076  INFO Application:56 - No Active Products
+13:47:17,089  INFO Application:29 - Interval Update 4
+13:47:17,092  INFO Application:56 - No Active Products
+13:47:21,104  INFO Application:29 - Interval Update 4
+13:47:21,108  INFO Application:56 - No Active Products
+13:47:25,123  INFO Application:29 - Interval Update 4
+13:47:25,127  INFO Application:56 - No Active Products
+13:47:29,140  INFO Application:29 - Interval Update 4
+13:47:29,143  INFO Application:56 - No Active Products
+13:47:33,153  INFO Application:29 - Interval Update 4
+13:47:33,159  INFO Application:56 - No Active Products
+13:47:37,162  INFO Application:29 - Interval Update 4
+13:47:37,166  INFO Application:56 - No Active Products
+13:47:41,179  INFO Application:29 - Interval Update 4
+13:47:41,182  INFO Application:56 - No Active Products
+13:47:41,186  INFO Application:58 - List Of Actives Products: 
+13:47:41,186  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:47:41,188  INFO Application:63 - 303 | S100 | 96,325.00
+13:47:41,196  INFO Application:81 - Module Codes Array Length -> 1
+13:47:41,203  INFO Application:68 - Update Succeed
+13:47:45,209  INFO Application:29 - Interval Update 4
+13:47:45,213  INFO Application:56 - No Active Products
+13:47:45,215  INFO Application:58 - List Of Actives Products: 
+13:47:45,215  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:47:45,215  INFO Application:63 - 303 | S100 | 96,325.00
+13:47:45,215  INFO Application:81 - Module Codes Array Length -> 1
+13:47:45,218  INFO Application:68 - Update Succeed
+13:47:49,221  INFO Application:29 - Interval Update 4
+13:47:49,224  INFO Application:56 - No Active Products
+13:47:49,226  INFO Application:58 - List Of Actives Products: 
+13:47:49,226  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:47:49,226  INFO Application:63 - 303 | S100 | 96,325.00
+13:47:49,227  INFO Application:81 - Module Codes Array Length -> 1
+13:47:49,229  INFO Application:68 - Update Succeed
+13:47:53,232  INFO Application:29 - Interval Update 4
+13:47:53,236  INFO Application:56 - No Active Products
+13:47:53,237  INFO Application:58 - List Of Actives Products: 
+13:47:53,237  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:47:53,237  INFO Application:63 - 303 | S100 | 96,325.00
+13:47:53,238  INFO Application:81 - Module Codes Array Length -> 1
+13:47:53,241  INFO Application:68 - Update Succeed
+13:47:57,244  INFO Application:29 - Interval Update 4
+13:47:57,248  INFO Application:56 - No Active Products
+13:47:57,249  INFO Application:58 - List Of Actives Products: 
+13:47:57,249  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:47:57,249  INFO Application:63 - 303 | S100 | 96,325.00
+13:47:57,249  INFO Application:81 - Module Codes Array Length -> 1
+13:47:57,252  INFO Application:68 - Update Succeed
+13:48:01,264  INFO Application:29 - Interval Update 4
+13:48:01,267  INFO Application:56 - No Active Products
+13:48:01,269  INFO Application:58 - List Of Actives Products: 
+13:48:01,269  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:01,269  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:01,269  INFO Application:81 - Module Codes Array Length -> 1
+13:48:01,272  INFO Application:68 - Update Succeed
+13:48:05,276  INFO Application:29 - Interval Update 4
+13:48:05,280  INFO Application:56 - No Active Products
+13:48:05,282  INFO Application:58 - List Of Actives Products: 
+13:48:05,282  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:05,282  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:05,282  INFO Application:81 - Module Codes Array Length -> 1
+13:48:05,285  INFO Application:68 - Update Succeed
+13:48:09,294  INFO Application:29 - Interval Update 4
+13:48:09,297  INFO Application:56 - No Active Products
+13:48:09,299  INFO Application:58 - List Of Actives Products: 
+13:48:09,299  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:09,299  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:09,300  INFO Application:81 - Module Codes Array Length -> 1
+13:48:09,303  INFO Application:68 - Update Succeed
+13:48:13,304  INFO Application:29 - Interval Update 4
+13:48:13,306  INFO Application:56 - No Active Products
+13:48:13,307  INFO Application:58 - List Of Actives Products: 
+13:48:13,307  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:13,307  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:13,307  INFO Application:81 - Module Codes Array Length -> 1
+13:48:13,309  INFO Application:68 - Update Succeed
+13:48:17,319  INFO Application:29 - Interval Update 4
+13:48:17,321  INFO Application:56 - No Active Products
+13:48:17,322  INFO Application:58 - List Of Actives Products: 
+13:48:17,322  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:17,323  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:17,323  INFO Application:81 - Module Codes Array Length -> 1
+13:48:17,324  INFO Application:68 - Update Succeed
+13:48:21,333  INFO Application:29 - Interval Update 4
+13:48:21,337  INFO Application:56 - No Active Products
+13:48:21,339  INFO Application:58 - List Of Actives Products: 
+13:48:21,339  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:21,339  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:21,340  INFO Application:81 - Module Codes Array Length -> 1
+13:48:21,343  INFO Application:68 - Update Succeed
+13:48:25,352  INFO Application:29 - Interval Update 4
+13:48:25,355  INFO Application:56 - No Active Products
+13:48:25,357  INFO Application:58 - List Of Actives Products: 
+13:48:25,357  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:25,357  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:25,357  INFO Application:81 - Module Codes Array Length -> 1
+13:48:25,360  INFO Application:68 - Update Succeed
+13:48:29,369  INFO Application:29 - Interval Update 4
+13:48:29,371  INFO Application:56 - No Active Products
+13:48:29,372  INFO Application:58 - List Of Actives Products: 
+13:48:29,372  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:29,373  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:29,373  INFO Application:81 - Module Codes Array Length -> 1
+13:48:29,375  INFO Application:68 - Update Succeed
+13:48:33,390  INFO Application:29 - Interval Update 4
+13:48:33,391  INFO Application:56 - No Active Products
+13:48:33,392  INFO Application:58 - List Of Actives Products: 
+13:48:33,393  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:33,393  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:33,393  INFO Application:81 - Module Codes Array Length -> 1
+13:48:33,394  INFO Application:68 - Update Succeed
+13:48:37,407  INFO Application:29 - Interval Update 4
+13:48:37,409  INFO Application:56 - No Active Products
+13:48:37,410  INFO Application:58 - List Of Actives Products: 
+13:48:37,410  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:37,410  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:37,410  INFO Application:81 - Module Codes Array Length -> 1
+13:48:37,412  INFO Application:68 - Update Succeed
+13:48:41,426  INFO Application:29 - Interval Update 4
+13:48:41,428  INFO Application:56 - No Active Products
+13:48:41,430  INFO Application:58 - List Of Actives Products: 
+13:48:41,430  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:41,430  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:41,431  INFO Application:81 - Module Codes Array Length -> 1
+13:48:41,432  INFO Application:68 - Update Succeed
+13:48:45,433  INFO Application:29 - Interval Update 4
+13:48:45,434  INFO Application:56 - No Active Products
+13:48:45,436  INFO Application:58 - List Of Actives Products: 
+13:48:45,436  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:45,436  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:45,436  INFO Application:81 - Module Codes Array Length -> 1
+13:48:45,438  INFO Application:68 - Update Succeed
+13:48:49,441  INFO Application:29 - Interval Update 4
+13:48:49,443  INFO Application:56 - No Active Products
+13:48:49,444  INFO Application:58 - List Of Actives Products: 
+13:48:49,444  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:49,445  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:49,445  INFO Application:81 - Module Codes Array Length -> 1
+13:48:49,446  INFO Application:68 - Update Succeed
+13:48:53,459  INFO Application:29 - Interval Update 4
+13:48:53,461  INFO Application:56 - No Active Products
+13:48:53,462  INFO Application:58 - List Of Actives Products: 
+13:48:53,462  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:53,462  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:53,463  INFO Application:81 - Module Codes Array Length -> 1
+13:48:53,464  INFO Application:68 - Update Succeed
+13:48:57,476  INFO Application:29 - Interval Update 4
+13:48:57,479  INFO Application:56 - No Active Products
+13:48:57,480  INFO Application:58 - List Of Actives Products: 
+13:48:57,480  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:48:57,480  INFO Application:63 - 303 | S100 | 96,325.00
+13:48:57,481  INFO Application:81 - Module Codes Array Length -> 1
+13:48:57,484  INFO Application:68 - Update Succeed
+13:49:01,496  INFO Application:29 - Interval Update 4
+13:49:01,499  INFO Application:56 - No Active Products
+13:49:01,500  INFO Application:58 - List Of Actives Products: 
+13:49:01,500  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:01,501  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:01,501  INFO Application:81 - Module Codes Array Length -> 1
+13:49:01,503  INFO Application:68 - Update Succeed
+13:49:05,514  INFO Application:29 - Interval Update 4
+13:49:05,515  INFO Application:56 - No Active Products
+13:49:05,517  INFO Application:58 - List Of Actives Products: 
+13:49:05,517  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:05,517  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:05,518  INFO Application:81 - Module Codes Array Length -> 1
+13:49:05,519  INFO Application:68 - Update Succeed
+13:49:09,526  INFO Application:29 - Interval Update 4
+13:49:09,527  INFO Application:56 - No Active Products
+13:49:09,528  INFO Application:58 - List Of Actives Products: 
+13:49:09,528  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:09,529  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:09,529  INFO Application:81 - Module Codes Array Length -> 1
+13:49:09,530  INFO Application:68 - Update Succeed
+13:49:13,545  INFO Application:29 - Interval Update 4
+13:49:13,552  INFO Application:56 - No Active Products
+13:49:13,554  INFO Application:58 - List Of Actives Products: 
+13:49:13,554  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:13,554  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:13,555  INFO Application:81 - Module Codes Array Length -> 1
+13:49:13,558  INFO Application:68 - Update Succeed
+13:49:17,564  INFO Application:29 - Interval Update 4
+13:49:17,572  INFO Application:56 - No Active Products
+13:49:17,575  INFO Application:58 - List Of Actives Products: 
+13:49:17,575  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:17,575  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:17,576  INFO Application:81 - Module Codes Array Length -> 1
+13:49:17,586  INFO Application:68 - Update Succeed
+13:49:21,590  INFO Application:29 - Interval Update 4
+13:49:21,599  INFO Application:56 - No Active Products
+13:49:21,601  INFO Application:58 - List Of Actives Products: 
+13:49:21,601  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:21,602  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:21,602  INFO Application:81 - Module Codes Array Length -> 1
+13:49:21,611  INFO Application:68 - Update Succeed
+13:49:25,613  INFO Application:29 - Interval Update 4
+13:49:25,621  INFO Application:56 - No Active Products
+13:49:25,623  INFO Application:58 - List Of Actives Products: 
+13:49:25,624  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:25,624  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:25,625  INFO Application:81 - Module Codes Array Length -> 1
+13:49:25,631  INFO Application:68 - Update Succeed
+13:49:29,636  INFO Application:29 - Interval Update 4
+13:49:29,640  INFO Application:56 - No Active Products
+13:49:29,641  INFO Application:58 - List Of Actives Products: 
+13:49:29,641  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:29,641  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:29,641  INFO Application:81 - Module Codes Array Length -> 1
+13:49:29,644  INFO Application:68 - Update Succeed
+13:49:33,644  INFO Application:29 - Interval Update 4
+13:49:33,649  INFO Application:56 - No Active Products
+13:49:33,651  INFO Application:58 - List Of Actives Products: 
+13:49:33,651  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:33,651  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:33,652  INFO Application:81 - Module Codes Array Length -> 1
+13:49:33,656  INFO Application:68 - Update Succeed
+13:49:37,665  INFO Application:29 - Interval Update 4
+13:49:37,668  INFO Application:56 - No Active Products
+13:49:37,670  INFO Application:58 - List Of Actives Products: 
+13:49:37,670  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:37,670  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:37,670  INFO Application:81 - Module Codes Array Length -> 1
+13:49:37,673  INFO Application:68 - Update Succeed
+13:49:41,687  INFO Application:29 - Interval Update 4
+13:49:41,690  INFO Application:56 - No Active Products
+13:49:41,692  INFO Application:58 - List Of Actives Products: 
+13:49:41,692  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:41,692  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:41,692  INFO Application:81 - Module Codes Array Length -> 1
+13:49:41,695  INFO Application:68 - Update Succeed
+13:49:45,710  INFO Application:29 - Interval Update 4
+13:49:45,716  INFO Application:56 - No Active Products
+13:49:45,718  INFO Application:58 - List Of Actives Products: 
+13:49:45,718  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:45,718  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:45,718  INFO Application:81 - Module Codes Array Length -> 1
+13:49:45,723  INFO Application:68 - Update Succeed
+13:49:49,727  INFO Application:29 - Interval Update 4
+13:49:49,731  INFO Application:56 - No Active Products
+13:49:49,733  INFO Application:58 - List Of Actives Products: 
+13:49:49,733  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:49,733  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:49,733  INFO Application:81 - Module Codes Array Length -> 1
+13:49:49,738  INFO Application:68 - Update Succeed
+13:49:53,741  INFO Application:29 - Interval Update 4
+13:49:53,745  INFO Application:56 - No Active Products
+13:49:53,747  INFO Application:58 - List Of Actives Products: 
+13:49:53,747  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:53,747  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:53,747  INFO Application:81 - Module Codes Array Length -> 1
+13:49:53,751  INFO Application:68 - Update Succeed
+13:49:57,753  INFO Application:29 - Interval Update 4
+13:49:57,756  INFO Application:56 - No Active Products
+13:49:57,758  INFO Application:58 - List Of Actives Products: 
+13:49:57,758  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:49:57,758  INFO Application:63 - 303 | S100 | 96,325.00
+13:49:57,758  INFO Application:81 - Module Codes Array Length -> 1
+13:49:57,761  INFO Application:68 - Update Succeed
+13:50:01,764  INFO Application:29 - Interval Update 4
+13:50:01,767  INFO Application:56 - No Active Products
+13:50:01,768  INFO Application:58 - List Of Actives Products: 
+13:50:01,768  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:01,769  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:01,769  INFO Application:81 - Module Codes Array Length -> 1
+13:50:01,771  INFO Application:68 - Update Succeed
+13:50:05,773  INFO Application:29 - Interval Update 4
+13:50:05,777  INFO Application:56 - No Active Products
+13:50:05,780  INFO Application:58 - List Of Actives Products: 
+13:50:05,780  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:05,780  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:05,781  INFO Application:81 - Module Codes Array Length -> 1
+13:50:05,784  INFO Application:68 - Update Succeed
+13:50:09,789  INFO Application:29 - Interval Update 4
+13:50:09,792  INFO Application:56 - No Active Products
+13:50:09,793  INFO Application:58 - List Of Actives Products: 
+13:50:09,793  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:09,793  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:09,793  INFO Application:81 - Module Codes Array Length -> 1
+13:50:09,796  INFO Application:68 - Update Succeed
+13:50:13,799  INFO Application:29 - Interval Update 4
+13:50:13,802  INFO Application:56 - No Active Products
+13:50:13,804  INFO Application:58 - List Of Actives Products: 
+13:50:13,804  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:13,804  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:13,804  INFO Application:81 - Module Codes Array Length -> 1
+13:50:13,806  INFO Application:68 - Update Succeed
+13:50:17,807  INFO Application:29 - Interval Update 4
+13:50:17,815  INFO Application:56 - No Active Products
+13:50:17,818  INFO Application:58 - List Of Actives Products: 
+13:50:17,818  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:17,819  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:17,819  INFO Application:81 - Module Codes Array Length -> 1
+13:50:17,823  INFO Application:68 - Update Succeed
+13:50:21,829  INFO Application:29 - Interval Update 4
+13:50:21,832  INFO Application:56 - No Active Products
+13:50:21,833  INFO Application:58 - List Of Actives Products: 
+13:50:21,833  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:21,833  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:21,834  INFO Application:81 - Module Codes Array Length -> 1
+13:50:21,835  INFO Application:68 - Update Succeed
+13:50:25,836  INFO Application:29 - Interval Update 4
+13:50:25,839  INFO Application:56 - No Active Products
+13:50:25,841  INFO Application:58 - List Of Actives Products: 
+13:50:25,841  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:25,841  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:25,841  INFO Application:81 - Module Codes Array Length -> 1
+13:50:25,843  INFO Application:68 - Update Succeed
+13:50:29,854  INFO Application:29 - Interval Update 4
+13:50:29,858  INFO Application:56 - No Active Products
+13:50:29,859  INFO Application:58 - List Of Actives Products: 
+13:50:29,859  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:29,859  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:29,860  INFO Application:81 - Module Codes Array Length -> 1
+13:50:29,862  INFO Application:68 - Update Succeed
+13:50:33,870  INFO Application:29 - Interval Update 4
+13:50:33,873  INFO Application:56 - No Active Products
+13:50:33,874  INFO Application:58 - List Of Actives Products: 
+13:50:33,874  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:33,874  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:33,875  INFO Application:81 - Module Codes Array Length -> 1
+13:50:33,877  INFO Application:68 - Update Succeed
+13:50:37,879  INFO Application:29 - Interval Update 4
+13:50:37,882  INFO Application:56 - No Active Products
+13:50:37,883  INFO Application:58 - List Of Actives Products: 
+13:50:37,883  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:37,884  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:37,884  INFO Application:81 - Module Codes Array Length -> 1
+13:50:37,886  INFO Application:68 - Update Succeed
+13:50:41,889  INFO Application:29 - Interval Update 4
+13:50:41,891  INFO Application:56 - No Active Products
+13:50:41,893  INFO Application:58 - List Of Actives Products: 
+13:50:41,893  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:41,893  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:41,893  INFO Application:81 - Module Codes Array Length -> 1
+13:50:41,895  INFO Application:68 - Update Succeed
+13:50:45,905  INFO Application:29 - Interval Update 4
+13:50:45,909  INFO Application:56 - No Active Products
+13:50:45,910  INFO Application:58 - List Of Actives Products: 
+13:50:45,910  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:45,910  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:45,911  INFO Application:81 - Module Codes Array Length -> 1
+13:50:45,913  INFO Application:68 - Update Succeed
+13:50:49,927  INFO Application:29 - Interval Update 4
+13:50:49,930  INFO Application:56 - No Active Products
+13:50:49,931  INFO Application:58 - List Of Actives Products: 
+13:50:49,931  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:49,931  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:49,932  INFO Application:81 - Module Codes Array Length -> 1
+13:50:49,935  INFO Application:68 - Update Succeed
+13:50:53,940  INFO Application:29 - Interval Update 4
+13:50:53,944  INFO Application:56 - No Active Products
+13:50:53,945  INFO Application:58 - List Of Actives Products: 
+13:50:53,945  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:53,945  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:53,946  INFO Application:81 - Module Codes Array Length -> 1
+13:50:53,948  INFO Application:68 - Update Succeed
+13:50:57,952  INFO Application:29 - Interval Update 4
+13:50:57,956  INFO Application:56 - No Active Products
+13:50:57,957  INFO Application:58 - List Of Actives Products: 
+13:50:57,957  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:50:57,957  INFO Application:63 - 303 | S100 | 96,325.00
+13:50:57,957  INFO Application:81 - Module Codes Array Length -> 1
+13:50:57,960  INFO Application:68 - Update Succeed
+13:51:01,970  INFO Application:29 - Interval Update 4
+13:51:01,973  INFO Application:56 - No Active Products
+13:51:01,974  INFO Application:58 - List Of Actives Products: 
+13:51:01,974  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:01,974  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:01,975  INFO Application:81 - Module Codes Array Length -> 1
+13:51:01,976  INFO Application:68 - Update Succeed
+13:51:05,981  INFO Application:29 - Interval Update 4
+13:51:05,983  INFO Application:56 - No Active Products
+13:51:05,984  INFO Application:58 - List Of Actives Products: 
+13:51:05,984  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:05,984  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:05,985  INFO Application:81 - Module Codes Array Length -> 1
+13:51:05,987  INFO Application:68 - Update Succeed
+13:51:09,988  INFO Application:29 - Interval Update 4
+13:51:09,991  INFO Application:56 - No Active Products
+13:51:09,992  INFO Application:58 - List Of Actives Products: 
+13:51:09,992  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:09,992  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:09,992  INFO Application:81 - Module Codes Array Length -> 1
+13:51:09,995  INFO Application:68 - Update Succeed
+13:51:14,010  INFO Application:29 - Interval Update 4
+13:51:14,012  INFO Application:56 - No Active Products
+13:51:14,014  INFO Application:58 - List Of Actives Products: 
+13:51:14,014  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:14,014  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:14,014  INFO Application:81 - Module Codes Array Length -> 1
+13:51:14,017  INFO Application:68 - Update Succeed
+13:51:18,030  INFO Application:29 - Interval Update 4
+13:51:18,032  INFO Application:56 - No Active Products
+13:51:18,035  INFO Application:58 - List Of Actives Products: 
+13:51:18,035  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:18,035  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:18,035  INFO Application:81 - Module Codes Array Length -> 1
+13:51:18,038  INFO Application:68 - Update Succeed
+13:51:22,040  INFO Application:29 - Interval Update 4
+13:51:22,043  INFO Application:56 - No Active Products
+13:51:22,044  INFO Application:58 - List Of Actives Products: 
+13:51:22,044  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:22,044  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:22,044  INFO Application:81 - Module Codes Array Length -> 1
+13:51:22,047  INFO Application:68 - Update Succeed
+13:51:26,057  INFO Application:29 - Interval Update 4
+13:51:26,060  INFO Application:56 - No Active Products
+13:51:26,062  INFO Application:58 - List Of Actives Products: 
+13:51:26,062  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:26,062  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:26,062  INFO Application:81 - Module Codes Array Length -> 1
+13:51:26,064  INFO Application:68 - Update Succeed
+13:51:30,077  INFO Application:29 - Interval Update 4
+13:51:30,079  INFO Application:56 - No Active Products
+13:51:30,080  INFO Application:58 - List Of Actives Products: 
+13:51:30,081  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:30,081  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:30,081  INFO Application:81 - Module Codes Array Length -> 1
+13:51:30,083  INFO Application:68 - Update Succeed
+13:51:34,086  INFO Application:29 - Interval Update 4
+13:51:34,088  INFO Application:56 - No Active Products
+13:51:34,089  INFO Application:58 - List Of Actives Products: 
+13:51:34,089  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:34,090  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:34,090  INFO Application:81 - Module Codes Array Length -> 1
+13:51:34,092  INFO Application:68 - Update Succeed
+13:51:38,106  INFO Application:29 - Interval Update 4
+13:51:38,109  INFO Application:56 - No Active Products
+13:51:38,110  INFO Application:58 - List Of Actives Products: 
+13:51:38,110  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:38,110  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:38,111  INFO Application:81 - Module Codes Array Length -> 1
+13:51:38,113  INFO Application:68 - Update Succeed
+13:51:42,121  INFO Application:29 - Interval Update 4
+13:51:42,125  INFO Application:56 - No Active Products
+13:51:42,126  INFO Application:58 - List Of Actives Products: 
+13:51:42,126  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:42,126  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:42,126  INFO Application:81 - Module Codes Array Length -> 1
+13:51:42,128  INFO Application:68 - Update Succeed
+13:51:46,143  INFO Application:29 - Interval Update 4
+13:51:46,146  INFO Application:56 - No Active Products
+13:51:46,147  INFO Application:58 - List Of Actives Products: 
+13:51:46,147  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:46,148  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:46,148  INFO Application:81 - Module Codes Array Length -> 1
+13:51:46,151  INFO Application:68 - Update Succeed
+13:51:50,163  INFO Application:29 - Interval Update 4
+13:51:50,167  INFO Application:56 - No Active Products
+13:51:50,170  INFO Application:58 - List Of Actives Products: 
+13:51:50,170  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:50,170  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:50,170  INFO Application:81 - Module Codes Array Length -> 1
+13:51:50,173  INFO Application:68 - Update Succeed
+13:51:54,182  INFO Application:29 - Interval Update 4
+13:51:54,185  INFO Application:56 - No Active Products
+13:51:54,187  INFO Application:58 - List Of Actives Products: 
+13:51:54,187  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:54,187  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:54,187  INFO Application:81 - Module Codes Array Length -> 1
+13:51:54,189  INFO Application:68 - Update Succeed
+13:51:58,195  INFO Application:29 - Interval Update 4
+13:51:58,199  INFO Application:56 - No Active Products
+13:51:58,200  INFO Application:58 - List Of Actives Products: 
+13:51:58,200  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:51:58,200  INFO Application:63 - 303 | S100 | 96,325.00
+13:51:58,200  INFO Application:81 - Module Codes Array Length -> 1
+13:51:58,202  INFO Application:68 - Update Succeed
+13:52:02,210  INFO Application:29 - Interval Update 4
+13:52:02,214  INFO Application:56 - No Active Products
+13:52:02,216  INFO Application:58 - List Of Actives Products: 
+13:52:02,216  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:02,216  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:02,216  INFO Application:81 - Module Codes Array Length -> 1
+13:52:02,220  INFO Application:68 - Update Succeed
+13:52:06,234  INFO Application:29 - Interval Update 4
+13:52:06,237  INFO Application:56 - No Active Products
+13:52:06,238  INFO Application:58 - List Of Actives Products: 
+13:52:06,238  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:06,238  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:06,239  INFO Application:81 - Module Codes Array Length -> 1
+13:52:06,241  INFO Application:68 - Update Succeed
+13:52:10,251  INFO Application:29 - Interval Update 4
+13:52:10,256  INFO Application:56 - No Active Products
+13:52:10,258  INFO Application:58 - List Of Actives Products: 
+13:52:10,258  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:10,258  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:10,258  INFO Application:81 - Module Codes Array Length -> 1
+13:52:10,262  INFO Application:68 - Update Succeed
+13:52:14,264  INFO Application:29 - Interval Update 4
+13:52:14,267  INFO Application:56 - No Active Products
+13:52:14,268  INFO Application:58 - List Of Actives Products: 
+13:52:14,268  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:14,268  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:14,268  INFO Application:81 - Module Codes Array Length -> 1
+13:52:14,270  INFO Application:68 - Update Succeed
+13:52:18,272  INFO Application:29 - Interval Update 4
+13:52:18,275  INFO Application:56 - No Active Products
+13:52:18,276  INFO Application:58 - List Of Actives Products: 
+13:52:18,276  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:18,276  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:18,277  INFO Application:81 - Module Codes Array Length -> 1
+13:52:18,279  INFO Application:68 - Update Succeed
+13:52:22,289  INFO Application:29 - Interval Update 4
+13:52:22,292  INFO Application:56 - No Active Products
+13:52:22,293  INFO Application:58 - List Of Actives Products: 
+13:52:22,293  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:22,293  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:22,294  INFO Application:81 - Module Codes Array Length -> 1
+13:52:22,296  INFO Application:68 - Update Succeed
+13:52:26,307  INFO Application:29 - Interval Update 4
+13:52:26,311  INFO Application:56 - No Active Products
+13:52:26,312  INFO Application:58 - List Of Actives Products: 
+13:52:26,312  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:26,312  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:26,313  INFO Application:81 - Module Codes Array Length -> 1
+13:52:26,315  INFO Application:68 - Update Succeed
+13:52:30,324  INFO Application:29 - Interval Update 4
+13:52:30,328  INFO Application:56 - No Active Products
+13:52:30,329  INFO Application:58 - List Of Actives Products: 
+13:52:30,329  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:30,330  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:30,330  INFO Application:81 - Module Codes Array Length -> 1
+13:52:30,333  INFO Application:68 - Update Succeed
+13:52:34,338  INFO Application:29 - Interval Update 4
+13:52:34,342  INFO Application:56 - No Active Products
+13:52:34,343  INFO Application:58 - List Of Actives Products: 
+13:52:34,343  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:34,343  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:34,343  INFO Application:81 - Module Codes Array Length -> 1
+13:52:34,346  INFO Application:68 - Update Succeed
+13:52:38,352  INFO Application:29 - Interval Update 4
+13:52:38,355  INFO Application:56 - No Active Products
+13:52:38,356  INFO Application:58 - List Of Actives Products: 
+13:52:38,356  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:38,356  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:38,356  INFO Application:81 - Module Codes Array Length -> 1
+13:52:38,358  INFO Application:68 - Update Succeed
+13:52:42,364  INFO Application:29 - Interval Update 4
+13:52:42,367  INFO Application:56 - No Active Products
+13:52:42,368  INFO Application:58 - List Of Actives Products: 
+13:52:42,368  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:42,369  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:42,369  INFO Application:81 - Module Codes Array Length -> 1
+13:52:42,371  INFO Application:68 - Update Succeed
+13:52:46,382  INFO Application:29 - Interval Update 4
+13:52:46,385  INFO Application:56 - No Active Products
+13:52:46,386  INFO Application:58 - List Of Actives Products: 
+13:52:46,386  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:46,387  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:46,387  INFO Application:81 - Module Codes Array Length -> 1
+13:52:46,389  INFO Application:68 - Update Succeed
+13:52:50,404  INFO Application:29 - Interval Update 4
+13:52:50,407  INFO Application:56 - No Active Products
+13:52:50,408  INFO Application:58 - List Of Actives Products: 
+13:52:50,408  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:50,408  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:50,408  INFO Application:81 - Module Codes Array Length -> 1
+13:52:50,411  INFO Application:68 - Update Succeed
+13:52:54,422  INFO Application:29 - Interval Update 4
+13:52:54,425  INFO Application:56 - No Active Products
+13:52:54,426  INFO Application:58 - List Of Actives Products: 
+13:52:54,426  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:54,426  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:54,426  INFO Application:81 - Module Codes Array Length -> 1
+13:52:54,429  INFO Application:68 - Update Succeed
+13:52:58,444  INFO Application:29 - Interval Update 4
+13:52:58,449  INFO Application:56 - No Active Products
+13:52:58,451  INFO Application:58 - List Of Actives Products: 
+13:52:58,451  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:52:58,451  INFO Application:63 - 303 | S100 | 96,325.00
+13:52:58,451  INFO Application:81 - Module Codes Array Length -> 1
+13:52:58,456  INFO Application:68 - Update Succeed
+13:53:02,459  INFO Application:29 - Interval Update 4
+13:53:02,462  INFO Application:56 - No Active Products
+13:53:02,465  INFO Application:58 - List Of Actives Products: 
+13:53:02,465  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:02,465  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:02,466  INFO Application:81 - Module Codes Array Length -> 1
+13:53:02,468  INFO Application:68 - Update Succeed
+13:53:06,474  INFO Application:29 - Interval Update 4
+13:53:06,477  INFO Application:56 - No Active Products
+13:53:06,478  INFO Application:58 - List Of Actives Products: 
+13:53:06,478  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:06,478  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:06,478  INFO Application:81 - Module Codes Array Length -> 1
+13:53:06,480  INFO Application:68 - Update Succeed
+13:53:10,486  INFO Application:29 - Interval Update 4
+13:53:10,490  INFO Application:56 - No Active Products
+13:53:10,491  INFO Application:58 - List Of Actives Products: 
+13:53:10,491  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:10,491  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:10,492  INFO Application:81 - Module Codes Array Length -> 1
+13:53:10,494  INFO Application:68 - Update Succeed
+13:53:14,503  INFO Application:29 - Interval Update 4
+13:53:14,505  INFO Application:56 - No Active Products
+13:53:14,506  INFO Application:58 - List Of Actives Products: 
+13:53:14,506  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:14,506  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:14,507  INFO Application:81 - Module Codes Array Length -> 1
+13:53:14,508  INFO Application:68 - Update Succeed
+13:53:18,510  INFO Application:29 - Interval Update 4
+13:53:18,512  INFO Application:56 - No Active Products
+13:53:18,513  INFO Application:58 - List Of Actives Products: 
+13:53:18,513  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:18,513  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:18,513  INFO Application:81 - Module Codes Array Length -> 1
+13:53:18,515  INFO Application:68 - Update Succeed
+13:53:22,522  INFO Application:29 - Interval Update 4
+13:53:22,524  INFO Application:56 - No Active Products
+13:53:22,525  INFO Application:58 - List Of Actives Products: 
+13:53:22,525  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:22,525  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:22,526  INFO Application:81 - Module Codes Array Length -> 1
+13:53:22,528  INFO Application:68 - Update Succeed
+13:53:26,536  INFO Application:29 - Interval Update 4
+13:53:26,540  INFO Application:56 - No Active Products
+13:53:26,541  INFO Application:58 - List Of Actives Products: 
+13:53:26,541  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:26,541  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:26,541  INFO Application:81 - Module Codes Array Length -> 1
+13:53:26,544  INFO Application:68 - Update Succeed
+13:53:30,554  INFO Application:29 - Interval Update 4
+13:53:30,555  INFO Application:56 - No Active Products
+13:53:30,556  INFO Application:58 - List Of Actives Products: 
+13:53:30,556  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:30,556  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:30,557  INFO Application:81 - Module Codes Array Length -> 1
+13:53:30,558  INFO Application:68 - Update Succeed
+13:53:34,569  INFO Application:29 - Interval Update 4
+13:53:34,570  INFO Application:56 - No Active Products
+13:53:34,571  INFO Application:58 - List Of Actives Products: 
+13:53:34,571  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:34,571  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:34,572  INFO Application:81 - Module Codes Array Length -> 1
+13:53:34,573  INFO Application:68 - Update Succeed
+13:53:38,575  INFO Application:29 - Interval Update 4
+13:53:38,576  INFO Application:56 - No Active Products
+13:53:38,577  INFO Application:58 - List Of Actives Products: 
+13:53:38,577  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:38,577  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:38,577  INFO Application:81 - Module Codes Array Length -> 1
+13:53:38,578  INFO Application:68 - Update Succeed
+13:53:42,582  INFO Application:29 - Interval Update 4
+13:53:42,584  INFO Application:56 - No Active Products
+13:53:42,585  INFO Application:58 - List Of Actives Products: 
+13:53:42,585  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:42,585  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:42,585  INFO Application:81 - Module Codes Array Length -> 1
+13:53:42,587  INFO Application:68 - Update Succeed
+13:53:46,591  INFO Application:29 - Interval Update 4
+13:53:46,594  INFO Application:56 - No Active Products
+13:53:46,596  INFO Application:58 - List Of Actives Products: 
+13:53:46,596  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:46,596  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:46,596  INFO Application:81 - Module Codes Array Length -> 1
+13:53:46,598  INFO Application:68 - Update Succeed
+13:53:50,612  INFO Application:29 - Interval Update 4
+13:53:50,615  INFO Application:56 - No Active Products
+13:53:50,616  INFO Application:58 - List Of Actives Products: 
+13:53:50,616  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:50,616  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:50,616  INFO Application:81 - Module Codes Array Length -> 1
+13:53:50,618  INFO Application:68 - Update Succeed
+13:53:54,619  INFO Application:29 - Interval Update 4
+13:53:54,620  INFO Application:56 - No Active Products
+13:53:54,621  INFO Application:58 - List Of Actives Products: 
+13:53:54,621  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:54,621  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:54,621  INFO Application:81 - Module Codes Array Length -> 1
+13:53:54,623  INFO Application:68 - Update Succeed
+13:53:58,632  INFO Application:29 - Interval Update 4
+13:53:58,634  INFO Application:56 - No Active Products
+13:53:58,635  INFO Application:58 - List Of Actives Products: 
+13:53:58,635  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:53:58,635  INFO Application:63 - 303 | S100 | 96,325.00
+13:53:58,635  INFO Application:81 - Module Codes Array Length -> 1
+13:53:58,636  INFO Application:68 - Update Succeed
+13:54:02,646  INFO Application:29 - Interval Update 4
+13:54:02,648  INFO Application:56 - No Active Products
+13:54:02,648  INFO Application:58 - List Of Actives Products: 
+13:54:02,648  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:02,648  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:02,649  INFO Application:81 - Module Codes Array Length -> 1
+13:54:02,650  INFO Application:68 - Update Succeed
+13:54:06,664  INFO Application:29 - Interval Update 4
+13:54:06,665  INFO Application:56 - No Active Products
+13:54:06,666  INFO Application:58 - List Of Actives Products: 
+13:54:06,666  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:06,666  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:06,667  INFO Application:81 - Module Codes Array Length -> 1
+13:54:06,668  INFO Application:68 - Update Succeed
+13:54:10,672  INFO Application:29 - Interval Update 4
+13:54:10,673  INFO Application:56 - No Active Products
+13:54:10,674  INFO Application:58 - List Of Actives Products: 
+13:54:10,674  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:10,675  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:10,675  INFO Application:81 - Module Codes Array Length -> 1
+13:54:10,676  INFO Application:68 - Update Succeed
+13:54:14,686  INFO Application:29 - Interval Update 4
+13:54:14,687  INFO Application:56 - No Active Products
+13:54:14,688  INFO Application:58 - List Of Actives Products: 
+13:54:14,689  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:14,689  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:14,689  INFO Application:81 - Module Codes Array Length -> 1
+13:54:14,691  INFO Application:68 - Update Succeed
+13:54:18,700  INFO Application:29 - Interval Update 4
+13:54:18,701  INFO Application:56 - No Active Products
+13:54:18,702  INFO Application:58 - List Of Actives Products: 
+13:54:18,702  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:18,702  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:18,702  INFO Application:81 - Module Codes Array Length -> 1
+13:54:18,703  INFO Application:68 - Update Succeed
+13:54:22,706  INFO Application:29 - Interval Update 4
+13:54:22,708  INFO Application:56 - No Active Products
+13:54:22,709  INFO Application:58 - List Of Actives Products: 
+13:54:22,709  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:22,709  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:22,709  INFO Application:81 - Module Codes Array Length -> 1
+13:54:22,711  INFO Application:68 - Update Succeed
+13:54:26,711  INFO Application:29 - Interval Update 4
+13:54:26,715  INFO Application:56 - No Active Products
+13:54:26,716  INFO Application:58 - List Of Actives Products: 
+13:54:26,716  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:26,716  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:26,716  INFO Application:81 - Module Codes Array Length -> 1
+13:54:26,719  INFO Application:68 - Update Succeed
+13:54:30,727  INFO Application:29 - Interval Update 4
+13:54:30,730  INFO Application:56 - No Active Products
+13:54:30,731  INFO Application:58 - List Of Actives Products: 
+13:54:30,731  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:30,731  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:30,732  INFO Application:81 - Module Codes Array Length -> 1
+13:54:30,734  INFO Application:68 - Update Succeed
+13:54:34,735  INFO Application:29 - Interval Update 4
+13:54:34,736  INFO Application:56 - No Active Products
+13:54:34,737  INFO Application:58 - List Of Actives Products: 
+13:54:34,737  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:34,737  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:34,738  INFO Application:81 - Module Codes Array Length -> 1
+13:54:34,739  INFO Application:68 - Update Succeed
+13:54:38,742  INFO Application:29 - Interval Update 4
+13:54:38,743  INFO Application:56 - No Active Products
+13:54:38,744  INFO Application:58 - List Of Actives Products: 
+13:54:38,744  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:38,744  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:38,744  INFO Application:81 - Module Codes Array Length -> 1
+13:54:38,745  INFO Application:68 - Update Succeed
+13:54:42,758  INFO Application:29 - Interval Update 4
+13:54:42,760  INFO Application:56 - No Active Products
+13:54:42,761  INFO Application:58 - List Of Actives Products: 
+13:54:42,761  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:42,761  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:42,762  INFO Application:81 - Module Codes Array Length -> 1
+13:54:42,763  INFO Application:68 - Update Succeed
+13:54:46,773  INFO Application:29 - Interval Update 4
+13:54:46,774  INFO Application:56 - No Active Products
+13:54:46,775  INFO Application:58 - List Of Actives Products: 
+13:54:46,775  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:46,775  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:46,775  INFO Application:81 - Module Codes Array Length -> 1
+13:54:46,776  INFO Application:68 - Update Succeed
+13:54:50,790  INFO Application:29 - Interval Update 4
+13:54:50,792  INFO Application:56 - No Active Products
+13:54:50,793  INFO Application:58 - List Of Actives Products: 
+13:54:50,793  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:50,794  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:50,794  INFO Application:81 - Module Codes Array Length -> 1
+13:54:50,796  INFO Application:68 - Update Succeed
+13:54:54,809  INFO Application:29 - Interval Update 4
+13:54:54,811  INFO Application:56 - No Active Products
+13:54:54,813  INFO Application:58 - List Of Actives Products: 
+13:54:54,813  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:54,813  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:54,813  INFO Application:81 - Module Codes Array Length -> 1
+13:54:54,816  INFO Application:68 - Update Succeed
+13:54:58,822  INFO Application:29 - Interval Update 4
+13:54:58,825  INFO Application:56 - No Active Products
+13:54:58,826  INFO Application:58 - List Of Actives Products: 
+13:54:58,826  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:54:58,826  INFO Application:63 - 303 | S100 | 96,325.00
+13:54:58,826  INFO Application:81 - Module Codes Array Length -> 1
+13:54:58,829  INFO Application:68 - Update Succeed
+13:55:02,835  INFO Application:29 - Interval Update 4
+13:55:02,835  INFO Application:56 - No Active Products
+13:55:02,837  INFO Application:58 - List Of Actives Products: 
+13:55:02,837  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:02,837  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:02,837  INFO Application:81 - Module Codes Array Length -> 1
+13:55:02,838  INFO Application:68 - Update Succeed
+13:55:06,842  INFO Application:29 - Interval Update 4
+13:55:06,844  INFO Application:56 - No Active Products
+13:55:06,845  INFO Application:58 - List Of Actives Products: 
+13:55:06,845  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:06,845  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:06,846  INFO Application:81 - Module Codes Array Length -> 1
+13:55:06,847  INFO Application:68 - Update Succeed
+13:55:10,851  INFO Application:29 - Interval Update 4
+13:55:10,852  INFO Application:56 - No Active Products
+13:55:10,853  INFO Application:58 - List Of Actives Products: 
+13:55:10,854  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:10,854  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:10,854  INFO Application:81 - Module Codes Array Length -> 1
+13:55:10,855  INFO Application:68 - Update Succeed
+13:55:14,869  INFO Application:29 - Interval Update 4
+13:55:14,870  INFO Application:56 - No Active Products
+13:55:14,871  INFO Application:58 - List Of Actives Products: 
+13:55:14,871  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:14,871  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:14,872  INFO Application:81 - Module Codes Array Length -> 1
+13:55:14,873  INFO Application:68 - Update Succeed
+13:55:18,882  INFO Application:29 - Interval Update 4
+13:55:18,883  INFO Application:56 - No Active Products
+13:55:18,884  INFO Application:58 - List Of Actives Products: 
+13:55:18,884  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:18,884  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:18,884  INFO Application:81 - Module Codes Array Length -> 1
+13:55:18,886  INFO Application:68 - Update Succeed
+13:55:22,898  INFO Application:29 - Interval Update 4
+13:55:22,899  INFO Application:56 - No Active Products
+13:55:22,900  INFO Application:58 - List Of Actives Products: 
+13:55:22,900  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:22,900  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:22,900  INFO Application:81 - Module Codes Array Length -> 1
+13:55:22,901  INFO Application:68 - Update Succeed
+13:55:26,909  INFO Application:29 - Interval Update 4
+13:55:26,910  INFO Application:56 - No Active Products
+13:55:26,911  INFO Application:58 - List Of Actives Products: 
+13:55:26,911  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:26,911  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:26,912  INFO Application:81 - Module Codes Array Length -> 1
+13:55:26,913  INFO Application:68 - Update Succeed
+13:55:30,919  INFO Application:29 - Interval Update 4
+13:55:30,920  INFO Application:56 - No Active Products
+13:55:30,921  INFO Application:58 - List Of Actives Products: 
+13:55:30,921  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:30,921  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:30,921  INFO Application:81 - Module Codes Array Length -> 1
+13:55:30,922  INFO Application:68 - Update Succeed
+13:55:34,927  INFO Application:29 - Interval Update 4
+13:55:34,930  INFO Application:56 - No Active Products
+13:55:34,933  INFO Application:58 - List Of Actives Products: 
+13:55:34,933  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:34,933  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:34,933  INFO Application:81 - Module Codes Array Length -> 1
+13:55:34,935  INFO Application:68 - Update Succeed
+13:55:38,946  INFO Application:29 - Interval Update 4
+13:55:38,949  INFO Application:56 - No Active Products
+13:55:38,950  INFO Application:58 - List Of Actives Products: 
+13:55:38,950  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:38,950  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:38,950  INFO Application:81 - Module Codes Array Length -> 1
+13:55:38,952  INFO Application:68 - Update Succeed
+13:55:42,965  INFO Application:29 - Interval Update 4
+13:55:42,967  INFO Application:56 - No Active Products
+13:55:42,968  INFO Application:58 - List Of Actives Products: 
+13:55:42,968  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:42,968  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:42,968  INFO Application:81 - Module Codes Array Length -> 1
+13:55:42,969  INFO Application:68 - Update Succeed
+13:55:46,971  INFO Application:29 - Interval Update 4
+13:55:46,972  INFO Application:56 - No Active Products
+13:55:46,973  INFO Application:58 - List Of Actives Products: 
+13:55:46,973  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:46,973  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:46,974  INFO Application:81 - Module Codes Array Length -> 1
+13:55:46,975  INFO Application:68 - Update Succeed
+13:55:50,977  INFO Application:29 - Interval Update 4
+13:55:50,978  INFO Application:56 - No Active Products
+13:55:50,979  INFO Application:58 - List Of Actives Products: 
+13:55:50,979  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:50,979  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:50,980  INFO Application:81 - Module Codes Array Length -> 1
+13:55:50,981  INFO Application:68 - Update Succeed
+13:55:54,982  INFO Application:29 - Interval Update 4
+13:55:54,983  INFO Application:56 - No Active Products
+13:55:54,984  INFO Application:58 - List Of Actives Products: 
+13:55:54,984  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:54,984  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:54,985  INFO Application:81 - Module Codes Array Length -> 1
+13:55:54,986  INFO Application:68 - Update Succeed
+13:55:59,001  INFO Application:29 - Interval Update 4
+13:55:59,004  INFO Application:56 - No Active Products
+13:55:59,005  INFO Application:58 - List Of Actives Products: 
+13:55:59,005  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:55:59,005  INFO Application:63 - 303 | S100 | 96,325.00
+13:55:59,006  INFO Application:81 - Module Codes Array Length -> 1
+13:55:59,008  INFO Application:68 - Update Succeed
+13:56:03,013  INFO Application:29 - Interval Update 4
+13:56:03,017  INFO Application:56 - No Active Products
+13:56:03,017  INFO Application:58 - List Of Actives Products: 
+13:56:03,017  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:03,017  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:03,018  INFO Application:81 - Module Codes Array Length -> 1
+13:56:03,020  INFO Application:68 - Update Succeed
+13:56:07,021  INFO Application:29 - Interval Update 4
+13:56:07,024  INFO Application:56 - No Active Products
+13:56:07,024  INFO Application:58 - List Of Actives Products: 
+13:56:07,024  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:07,024  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:07,024  INFO Application:81 - Module Codes Array Length -> 1
+13:56:07,026  INFO Application:68 - Update Succeed
+13:56:11,036  INFO Application:29 - Interval Update 4
+13:56:11,037  INFO Application:56 - No Active Products
+13:56:11,038  INFO Application:58 - List Of Actives Products: 
+13:56:11,038  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:11,038  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:11,039  INFO Application:81 - Module Codes Array Length -> 1
+13:56:11,040  INFO Application:68 - Update Succeed
+13:56:15,045  INFO Application:29 - Interval Update 4
+13:56:15,046  INFO Application:56 - No Active Products
+13:56:15,048  INFO Application:58 - List Of Actives Products: 
+13:56:15,048  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:15,048  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:15,048  INFO Application:81 - Module Codes Array Length -> 1
+13:56:15,049  INFO Application:68 - Update Succeed
+13:56:19,063  INFO Application:29 - Interval Update 4
+13:56:19,064  INFO Application:56 - No Active Products
+13:56:19,065  INFO Application:58 - List Of Actives Products: 
+13:56:19,065  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:19,065  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:19,065  INFO Application:81 - Module Codes Array Length -> 1
+13:56:19,066  INFO Application:68 - Update Succeed
+13:56:23,080  INFO Application:29 - Interval Update 4
+13:56:23,081  INFO Application:56 - No Active Products
+13:56:23,082  INFO Application:58 - List Of Actives Products: 
+13:56:23,082  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:23,082  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:23,083  INFO Application:81 - Module Codes Array Length -> 1
+13:56:23,084  INFO Application:68 - Update Succeed
+13:56:27,090  INFO Application:29 - Interval Update 4
+13:56:27,091  INFO Application:56 - No Active Products
+13:56:27,092  INFO Application:58 - List Of Actives Products: 
+13:56:27,092  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:27,092  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:27,092  INFO Application:81 - Module Codes Array Length -> 1
+13:56:27,093  INFO Application:68 - Update Succeed
+13:56:31,094  INFO Application:29 - Interval Update 4
+13:56:31,095  INFO Application:56 - No Active Products
+13:56:31,096  INFO Application:58 - List Of Actives Products: 
+13:56:31,096  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:31,096  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:31,096  INFO Application:81 - Module Codes Array Length -> 1
+13:56:31,098  INFO Application:68 - Update Succeed
+13:56:35,102  INFO Application:29 - Interval Update 4
+13:56:35,103  INFO Application:56 - No Active Products
+13:56:35,105  INFO Application:58 - List Of Actives Products: 
+13:56:35,105  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:35,105  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:35,105  INFO Application:81 - Module Codes Array Length -> 1
+13:56:35,106  INFO Application:68 - Update Succeed
+13:56:39,108  INFO Application:29 - Interval Update 4
+13:56:39,111  INFO Application:56 - No Active Products
+13:56:39,112  INFO Application:58 - List Of Actives Products: 
+13:56:39,112  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:39,112  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:39,112  INFO Application:81 - Module Codes Array Length -> 1
+13:56:39,114  INFO Application:68 - Update Succeed
+13:56:43,119  INFO Application:29 - Interval Update 4
+13:56:43,121  INFO Application:56 - No Active Products
+13:56:43,123  INFO Application:58 - List Of Actives Products: 
+13:56:43,123  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:43,123  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:43,123  INFO Application:81 - Module Codes Array Length -> 1
+13:56:43,125  INFO Application:68 - Update Succeed
+13:56:47,132  INFO Application:29 - Interval Update 4
+13:56:47,134  INFO Application:56 - No Active Products
+13:56:47,135  INFO Application:58 - List Of Actives Products: 
+13:56:47,135  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:47,135  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:47,135  INFO Application:81 - Module Codes Array Length -> 1
+13:56:47,136  INFO Application:68 - Update Succeed
+13:56:51,149  INFO Application:29 - Interval Update 4
+13:56:51,150  INFO Application:56 - No Active Products
+13:56:51,151  INFO Application:58 - List Of Actives Products: 
+13:56:51,151  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:51,151  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:51,151  INFO Application:81 - Module Codes Array Length -> 1
+13:56:51,153  INFO Application:68 - Update Succeed
+13:56:55,167  INFO Application:29 - Interval Update 4
+13:56:55,170  INFO Application:56 - No Active Products
+13:56:55,171  INFO Application:58 - List Of Actives Products: 
+13:56:55,171  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:55,171  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:55,172  INFO Application:81 - Module Codes Array Length -> 1
+13:56:55,176  INFO Application:68 - Update Succeed
+13:56:59,187  INFO Application:29 - Interval Update 4
+13:56:59,191  INFO Application:56 - No Active Products
+13:56:59,193  INFO Application:58 - List Of Actives Products: 
+13:56:59,193  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:56:59,193  INFO Application:63 - 303 | S100 | 96,325.00
+13:56:59,193  INFO Application:81 - Module Codes Array Length -> 1
+13:56:59,196  INFO Application:68 - Update Succeed
+13:57:03,201  INFO Application:29 - Interval Update 4
+13:57:03,202  INFO Application:56 - No Active Products
+13:57:03,203  INFO Application:58 - List Of Actives Products: 
+13:57:03,203  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:03,203  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:03,203  INFO Application:81 - Module Codes Array Length -> 1
+13:57:03,204  INFO Application:68 - Update Succeed
+13:57:07,218  INFO Application:29 - Interval Update 4
+13:57:07,220  INFO Application:56 - No Active Products
+13:57:07,221  INFO Application:58 - List Of Actives Products: 
+13:57:07,221  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:07,221  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:07,221  INFO Application:81 - Module Codes Array Length -> 1
+13:57:07,223  INFO Application:68 - Update Succeed
+13:57:11,235  INFO Application:29 - Interval Update 4
+13:57:11,237  INFO Application:56 - No Active Products
+13:57:11,238  INFO Application:58 - List Of Actives Products: 
+13:57:11,238  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:11,239  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:11,239  INFO Application:81 - Module Codes Array Length -> 1
+13:57:11,240  INFO Application:68 - Update Succeed
+13:57:15,256  INFO Application:29 - Interval Update 4
+13:57:15,258  INFO Application:56 - No Active Products
+13:57:15,259  INFO Application:58 - List Of Actives Products: 
+13:57:15,259  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:15,259  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:15,260  INFO Application:81 - Module Codes Array Length -> 1
+13:57:15,261  INFO Application:68 - Update Succeed
+13:57:19,263  INFO Application:29 - Interval Update 4
+13:57:19,265  INFO Application:56 - No Active Products
+13:57:19,265  INFO Application:58 - List Of Actives Products: 
+13:57:19,266  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:19,266  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:19,266  INFO Application:81 - Module Codes Array Length -> 1
+13:57:19,267  INFO Application:68 - Update Succeed
+13:57:23,274  INFO Application:29 - Interval Update 4
+13:57:23,275  INFO Application:56 - No Active Products
+13:57:23,276  INFO Application:58 - List Of Actives Products: 
+13:57:23,276  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:23,276  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:23,276  INFO Application:81 - Module Codes Array Length -> 1
+13:57:23,277  INFO Application:68 - Update Succeed
+13:57:27,281  INFO Application:29 - Interval Update 4
+13:57:27,282  INFO Application:56 - No Active Products
+13:57:27,283  INFO Application:58 - List Of Actives Products: 
+13:57:27,283  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:27,283  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:27,283  INFO Application:81 - Module Codes Array Length -> 1
+13:57:27,284  INFO Application:68 - Update Succeed
+13:57:31,290  INFO Application:29 - Interval Update 4
+13:57:31,291  INFO Application:56 - No Active Products
+13:57:31,292  INFO Application:58 - List Of Actives Products: 
+13:57:31,292  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:31,292  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:31,292  INFO Application:81 - Module Codes Array Length -> 1
+13:57:31,294  INFO Application:68 - Update Succeed
+13:57:35,301  INFO Application:29 - Interval Update 4
+13:57:35,303  INFO Application:56 - No Active Products
+13:57:35,304  INFO Application:58 - List Of Actives Products: 
+13:57:35,304  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:35,304  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:35,304  INFO Application:81 - Module Codes Array Length -> 1
+13:57:35,305  INFO Application:68 - Update Succeed
+13:57:39,313  INFO Application:29 - Interval Update 4
+13:57:39,314  INFO Application:56 - No Active Products
+13:57:39,316  INFO Application:58 - List Of Actives Products: 
+13:57:39,316  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:39,316  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:39,316  INFO Application:81 - Module Codes Array Length -> 1
+13:57:39,317  INFO Application:68 - Update Succeed
+13:57:43,330  INFO Application:29 - Interval Update 4
+13:57:43,331  INFO Application:56 - No Active Products
+13:57:43,332  INFO Application:58 - List Of Actives Products: 
+13:57:43,332  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:43,332  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:43,332  INFO Application:81 - Module Codes Array Length -> 1
+13:57:43,334  INFO Application:68 - Update Succeed
+13:57:47,349  INFO Application:29 - Interval Update 4
+13:57:47,351  INFO Application:56 - No Active Products
+13:57:47,354  INFO Application:58 - List Of Actives Products: 
+13:57:47,354  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:47,354  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:47,355  INFO Application:81 - Module Codes Array Length -> 1
+13:57:47,357  INFO Application:68 - Update Succeed
+13:57:51,363  INFO Application:29 - Interval Update 4
+13:57:51,366  INFO Application:56 - No Active Products
+13:57:51,367  INFO Application:58 - List Of Actives Products: 
+13:57:51,367  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:51,367  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:51,367  INFO Application:81 - Module Codes Array Length -> 1
+13:57:51,371  INFO Application:68 - Update Succeed
+13:57:55,372  INFO Application:29 - Interval Update 4
+13:57:55,373  INFO Application:56 - No Active Products
+13:57:55,375  INFO Application:58 - List Of Actives Products: 
+13:57:55,375  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:55,375  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:55,375  INFO Application:81 - Module Codes Array Length -> 1
+13:57:55,376  INFO Application:68 - Update Succeed
+13:57:59,389  INFO Application:29 - Interval Update 4
+13:57:59,391  INFO Application:56 - No Active Products
+13:57:59,392  INFO Application:58 - List Of Actives Products: 
+13:57:59,392  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:57:59,392  INFO Application:63 - 303 | S100 | 96,325.00
+13:57:59,392  INFO Application:81 - Module Codes Array Length -> 1
+13:57:59,392  INFO Application:68 - Update Succeed
+13:58:03,403  INFO Application:29 - Interval Update 4
+13:58:03,404  INFO Application:56 - No Active Products
+13:58:03,405  INFO Application:58 - List Of Actives Products: 
+13:58:03,405  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:03,405  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:03,405  INFO Application:81 - Module Codes Array Length -> 1
+13:58:03,406  INFO Application:68 - Update Succeed
+13:58:07,410  INFO Application:29 - Interval Update 4
+13:58:07,412  INFO Application:56 - No Active Products
+13:58:07,413  INFO Application:58 - List Of Actives Products: 
+13:58:07,413  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:07,413  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:07,413  INFO Application:81 - Module Codes Array Length -> 1
+13:58:07,414  INFO Application:68 - Update Succeed
+13:58:11,419  INFO Application:29 - Interval Update 4
+13:58:11,420  INFO Application:56 - No Active Products
+13:58:11,421  INFO Application:58 - List Of Actives Products: 
+13:58:11,421  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:11,421  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:11,421  INFO Application:81 - Module Codes Array Length -> 1
+13:58:11,422  INFO Application:68 - Update Succeed
+13:58:15,429  INFO Application:29 - Interval Update 4
+13:58:15,432  INFO Application:56 - No Active Products
+13:58:15,433  INFO Application:58 - List Of Actives Products: 
+13:58:15,433  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:15,433  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:15,433  INFO Application:81 - Module Codes Array Length -> 1
+13:58:15,436  INFO Application:68 - Update Succeed
+13:58:19,440  INFO Application:29 - Interval Update 4
+13:58:19,444  INFO Application:56 - No Active Products
+13:58:19,445  INFO Application:58 - List Of Actives Products: 
+13:58:19,445  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:19,445  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:19,445  INFO Application:81 - Module Codes Array Length -> 1
+13:58:19,447  INFO Application:68 - Update Succeed
+13:58:23,451  INFO Application:29 - Interval Update 4
+13:58:23,452  INFO Application:56 - No Active Products
+13:58:23,453  INFO Application:58 - List Of Actives Products: 
+13:58:23,453  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:23,453  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:23,453  INFO Application:81 - Module Codes Array Length -> 1
+13:58:23,454  INFO Application:68 - Update Succeed
+13:58:27,457  INFO Application:29 - Interval Update 4
+13:58:27,459  INFO Application:56 - No Active Products
+13:58:27,461  INFO Application:58 - List Of Actives Products: 
+13:58:27,461  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:27,461  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:27,461  INFO Application:81 - Module Codes Array Length -> 1
+13:58:27,462  INFO Application:68 - Update Succeed
+13:58:31,465  INFO Application:29 - Interval Update 4
+13:58:31,466  INFO Application:56 - No Active Products
+13:58:31,467  INFO Application:58 - List Of Actives Products: 
+13:58:31,467  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:31,467  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:31,467  INFO Application:81 - Module Codes Array Length -> 1
+13:58:31,468  INFO Application:68 - Update Succeed
+13:58:35,476  INFO Application:29 - Interval Update 4
+13:58:35,476  INFO Application:56 - No Active Products
+13:58:35,478  INFO Application:58 - List Of Actives Products: 
+13:58:35,478  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:35,478  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:35,478  INFO Application:81 - Module Codes Array Length -> 1
+13:58:35,479  INFO Application:68 - Update Succeed
+13:58:39,487  INFO Application:29 - Interval Update 4
+13:58:39,487  INFO Application:56 - No Active Products
+13:58:39,488  INFO Application:58 - List Of Actives Products: 
+13:58:39,489  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:39,489  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:39,489  INFO Application:81 - Module Codes Array Length -> 1
+13:58:39,490  INFO Application:68 - Update Succeed
+13:58:43,503  INFO Application:29 - Interval Update 4
+13:58:43,504  INFO Application:56 - No Active Products
+13:58:43,505  INFO Application:58 - List Of Actives Products: 
+13:58:43,505  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:43,505  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:43,505  INFO Application:81 - Module Codes Array Length -> 1
+13:58:43,507  INFO Application:68 - Update Succeed
+13:58:47,516  INFO Application:29 - Interval Update 4
+13:58:47,518  INFO Application:56 - No Active Products
+13:58:47,519  INFO Application:58 - List Of Actives Products: 
+13:58:47,519  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:47,519  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:47,519  INFO Application:81 - Module Codes Array Length -> 1
+13:58:47,520  INFO Application:68 - Update Succeed
+13:58:51,534  INFO Application:29 - Interval Update 4
+13:58:51,536  INFO Application:56 - No Active Products
+13:58:51,539  INFO Application:58 - List Of Actives Products: 
+13:58:51,539  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:51,539  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:51,539  INFO Application:81 - Module Codes Array Length -> 1
+13:58:51,540  INFO Application:68 - Update Succeed
+13:58:55,546  INFO Application:29 - Interval Update 4
+13:58:55,549  INFO Application:56 - No Active Products
+13:58:55,550  INFO Application:58 - List Of Actives Products: 
+13:58:55,550  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:55,550  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:55,551  INFO Application:81 - Module Codes Array Length -> 1
+13:58:55,553  INFO Application:68 - Update Succeed
+13:58:59,564  INFO Application:29 - Interval Update 4
+13:58:59,571  INFO Application:56 - No Active Products
+13:58:59,573  INFO Application:58 - List Of Actives Products: 
+13:58:59,573  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:58:59,573  INFO Application:63 - 303 | S100 | 96,325.00
+13:58:59,573  INFO Application:81 - Module Codes Array Length -> 1
+13:58:59,577  INFO Application:68 - Update Succeed
+13:59:03,578  INFO Application:29 - Interval Update 4
+13:59:03,581  INFO Application:56 - No Active Products
+13:59:03,582  INFO Application:58 - List Of Actives Products: 
+13:59:03,582  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:03,582  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:03,582  INFO Application:81 - Module Codes Array Length -> 1
+13:59:03,585  INFO Application:68 - Update Succeed
+13:59:07,588  INFO Application:29 - Interval Update 4
+13:59:07,591  INFO Application:56 - No Active Products
+13:59:07,592  INFO Application:58 - List Of Actives Products: 
+13:59:07,592  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:07,592  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:07,593  INFO Application:81 - Module Codes Array Length -> 1
+13:59:07,595  INFO Application:68 - Update Succeed
+13:59:11,597  INFO Application:29 - Interval Update 4
+13:59:11,600  INFO Application:56 - No Active Products
+13:59:11,601  INFO Application:58 - List Of Actives Products: 
+13:59:11,601  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:11,601  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:11,602  INFO Application:81 - Module Codes Array Length -> 1
+13:59:11,604  INFO Application:68 - Update Succeed
+13:59:15,613  INFO Application:29 - Interval Update 4
+13:59:15,614  INFO Application:56 - No Active Products
+13:59:15,615  INFO Application:58 - List Of Actives Products: 
+13:59:15,615  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:15,615  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:15,616  INFO Application:81 - Module Codes Array Length -> 1
+13:59:15,616  INFO Application:68 - Update Succeed
+13:59:19,627  INFO Application:29 - Interval Update 4
+13:59:19,629  INFO Application:56 - No Active Products
+13:59:19,630  INFO Application:58 - List Of Actives Products: 
+13:59:19,630  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:19,630  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:19,630  INFO Application:81 - Module Codes Array Length -> 1
+13:59:19,631  INFO Application:68 - Update Succeed
+13:59:23,637  INFO Application:29 - Interval Update 4
+13:59:23,640  INFO Application:56 - No Active Products
+13:59:23,640  INFO Application:58 - List Of Actives Products: 
+13:59:23,640  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:23,640  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:23,640  INFO Application:81 - Module Codes Array Length -> 1
+13:59:23,642  INFO Application:68 - Update Succeed
+13:59:27,647  INFO Application:29 - Interval Update 4
+13:59:27,650  INFO Application:56 - No Active Products
+13:59:27,651  INFO Application:58 - List Of Actives Products: 
+13:59:27,651  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:27,651  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:27,652  INFO Application:81 - Module Codes Array Length -> 1
+13:59:27,654  INFO Application:68 - Update Succeed
+13:59:31,663  INFO Application:29 - Interval Update 4
+13:59:31,664  INFO Application:56 - No Active Products
+13:59:31,665  INFO Application:58 - List Of Actives Products: 
+13:59:31,665  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:31,665  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:31,666  INFO Application:81 - Module Codes Array Length -> 1
+13:59:31,667  INFO Application:68 - Update Succeed
+13:59:35,674  INFO Application:29 - Interval Update 4
+13:59:35,675  INFO Application:56 - No Active Products
+13:59:35,676  INFO Application:58 - List Of Actives Products: 
+13:59:35,676  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:35,676  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:35,676  INFO Application:81 - Module Codes Array Length -> 1
+13:59:35,677  INFO Application:68 - Update Succeed
+13:59:39,678  INFO Application:29 - Interval Update 4
+13:59:39,679  INFO Application:56 - No Active Products
+13:59:39,680  INFO Application:58 - List Of Actives Products: 
+13:59:39,680  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:39,680  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:39,681  INFO Application:81 - Module Codes Array Length -> 1
+13:59:39,681  INFO Application:68 - Update Succeed
+13:59:43,688  INFO Application:29 - Interval Update 4
+13:59:43,690  INFO Application:56 - No Active Products
+13:59:43,691  INFO Application:58 - List Of Actives Products: 
+13:59:43,691  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:43,691  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:43,691  INFO Application:81 - Module Codes Array Length -> 1
+13:59:43,692  INFO Application:68 - Update Succeed
+13:59:47,697  INFO Application:29 - Interval Update 4
+13:59:47,699  INFO Application:56 - No Active Products
+13:59:47,700  INFO Application:58 - List Of Actives Products: 
+13:59:47,700  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:47,700  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:47,700  INFO Application:81 - Module Codes Array Length -> 1
+13:59:47,701  INFO Application:68 - Update Succeed
+13:59:51,707  INFO Application:29 - Interval Update 4
+13:59:51,708  INFO Application:56 - No Active Products
+13:59:51,709  INFO Application:58 - List Of Actives Products: 
+13:59:51,709  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:51,709  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:51,710  INFO Application:81 - Module Codes Array Length -> 1
+13:59:51,711  INFO Application:68 - Update Succeed
+13:59:55,714  INFO Application:29 - Interval Update 4
+13:59:55,715  INFO Application:56 - No Active Products
+13:59:55,716  INFO Application:58 - List Of Actives Products: 
+13:59:55,716  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:55,716  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:55,717  INFO Application:81 - Module Codes Array Length -> 1
+13:59:55,718  INFO Application:68 - Update Succeed
+13:59:59,720  INFO Application:29 - Interval Update 4
+13:59:59,721  INFO Application:56 - No Active Products
+13:59:59,722  INFO Application:58 - List Of Actives Products: 
+13:59:59,722  INFO Application:60 - kode_modul|kode_produk|harga_beli
+13:59:59,722  INFO Application:63 - 303 | S100 | 96,325.00
+13:59:59,722  INFO Application:81 - Module Codes Array Length -> 1
+13:59:59,723  INFO Application:68 - Update Succeed
+14:00:03,736  INFO Application:29 - Interval Update 4
+14:00:03,739  INFO Application:56 - No Active Products
+14:00:03,741  INFO Application:58 - List Of Actives Products: 
+14:00:03,741  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:03,741  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:03,742  INFO Application:81 - Module Codes Array Length -> 1
+14:00:03,744  INFO Application:68 - Update Succeed
+14:00:07,749  INFO Application:29 - Interval Update 4
+14:00:07,752  INFO Application:56 - No Active Products
+14:00:07,753  INFO Application:58 - List Of Actives Products: 
+14:00:07,753  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:07,753  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:07,753  INFO Application:81 - Module Codes Array Length -> 1
+14:00:07,755  INFO Application:68 - Update Succeed
+14:00:11,760  INFO Application:29 - Interval Update 4
+14:00:11,763  INFO Application:56 - No Active Products
+14:00:11,764  INFO Application:58 - List Of Actives Products: 
+14:00:11,765  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:11,765  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:11,765  INFO Application:81 - Module Codes Array Length -> 1
+14:00:11,767  INFO Application:68 - Update Succeed
+14:00:15,779  INFO Application:29 - Interval Update 4
+14:00:15,782  INFO Application:56 - No Active Products
+14:00:15,782  INFO Application:58 - List Of Actives Products: 
+14:00:15,783  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:15,783  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:15,783  INFO Application:81 - Module Codes Array Length -> 1
+14:00:15,784  INFO Application:68 - Update Succeed
+14:00:19,790  INFO Application:29 - Interval Update 4
+14:00:19,793  INFO Application:56 - No Active Products
+14:00:19,794  INFO Application:58 - List Of Actives Products: 
+14:00:19,794  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:19,794  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:19,794  INFO Application:81 - Module Codes Array Length -> 1
+14:00:19,796  INFO Application:68 - Update Succeed
+14:00:23,802  INFO Application:29 - Interval Update 4
+14:00:23,805  INFO Application:56 - No Active Products
+14:00:23,806  INFO Application:58 - List Of Actives Products: 
+14:00:23,806  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:23,806  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:23,807  INFO Application:81 - Module Codes Array Length -> 1
+14:00:23,809  INFO Application:68 - Update Succeed
+14:00:27,809  INFO Application:29 - Interval Update 4
+14:00:27,811  INFO Application:56 - No Active Products
+14:00:27,813  INFO Application:58 - List Of Actives Products: 
+14:00:27,813  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:27,813  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:27,813  INFO Application:81 - Module Codes Array Length -> 1
+14:00:27,817  INFO Application:68 - Update Succeed
+14:00:31,818  INFO Application:29 - Interval Update 4
+14:00:31,820  INFO Application:56 - No Active Products
+14:00:31,822  INFO Application:58 - List Of Actives Products: 
+14:00:31,822  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:31,822  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:31,822  INFO Application:81 - Module Codes Array Length -> 1
+14:00:31,824  INFO Application:68 - Update Succeed
+14:00:35,827  INFO Application:29 - Interval Update 4
+14:00:35,830  INFO Application:56 - No Active Products
+14:00:35,831  INFO Application:58 - List Of Actives Products: 
+14:00:35,831  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:35,831  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:35,831  INFO Application:81 - Module Codes Array Length -> 1
+14:00:35,833  INFO Application:68 - Update Succeed
+14:00:39,842  INFO Application:29 - Interval Update 4
+14:00:39,845  INFO Application:56 - No Active Products
+14:00:39,846  INFO Application:58 - List Of Actives Products: 
+14:00:39,846  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:39,846  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:39,846  INFO Application:81 - Module Codes Array Length -> 1
+14:00:39,848  INFO Application:68 - Update Succeed
+14:00:43,850  INFO Application:29 - Interval Update 4
+14:00:43,853  INFO Application:56 - No Active Products
+14:00:43,854  INFO Application:58 - List Of Actives Products: 
+14:00:43,854  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:43,854  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:43,855  INFO Application:81 - Module Codes Array Length -> 1
+14:00:43,857  INFO Application:68 - Update Succeed
+14:00:47,865  INFO Application:29 - Interval Update 4
+14:00:47,868  INFO Application:56 - No Active Products
+14:00:47,868  INFO Application:58 - List Of Actives Products: 
+14:00:47,868  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:47,869  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:47,869  INFO Application:81 - Module Codes Array Length -> 1
+14:00:47,871  INFO Application:68 - Update Succeed
+14:00:51,883  INFO Application:29 - Interval Update 4
+14:00:51,885  INFO Application:56 - No Active Products
+14:00:51,886  INFO Application:58 - List Of Actives Products: 
+14:00:51,886  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:51,886  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:51,887  INFO Application:81 - Module Codes Array Length -> 1
+14:00:51,889  INFO Application:68 - Update Succeed
+14:00:55,896  INFO Application:29 - Interval Update 4
+14:00:55,898  INFO Application:56 - No Active Products
+14:00:55,901  INFO Application:58 - List Of Actives Products: 
+14:00:55,901  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:55,901  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:55,901  INFO Application:81 - Module Codes Array Length -> 1
+14:00:55,903  INFO Application:68 - Update Succeed
+14:00:59,904  INFO Application:29 - Interval Update 4
+14:00:59,907  INFO Application:56 - No Active Products
+14:00:59,907  INFO Application:58 - List Of Actives Products: 
+14:00:59,907  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:00:59,908  INFO Application:63 - 303 | S100 | 96,325.00
+14:00:59,909  INFO Application:81 - Module Codes Array Length -> 1
+14:00:59,910  INFO Application:68 - Update Succeed
+14:01:03,912  INFO Application:29 - Interval Update 4
+14:01:03,915  INFO Application:56 - No Active Products
+14:01:03,916  INFO Application:58 - List Of Actives Products: 
+14:01:03,916  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:03,916  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:03,916  INFO Application:81 - Module Codes Array Length -> 1
+14:01:03,919  INFO Application:68 - Update Succeed
+14:01:07,930  INFO Application:29 - Interval Update 4
+14:01:07,933  INFO Application:56 - No Active Products
+14:01:07,934  INFO Application:58 - List Of Actives Products: 
+14:01:07,934  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:07,934  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:07,935  INFO Application:81 - Module Codes Array Length -> 1
+14:01:07,937  INFO Application:68 - Update Succeed
+14:01:11,952  INFO Application:29 - Interval Update 4
+14:01:11,954  INFO Application:56 - No Active Products
+14:01:11,956  INFO Application:58 - List Of Actives Products: 
+14:01:11,956  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:11,956  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:11,956  INFO Application:81 - Module Codes Array Length -> 1
+14:01:11,958  INFO Application:68 - Update Succeed
+14:01:15,958  INFO Application:29 - Interval Update 4
+14:01:15,961  INFO Application:56 - No Active Products
+14:01:15,962  INFO Application:58 - List Of Actives Products: 
+14:01:15,962  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:15,962  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:15,962  INFO Application:81 - Module Codes Array Length -> 1
+14:01:15,964  INFO Application:68 - Update Succeed
+14:01:19,978  INFO Application:29 - Interval Update 4
+14:01:19,979  INFO Application:56 - No Active Products
+14:01:19,981  INFO Application:58 - List Of Actives Products: 
+14:01:19,981  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:19,981  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:19,981  INFO Application:81 - Module Codes Array Length -> 1
+14:01:19,984  INFO Application:68 - Update Succeed
+14:01:23,991  INFO Application:29 - Interval Update 4
+14:01:23,993  INFO Application:56 - No Active Products
+14:01:23,994  INFO Application:58 - List Of Actives Products: 
+14:01:23,994  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:23,995  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:23,995  INFO Application:81 - Module Codes Array Length -> 1
+14:01:23,997  INFO Application:68 - Update Succeed
+14:01:28,002  INFO Application:29 - Interval Update 4
+14:01:28,005  INFO Application:56 - No Active Products
+14:01:28,006  INFO Application:58 - List Of Actives Products: 
+14:01:28,006  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:28,006  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:28,007  INFO Application:81 - Module Codes Array Length -> 1
+14:01:28,009  INFO Application:68 - Update Succeed
+14:01:32,011  INFO Application:29 - Interval Update 4
+14:01:32,015  INFO Application:56 - No Active Products
+14:01:32,015  INFO Application:58 - List Of Actives Products: 
+14:01:32,015  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:32,016  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:32,016  INFO Application:81 - Module Codes Array Length -> 1
+14:01:32,018  INFO Application:68 - Update Succeed
+14:01:36,029  INFO Application:29 - Interval Update 4
+14:01:36,032  INFO Application:56 - No Active Products
+14:01:36,033  INFO Application:58 - List Of Actives Products: 
+14:01:36,033  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:36,033  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:36,033  INFO Application:81 - Module Codes Array Length -> 1
+14:01:36,035  INFO Application:68 - Update Succeed
+14:01:40,042  INFO Application:29 - Interval Update 4
+14:01:40,045  INFO Application:56 - No Active Products
+14:01:40,046  INFO Application:58 - List Of Actives Products: 
+14:01:40,046  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:40,046  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:40,046  INFO Application:81 - Module Codes Array Length -> 1
+14:01:40,049  INFO Application:68 - Update Succeed
+14:01:44,061  INFO Application:29 - Interval Update 4
+14:01:44,064  INFO Application:56 - No Active Products
+14:01:44,065  INFO Application:58 - List Of Actives Products: 
+14:01:44,065  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:44,065  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:44,065  INFO Application:81 - Module Codes Array Length -> 1
+14:01:44,068  INFO Application:68 - Update Succeed
+14:01:48,078  INFO Application:29 - Interval Update 4
+14:01:48,080  INFO Application:56 - No Active Products
+14:01:48,081  INFO Application:58 - List Of Actives Products: 
+14:01:48,081  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:48,081  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:48,081  INFO Application:81 - Module Codes Array Length -> 1
+14:01:48,084  INFO Application:68 - Update Succeed
+14:01:52,086  INFO Application:29 - Interval Update 4
+14:01:52,089  INFO Application:56 - No Active Products
+14:01:52,090  INFO Application:58 - List Of Actives Products: 
+14:01:52,090  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:52,090  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:52,090  INFO Application:81 - Module Codes Array Length -> 1
+14:01:52,092  INFO Application:68 - Update Succeed
+14:01:56,103  INFO Application:29 - Interval Update 4
+14:01:56,105  INFO Application:56 - No Active Products
+14:01:56,106  INFO Application:58 - List Of Actives Products: 
+14:01:56,106  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:01:56,107  INFO Application:63 - 303 | S100 | 96,325.00
+14:01:56,107  INFO Application:81 - Module Codes Array Length -> 1
+14:01:56,109  INFO Application:68 - Update Succeed
+14:02:00,122  INFO Application:29 - Interval Update 4
+14:02:00,125  INFO Application:56 - No Active Products
+14:02:00,126  INFO Application:58 - List Of Actives Products: 
+14:02:00,126  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:00,126  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:00,126  INFO Application:81 - Module Codes Array Length -> 1
+14:02:00,129  INFO Application:68 - Update Succeed
+14:02:04,145  INFO Application:29 - Interval Update 4
+14:02:04,147  INFO Application:56 - No Active Products
+14:02:04,148  INFO Application:58 - List Of Actives Products: 
+14:02:04,149  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:04,149  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:04,149  INFO Application:81 - Module Codes Array Length -> 1
+14:02:04,152  INFO Application:68 - Update Succeed
+14:02:08,156  INFO Application:29 - Interval Update 4
+14:02:08,159  INFO Application:56 - No Active Products
+14:02:08,159  INFO Application:58 - List Of Actives Products: 
+14:02:08,159  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:08,159  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:08,159  INFO Application:81 - Module Codes Array Length -> 1
+14:02:08,161  INFO Application:68 - Update Succeed
+14:02:12,170  INFO Application:29 - Interval Update 4
+14:02:12,173  INFO Application:56 - No Active Products
+14:02:12,174  INFO Application:58 - List Of Actives Products: 
+14:02:12,174  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:12,174  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:12,174  INFO Application:81 - Module Codes Array Length -> 1
+14:02:12,176  INFO Application:68 - Update Succeed
+14:02:16,176  INFO Application:29 - Interval Update 4
+14:02:16,179  INFO Application:56 - No Active Products
+14:02:16,180  INFO Application:58 - List Of Actives Products: 
+14:02:16,180  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:16,180  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:16,180  INFO Application:81 - Module Codes Array Length -> 1
+14:02:16,182  INFO Application:68 - Update Succeed
+14:02:20,183  INFO Application:29 - Interval Update 4
+14:02:20,186  INFO Application:56 - No Active Products
+14:02:20,187  INFO Application:58 - List Of Actives Products: 
+14:02:20,188  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:20,188  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:20,188  INFO Application:81 - Module Codes Array Length -> 1
+14:02:20,190  INFO Application:68 - Update Succeed
+14:02:24,198  INFO Application:29 - Interval Update 4
+14:02:24,200  INFO Application:56 - No Active Products
+14:02:24,201  INFO Application:58 - List Of Actives Products: 
+14:02:24,201  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:24,201  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:24,201  INFO Application:81 - Module Codes Array Length -> 1
+14:02:24,203  INFO Application:68 - Update Succeed
+14:02:28,204  INFO Application:29 - Interval Update 4
+14:02:28,207  INFO Application:56 - No Active Products
+14:02:28,207  INFO Application:58 - List Of Actives Products: 
+14:02:28,207  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:28,208  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:28,208  INFO Application:81 - Module Codes Array Length -> 1
+14:02:28,210  INFO Application:68 - Update Succeed
+14:02:32,225  INFO Application:29 - Interval Update 4
+14:02:32,228  INFO Application:56 - No Active Products
+14:02:32,229  INFO Application:58 - List Of Actives Products: 
+14:02:32,229  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:32,229  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:32,229  INFO Application:81 - Module Codes Array Length -> 1
+14:02:32,231  INFO Application:68 - Update Succeed
+14:02:36,236  INFO Application:29 - Interval Update 4
+14:02:36,240  INFO Application:56 - No Active Products
+14:02:36,241  INFO Application:58 - List Of Actives Products: 
+14:02:36,241  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:36,241  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:36,241  INFO Application:81 - Module Codes Array Length -> 1
+14:02:36,243  INFO Application:68 - Update Succeed
+14:02:40,247  INFO Application:29 - Interval Update 4
+14:02:40,250  INFO Application:56 - No Active Products
+14:02:40,250  INFO Application:58 - List Of Actives Products: 
+14:02:40,251  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:40,251  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:40,251  INFO Application:81 - Module Codes Array Length -> 1
+14:02:40,253  INFO Application:68 - Update Succeed
+14:02:44,253  INFO Application:29 - Interval Update 4
+14:02:44,256  INFO Application:56 - No Active Products
+14:02:44,257  INFO Application:58 - List Of Actives Products: 
+14:02:44,257  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:44,257  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:44,257  INFO Application:81 - Module Codes Array Length -> 1
+14:02:44,259  INFO Application:68 - Update Succeed
+14:02:48,269  INFO Application:29 - Interval Update 4
+14:02:48,272  INFO Application:56 - No Active Products
+14:02:48,273  INFO Application:58 - List Of Actives Products: 
+14:02:48,273  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:48,273  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:48,274  INFO Application:81 - Module Codes Array Length -> 1
+14:02:48,276  INFO Application:68 - Update Succeed
+14:02:52,283  INFO Application:29 - Interval Update 4
+14:02:52,285  INFO Application:56 - No Active Products
+14:02:52,286  INFO Application:58 - List Of Actives Products: 
+14:02:52,286  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:52,286  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:52,286  INFO Application:81 - Module Codes Array Length -> 1
+14:02:52,289  INFO Application:68 - Update Succeed
+14:02:56,302  INFO Application:29 - Interval Update 4
+14:02:56,304  INFO Application:56 - No Active Products
+14:02:56,305  INFO Application:58 - List Of Actives Products: 
+14:02:56,305  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:02:56,305  INFO Application:63 - 303 | S100 | 96,325.00
+14:02:56,305  INFO Application:81 - Module Codes Array Length -> 1
+14:02:56,308  INFO Application:68 - Update Succeed
+14:03:00,318  INFO Application:29 - Interval Update 4
+14:03:00,321  INFO Application:56 - No Active Products
+14:03:00,322  INFO Application:58 - List Of Actives Products: 
+14:03:00,322  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:00,322  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:00,322  INFO Application:81 - Module Codes Array Length -> 1
+14:03:00,325  INFO Application:68 - Update Succeed
+14:03:04,327  INFO Application:29 - Interval Update 4
+14:03:04,330  INFO Application:56 - No Active Products
+14:03:04,331  INFO Application:58 - List Of Actives Products: 
+14:03:04,331  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:04,331  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:04,331  INFO Application:81 - Module Codes Array Length -> 1
+14:03:04,333  INFO Application:68 - Update Succeed
+14:03:08,340  INFO Application:29 - Interval Update 4
+14:03:08,343  INFO Application:56 - No Active Products
+14:03:08,344  INFO Application:58 - List Of Actives Products: 
+14:03:08,344  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:08,344  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:08,344  INFO Application:81 - Module Codes Array Length -> 1
+14:03:08,345  INFO Application:68 - Update Succeed
+14:03:12,362  INFO Application:29 - Interval Update 4
+14:03:12,365  INFO Application:56 - No Active Products
+14:03:12,366  INFO Application:58 - List Of Actives Products: 
+14:03:12,367  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:12,367  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:12,367  INFO Application:81 - Module Codes Array Length -> 1
+14:03:12,370  INFO Application:68 - Update Succeed
+14:03:16,374  INFO Application:29 - Interval Update 4
+14:03:16,377  INFO Application:56 - No Active Products
+14:03:16,378  INFO Application:58 - List Of Actives Products: 
+14:03:16,378  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:16,378  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:16,379  INFO Application:81 - Module Codes Array Length -> 1
+14:03:16,381  INFO Application:68 - Update Succeed
+14:03:20,394  INFO Application:29 - Interval Update 4
+14:03:20,395  INFO Application:56 - No Active Products
+14:03:20,396  INFO Application:58 - List Of Actives Products: 
+14:03:20,396  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:20,396  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:20,396  INFO Application:81 - Module Codes Array Length -> 1
+14:03:20,397  INFO Application:68 - Update Succeed
+14:03:24,400  INFO Application:29 - Interval Update 4
+14:03:24,403  INFO Application:56 - No Active Products
+14:03:24,404  INFO Application:58 - List Of Actives Products: 
+14:03:24,404  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:24,404  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:24,404  INFO Application:81 - Module Codes Array Length -> 1
+14:03:24,406  INFO Application:68 - Update Succeed
+14:03:28,408  INFO Application:29 - Interval Update 4
+14:03:28,409  INFO Application:56 - No Active Products
+14:03:28,410  INFO Application:58 - List Of Actives Products: 
+14:03:28,410  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:28,410  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:28,410  INFO Application:81 - Module Codes Array Length -> 1
+14:03:28,411  INFO Application:68 - Update Succeed
+14:03:32,421  INFO Application:29 - Interval Update 4
+14:03:32,421  INFO Application:56 - No Active Products
+14:03:32,422  INFO Application:58 - List Of Actives Products: 
+14:03:32,422  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:32,422  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:32,422  INFO Application:81 - Module Codes Array Length -> 1
+14:03:32,423  INFO Application:68 - Update Succeed
+14:03:36,427  INFO Application:29 - Interval Update 4
+14:03:36,428  INFO Application:56 - No Active Products
+14:03:36,429  INFO Application:58 - List Of Actives Products: 
+14:03:36,429  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:36,429  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:36,430  INFO Application:81 - Module Codes Array Length -> 1
+14:03:36,431  INFO Application:68 - Update Succeed
+14:03:40,436  INFO Application:29 - Interval Update 4
+14:03:40,437  INFO Application:56 - No Active Products
+14:03:40,438  INFO Application:58 - List Of Actives Products: 
+14:03:40,438  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:40,438  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:40,439  INFO Application:81 - Module Codes Array Length -> 1
+14:03:40,440  INFO Application:68 - Update Succeed
+14:03:44,450  INFO Application:29 - Interval Update 4
+14:03:44,451  INFO Application:56 - No Active Products
+14:03:44,452  INFO Application:58 - List Of Actives Products: 
+14:03:44,452  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:44,452  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:44,452  INFO Application:81 - Module Codes Array Length -> 1
+14:03:44,453  INFO Application:68 - Update Succeed
+14:03:48,466  INFO Application:29 - Interval Update 4
+14:03:48,467  INFO Application:56 - No Active Products
+14:03:48,468  INFO Application:58 - List Of Actives Products: 
+14:03:48,468  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:48,468  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:48,468  INFO Application:81 - Module Codes Array Length -> 1
+14:03:48,469  INFO Application:68 - Update Succeed
+14:03:52,471  INFO Application:29 - Interval Update 4
+14:03:52,473  INFO Application:56 - No Active Products
+14:03:52,473  INFO Application:58 - List Of Actives Products: 
+14:03:52,473  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:52,473  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:52,474  INFO Application:81 - Module Codes Array Length -> 1
+14:03:52,475  INFO Application:68 - Update Succeed
+14:03:56,483  INFO Application:29 - Interval Update 4
+14:03:56,485  INFO Application:56 - No Active Products
+14:03:56,486  INFO Application:58 - List Of Actives Products: 
+14:03:56,486  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:03:56,486  INFO Application:63 - 303 | S100 | 96,325.00
+14:03:56,486  INFO Application:81 - Module Codes Array Length -> 1
+14:03:56,487  INFO Application:68 - Update Succeed
+14:04:00,490  INFO Application:29 - Interval Update 4
+14:04:00,491  INFO Application:56 - No Active Products
+14:04:00,492  INFO Application:58 - List Of Actives Products: 
+14:04:00,492  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:00,492  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:00,492  INFO Application:81 - Module Codes Array Length -> 1
+14:04:00,493  INFO Application:68 - Update Succeed
+14:04:04,505  INFO Application:29 - Interval Update 4
+14:04:04,507  INFO Application:56 - No Active Products
+14:04:04,507  INFO Application:58 - List Of Actives Products: 
+14:04:04,507  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:04,508  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:04,508  INFO Application:81 - Module Codes Array Length -> 1
+14:04:04,509  INFO Application:68 - Update Succeed
+14:04:08,519  INFO Application:29 - Interval Update 4
+14:04:08,520  INFO Application:56 - No Active Products
+14:04:08,521  INFO Application:58 - List Of Actives Products: 
+14:04:08,521  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:08,521  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:08,521  INFO Application:81 - Module Codes Array Length -> 1
+14:04:08,523  INFO Application:68 - Update Succeed
+14:04:12,536  INFO Application:29 - Interval Update 4
+14:04:12,537  INFO Application:56 - No Active Products
+14:04:12,538  INFO Application:58 - List Of Actives Products: 
+14:04:12,538  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:12,538  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:12,538  INFO Application:81 - Module Codes Array Length -> 1
+14:04:12,539  INFO Application:68 - Update Succeed
+14:04:16,542  INFO Application:29 - Interval Update 4
+14:04:16,545  INFO Application:56 - No Active Products
+14:04:16,546  INFO Application:58 - List Of Actives Products: 
+14:04:16,546  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:16,546  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:16,546  INFO Application:81 - Module Codes Array Length -> 1
+14:04:16,548  INFO Application:68 - Update Succeed
+14:04:20,557  INFO Application:29 - Interval Update 4
+14:04:20,561  INFO Application:56 - No Active Products
+14:04:20,562  INFO Application:58 - List Of Actives Products: 
+14:04:20,562  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:20,562  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:20,562  INFO Application:81 - Module Codes Array Length -> 1
+14:04:20,564  INFO Application:68 - Update Succeed
+14:04:24,578  INFO Application:29 - Interval Update 4
+14:04:24,579  INFO Application:56 - No Active Products
+14:04:24,580  INFO Application:58 - List Of Actives Products: 
+14:04:24,580  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:24,580  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:24,580  INFO Application:81 - Module Codes Array Length -> 1
+14:04:24,582  INFO Application:68 - Update Succeed
+14:04:28,584  INFO Application:29 - Interval Update 4
+14:04:28,588  INFO Application:56 - No Active Products
+14:04:28,589  INFO Application:58 - List Of Actives Products: 
+14:04:28,589  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:28,589  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:28,589  INFO Application:81 - Module Codes Array Length -> 1
+14:04:28,591  INFO Application:68 - Update Succeed
+14:04:32,595  INFO Application:29 - Interval Update 4
+14:04:32,598  INFO Application:56 - No Active Products
+14:04:32,599  INFO Application:58 - List Of Actives Products: 
+14:04:32,599  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:32,599  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:32,600  INFO Application:81 - Module Codes Array Length -> 1
+14:04:32,602  INFO Application:68 - Update Succeed
+14:04:36,603  INFO Application:29 - Interval Update 4
+14:04:36,605  INFO Application:56 - No Active Products
+14:04:36,606  INFO Application:58 - List Of Actives Products: 
+14:04:36,606  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:36,606  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:36,606  INFO Application:81 - Module Codes Array Length -> 1
+14:04:36,607  INFO Application:68 - Update Succeed
+14:04:40,612  INFO Application:29 - Interval Update 4
+14:04:40,613  INFO Application:56 - No Active Products
+14:04:40,614  INFO Application:58 - List Of Actives Products: 
+14:04:40,614  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:40,614  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:40,615  INFO Application:81 - Module Codes Array Length -> 1
+14:04:40,616  INFO Application:68 - Update Succeed
+14:04:44,618  INFO Application:29 - Interval Update 4
+14:04:44,619  INFO Application:56 - No Active Products
+14:04:44,620  INFO Application:58 - List Of Actives Products: 
+14:04:44,620  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:44,621  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:44,621  INFO Application:81 - Module Codes Array Length -> 1
+14:04:44,622  INFO Application:68 - Update Succeed
+14:04:48,636  INFO Application:29 - Interval Update 4
+14:04:48,637  INFO Application:56 - No Active Products
+14:04:48,639  INFO Application:58 - List Of Actives Products: 
+14:04:48,639  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:48,639  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:48,639  INFO Application:81 - Module Codes Array Length -> 1
+14:04:48,640  INFO Application:68 - Update Succeed
+14:04:52,655  INFO Application:29 - Interval Update 4
+14:04:52,656  INFO Application:56 - No Active Products
+14:04:52,657  INFO Application:58 - List Of Actives Products: 
+14:04:52,657  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:52,657  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:52,657  INFO Application:81 - Module Codes Array Length -> 1
+14:04:52,658  INFO Application:68 - Update Succeed
+14:04:56,665  INFO Application:29 - Interval Update 4
+14:04:56,667  INFO Application:56 - No Active Products
+14:04:56,667  INFO Application:58 - List Of Actives Products: 
+14:04:56,667  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:04:56,667  INFO Application:63 - 303 | S100 | 96,325.00
+14:04:56,668  INFO Application:81 - Module Codes Array Length -> 1
+14:04:56,669  INFO Application:68 - Update Succeed
+14:05:00,671  INFO Application:29 - Interval Update 4
+14:05:00,672  INFO Application:56 - No Active Products
+14:05:00,673  INFO Application:58 - List Of Actives Products: 
+14:05:00,673  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:00,673  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:00,673  INFO Application:81 - Module Codes Array Length -> 1
+14:05:00,674  INFO Application:68 - Update Succeed
+14:05:04,681  INFO Application:29 - Interval Update 4
+14:05:04,681  INFO Application:56 - No Active Products
+14:05:04,682  INFO Application:58 - List Of Actives Products: 
+14:05:04,682  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:04,682  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:04,682  INFO Application:81 - Module Codes Array Length -> 1
+14:05:04,684  INFO Application:68 - Update Succeed
+14:05:08,693  INFO Application:29 - Interval Update 4
+14:05:08,695  INFO Application:56 - No Active Products
+14:05:08,696  INFO Application:58 - List Of Actives Products: 
+14:05:08,696  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:08,696  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:08,696  INFO Application:81 - Module Codes Array Length -> 1
+14:05:08,697  INFO Application:68 - Update Succeed
+14:05:12,706  INFO Application:29 - Interval Update 4
+14:05:12,708  INFO Application:56 - No Active Products
+14:05:12,708  INFO Application:58 - List Of Actives Products: 
+14:05:12,708  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:12,709  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:12,709  INFO Application:81 - Module Codes Array Length -> 1
+14:05:12,710  INFO Application:68 - Update Succeed
+14:05:16,714  INFO Application:29 - Interval Update 4
+14:05:16,715  INFO Application:56 - No Active Products
+14:05:16,716  INFO Application:58 - List Of Actives Products: 
+14:05:16,716  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:16,716  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:16,717  INFO Application:81 - Module Codes Array Length -> 1
+14:05:16,718  INFO Application:68 - Update Succeed
+14:05:20,721  INFO Application:29 - Interval Update 4
+14:05:20,722  INFO Application:56 - No Active Products
+14:05:20,722  INFO Application:58 - List Of Actives Products: 
+14:05:20,722  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:20,722  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:20,723  INFO Application:81 - Module Codes Array Length -> 1
+14:05:20,724  INFO Application:68 - Update Succeed
+14:05:24,735  INFO Application:29 - Interval Update 4
+14:05:24,737  INFO Application:56 - No Active Products
+14:05:24,738  INFO Application:58 - List Of Actives Products: 
+14:05:24,738  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:24,738  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:24,739  INFO Application:81 - Module Codes Array Length -> 1
+14:05:24,741  INFO Application:68 - Update Succeed
+14:05:28,744  INFO Application:29 - Interval Update 4
+14:05:28,747  INFO Application:56 - No Active Products
+14:05:28,749  INFO Application:58 - List Of Actives Products: 
+14:05:28,749  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:28,749  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:28,749  INFO Application:81 - Module Codes Array Length -> 1
+14:05:28,751  INFO Application:68 - Update Succeed
+14:05:32,753  INFO Application:29 - Interval Update 4
+14:05:32,755  INFO Application:56 - No Active Products
+14:05:32,756  INFO Application:58 - List Of Actives Products: 
+14:05:32,756  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:32,756  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:32,757  INFO Application:81 - Module Codes Array Length -> 1
+14:05:32,758  INFO Application:68 - Update Succeed
+14:05:36,772  INFO Application:29 - Interval Update 4
+14:05:36,775  INFO Application:56 - No Active Products
+14:05:36,775  INFO Application:58 - List Of Actives Products: 
+14:05:36,775  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:36,775  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:36,775  INFO Application:81 - Module Codes Array Length -> 1
+14:05:36,777  INFO Application:68 - Update Succeed
+14:05:40,793  INFO Application:29 - Interval Update 4
+14:05:40,795  INFO Application:56 - No Active Products
+14:05:40,796  INFO Application:58 - List Of Actives Products: 
+14:05:40,796  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:40,796  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:40,796  INFO Application:81 - Module Codes Array Length -> 1
+14:05:40,796  INFO Application:68 - Update Succeed
+14:05:44,797  INFO Application:29 - Interval Update 4
+14:05:44,798  INFO Application:56 - No Active Products
+14:05:44,799  INFO Application:58 - List Of Actives Products: 
+14:05:44,799  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:44,799  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:44,799  INFO Application:81 - Module Codes Array Length -> 1
+14:05:44,800  INFO Application:68 - Update Succeed
+14:05:48,809  INFO Application:29 - Interval Update 4
+14:05:48,810  INFO Application:56 - No Active Products
+14:05:48,811  INFO Application:58 - List Of Actives Products: 
+14:05:48,812  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:48,812  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:48,812  INFO Application:81 - Module Codes Array Length -> 1
+14:05:48,813  INFO Application:68 - Update Succeed
+14:05:52,818  INFO Application:29 - Interval Update 4
+14:05:52,819  INFO Application:56 - No Active Products
+14:05:52,819  INFO Application:58 - List Of Actives Products: 
+14:05:52,819  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:52,819  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:52,820  INFO Application:81 - Module Codes Array Length -> 1
+14:05:52,829  INFO Application:68 - Update Succeed
+14:05:56,844  INFO Application:29 - Interval Update 4
+14:05:56,845  INFO Application:56 - No Active Products
+14:05:56,846  INFO Application:58 - List Of Actives Products: 
+14:05:56,846  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:05:56,846  INFO Application:63 - 303 | S100 | 96,325.00
+14:05:56,846  INFO Application:81 - Module Codes Array Length -> 1
+14:05:56,847  INFO Application:68 - Update Succeed
+14:06:00,850  INFO Application:29 - Interval Update 4
+14:06:00,851  INFO Application:56 - No Active Products
+14:06:00,852  INFO Application:58 - List Of Actives Products: 
+14:06:00,852  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:00,852  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:00,853  INFO Application:81 - Module Codes Array Length -> 1
+14:06:00,854  INFO Application:68 - Update Succeed
+14:06:04,862  INFO Application:29 - Interval Update 4
+14:06:04,863  INFO Application:56 - No Active Products
+14:06:04,864  INFO Application:58 - List Of Actives Products: 
+14:06:04,864  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:04,864  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:04,864  INFO Application:81 - Module Codes Array Length -> 1
+14:06:04,866  INFO Application:68 - Update Succeed
+14:06:08,873  INFO Application:29 - Interval Update 4
+14:06:08,874  INFO Application:56 - No Active Products
+14:06:08,875  INFO Application:58 - List Of Actives Products: 
+14:06:08,875  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:08,875  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:08,875  INFO Application:81 - Module Codes Array Length -> 1
+14:06:08,876  INFO Application:68 - Update Succeed
+14:06:12,888  INFO Application:29 - Interval Update 4
+14:06:12,889  INFO Application:56 - No Active Products
+14:06:12,889  INFO Application:58 - List Of Actives Products: 
+14:06:12,889  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:12,889  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:12,890  INFO Application:81 - Module Codes Array Length -> 1
+14:06:12,891  INFO Application:68 - Update Succeed
+14:06:16,906  INFO Application:29 - Interval Update 4
+14:06:16,907  INFO Application:56 - No Active Products
+14:06:16,908  INFO Application:58 - List Of Actives Products: 
+14:06:16,908  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:16,908  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:16,908  INFO Application:81 - Module Codes Array Length -> 1
+14:06:16,909  INFO Application:68 - Update Succeed
+14:06:20,912  INFO Application:29 - Interval Update 4
+14:06:20,913  INFO Application:56 - No Active Products
+14:06:20,913  INFO Application:58 - List Of Actives Products: 
+14:06:20,913  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:20,913  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:20,914  INFO Application:81 - Module Codes Array Length -> 1
+14:06:20,915  INFO Application:68 - Update Succeed
+14:06:24,930  INFO Application:29 - Interval Update 4
+14:06:24,931  INFO Application:56 - No Active Products
+14:06:24,932  INFO Application:58 - List Of Actives Products: 
+14:06:24,932  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:24,932  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:24,933  INFO Application:81 - Module Codes Array Length -> 1
+14:06:24,934  INFO Application:68 - Update Succeed
+14:06:28,941  INFO Application:29 - Interval Update 4
+14:06:28,943  INFO Application:56 - No Active Products
+14:06:28,944  INFO Application:58 - List Of Actives Products: 
+14:06:28,944  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:28,944  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:28,944  INFO Application:81 - Module Codes Array Length -> 1
+14:06:28,946  INFO Application:68 - Update Succeed
+14:06:32,957  INFO Application:29 - Interval Update 4
+14:06:32,960  INFO Application:56 - No Active Products
+14:06:32,961  INFO Application:58 - List Of Actives Products: 
+14:06:32,961  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:32,961  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:32,961  INFO Application:81 - Module Codes Array Length -> 1
+14:06:32,963  INFO Application:68 - Update Succeed
+14:06:36,965  INFO Application:29 - Interval Update 4
+14:06:36,966  INFO Application:56 - No Active Products
+14:06:36,967  INFO Application:58 - List Of Actives Products: 
+14:06:36,967  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:36,967  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:36,967  INFO Application:81 - Module Codes Array Length -> 1
+14:06:36,968  INFO Application:68 - Update Succeed
+14:06:40,968  INFO Application:29 - Interval Update 4
+14:06:40,971  INFO Application:56 - No Active Products
+14:06:40,972  INFO Application:58 - List Of Actives Products: 
+14:06:40,972  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:40,972  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:40,972  INFO Application:81 - Module Codes Array Length -> 1
+14:06:40,976  INFO Application:68 - Update Succeed
+14:06:44,986  INFO Application:29 - Interval Update 4
+14:06:44,989  INFO Application:56 - No Active Products
+14:06:44,991  INFO Application:58 - List Of Actives Products: 
+14:06:44,991  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:44,991  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:44,991  INFO Application:81 - Module Codes Array Length -> 1
+14:06:44,993  INFO Application:68 - Update Succeed
+14:06:48,995  INFO Application:29 - Interval Update 4
+14:06:48,996  INFO Application:56 - No Active Products
+14:06:48,996  INFO Application:58 - List Of Actives Products: 
+14:06:48,996  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:48,997  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:48,997  INFO Application:81 - Module Codes Array Length -> 1
+14:06:48,998  INFO Application:68 - Update Succeed
+14:06:52,999  INFO Application:29 - Interval Update 4
+14:06:53,000  INFO Application:56 - No Active Products
+14:06:53,000  INFO Application:58 - List Of Actives Products: 
+14:06:53,000  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:53,000  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:53,001  INFO Application:81 - Module Codes Array Length -> 1
+14:06:53,001  INFO Application:68 - Update Succeed
+14:06:57,016  INFO Application:29 - Interval Update 4
+14:06:57,017  INFO Application:56 - No Active Products
+14:06:57,018  INFO Application:58 - List Of Actives Products: 
+14:06:57,018  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:06:57,018  INFO Application:63 - 303 | S100 | 96,325.00
+14:06:57,019  INFO Application:81 - Module Codes Array Length -> 1
+14:06:57,020  INFO Application:68 - Update Succeed
+14:07:01,034  INFO Application:29 - Interval Update 4
+14:07:01,035  INFO Application:56 - No Active Products
+14:07:01,036  INFO Application:58 - List Of Actives Products: 
+14:07:01,036  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:01,036  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:01,036  INFO Application:81 - Module Codes Array Length -> 1
+14:07:01,039  INFO Application:68 - Update Succeed
+14:07:05,047  INFO Application:29 - Interval Update 4
+14:07:05,049  INFO Application:56 - No Active Products
+14:07:05,049  INFO Application:58 - List Of Actives Products: 
+14:07:05,050  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:05,050  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:05,050  INFO Application:81 - Module Codes Array Length -> 1
+14:07:05,051  INFO Application:68 - Update Succeed
+14:07:09,058  INFO Application:29 - Interval Update 4
+14:07:09,059  INFO Application:56 - No Active Products
+14:07:09,060  INFO Application:58 - List Of Actives Products: 
+14:07:09,060  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:09,060  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:09,060  INFO Application:81 - Module Codes Array Length -> 1
+14:07:09,062  INFO Application:68 - Update Succeed
+14:07:13,077  INFO Application:29 - Interval Update 4
+14:07:13,078  INFO Application:56 - No Active Products
+14:07:13,079  INFO Application:58 - List Of Actives Products: 
+14:07:13,079  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:13,079  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:13,080  INFO Application:81 - Module Codes Array Length -> 1
+14:07:13,081  INFO Application:68 - Update Succeed
+14:07:17,081  INFO Application:29 - Interval Update 4
+14:07:17,082  INFO Application:56 - No Active Products
+14:07:17,083  INFO Application:58 - List Of Actives Products: 
+14:07:17,083  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:17,083  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:17,083  INFO Application:81 - Module Codes Array Length -> 1
+14:07:17,085  INFO Application:68 - Update Succeed
+14:07:21,098  INFO Application:29 - Interval Update 4
+14:07:21,099  INFO Application:56 - No Active Products
+14:07:21,101  INFO Application:58 - List Of Actives Products: 
+14:07:21,101  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:21,101  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:21,101  INFO Application:81 - Module Codes Array Length -> 1
+14:07:21,102  INFO Application:68 - Update Succeed
+14:07:25,114  INFO Application:29 - Interval Update 4
+14:07:25,115  INFO Application:56 - No Active Products
+14:07:25,116  INFO Application:58 - List Of Actives Products: 
+14:07:25,116  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:25,116  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:25,116  INFO Application:81 - Module Codes Array Length -> 1
+14:07:25,117  INFO Application:68 - Update Succeed
+14:07:29,125  INFO Application:29 - Interval Update 4
+14:07:29,126  INFO Application:56 - No Active Products
+14:07:29,127  INFO Application:58 - List Of Actives Products: 
+14:07:29,127  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:29,127  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:29,127  INFO Application:81 - Module Codes Array Length -> 1
+14:07:29,129  INFO Application:68 - Update Succeed
+14:07:33,144  INFO Application:29 - Interval Update 4
+14:07:33,147  INFO Application:56 - No Active Products
+14:07:33,148  INFO Application:58 - List Of Actives Products: 
+14:07:33,148  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:33,148  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:33,148  INFO Application:81 - Module Codes Array Length -> 1
+14:07:33,150  INFO Application:68 - Update Succeed
+14:07:37,162  INFO Application:29 - Interval Update 4
+14:07:37,165  INFO Application:56 - No Active Products
+14:07:37,166  INFO Application:58 - List Of Actives Products: 
+14:07:37,166  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:37,166  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:37,166  INFO Application:81 - Module Codes Array Length -> 1
+14:07:37,168  INFO Application:68 - Update Succeed
+14:07:41,181  INFO Application:29 - Interval Update 4
+14:07:41,184  INFO Application:56 - No Active Products
+14:07:41,185  INFO Application:58 - List Of Actives Products: 
+14:07:41,185  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:41,185  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:41,185  INFO Application:81 - Module Codes Array Length -> 1
+14:07:41,189  INFO Application:68 - Update Succeed
+14:07:45,191  INFO Application:29 - Interval Update 4
+14:07:45,195  INFO Application:56 - No Active Products
+14:07:45,195  INFO Application:58 - List Of Actives Products: 
+14:07:45,196  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:45,196  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:45,196  INFO Application:81 - Module Codes Array Length -> 1
+14:07:45,198  INFO Application:68 - Update Succeed
+14:07:49,204  INFO Application:29 - Interval Update 4
+14:07:49,206  INFO Application:56 - No Active Products
+14:07:49,208  INFO Application:58 - List Of Actives Products: 
+14:07:49,208  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:49,208  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:49,208  INFO Application:81 - Module Codes Array Length -> 1
+14:07:49,211  INFO Application:68 - Update Succeed
+14:07:53,224  INFO Application:29 - Interval Update 4
+14:07:53,227  INFO Application:56 - No Active Products
+14:07:53,228  INFO Application:58 - List Of Actives Products: 
+14:07:53,228  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:53,228  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:53,228  INFO Application:81 - Module Codes Array Length -> 1
+14:07:53,230  INFO Application:68 - Update Succeed
+14:07:57,236  INFO Application:29 - Interval Update 4
+14:07:57,239  INFO Application:56 - No Active Products
+14:07:57,240  INFO Application:58 - List Of Actives Products: 
+14:07:57,240  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:07:57,240  INFO Application:63 - 303 | S100 | 96,325.00
+14:07:57,240  INFO Application:81 - Module Codes Array Length -> 1
+14:07:57,242  INFO Application:68 - Update Succeed
+14:08:01,246  INFO Application:29 - Interval Update 4
+14:08:01,247  INFO Application:56 - No Active Products
+14:08:01,248  INFO Application:58 - List Of Actives Products: 
+14:08:01,248  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:08:01,248  INFO Application:63 - 303 | S100 | 96,325.00
+14:08:01,248  INFO Application:81 - Module Codes Array Length -> 1
+14:08:01,250  INFO Application:68 - Update Succeed
+14:08:05,263  INFO Application:29 - Interval Update 4
+14:08:05,264  INFO Application:56 - No Active Products
+14:08:05,265  INFO Application:58 - List Of Actives Products: 
+14:08:05,265  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:08:05,265  INFO Application:63 - 303 | S100 | 96,325.00
+14:08:05,265  INFO Application:81 - Module Codes Array Length -> 1
+14:08:05,266  INFO Application:68 - Update Succeed
+14:08:09,281  INFO Application:29 - Interval Update 4
+14:08:09,282  INFO Application:56 - No Active Products
+14:08:09,284  INFO Application:58 - List Of Actives Products: 
+14:08:09,284  INFO Application:60 - kode_modul|kode_produk|harga_beli
+14:08:09,284  INFO Application:63 - 303 | S100 | 96,325.00
+14:08:09,284  INFO Application:81 - Module Codes Array Length -> 1
+14:08:09,285  INFO Application:68 - Update Succeed
+12:55:16,421  INFO Application:30 - Interval Update 4
+12:56:06,101  INFO Application:30 - Interval Update 4
+12:56:51,781  INFO Application:59 - List Of Actives Modules for Product Code S100
+12:56:51,781  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:56:51,782  INFO Application:64 - 303 | S100 | 96,325.00 | 1
+12:56:51,788  INFO Application:91 - Module Codes Array Length -> 1
+12:56:51,805  INFO Application:69 - Update Succeed
+12:56:55,812  INFO Application:30 - Interval Update 4
+12:56:55,814  INFO Application:59 - List Of Actives Modules for Product Code S100
+12:56:55,814  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:56:55,814  INFO Application:64 - 303 | S100 | 96,325.00 | 1
+12:56:55,815  INFO Application:91 - Module Codes Array Length -> 1
+12:56:55,816  INFO Application:69 - Update Succeed
+12:56:59,820  INFO Application:30 - Interval Update 4
+12:56:59,823  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:56:59,823  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:56:59,823  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:56:59,824  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:56:59,824  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:56:59,824  INFO Application:91 - Module Codes Array Length -> 3
+12:56:59,960  INFO Application:69 - Update Succeed
+12:57:03,965  INFO Application:30 - Interval Update 4
+12:57:03,967  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:03,967  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:03,968  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:03,968  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:03,968  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:03,968  INFO Application:91 - Module Codes Array Length -> 3
+12:57:03,970  INFO Application:69 - Update Succeed
+12:57:07,984  INFO Application:30 - Interval Update 4
+12:57:09,270  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:09,270  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:09,270  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:09,270  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:09,270  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:09,271  INFO Application:91 - Module Codes Array Length -> 3
+12:57:09,274  INFO Application:69 - Update Succeed
+12:57:13,275  INFO Application:30 - Interval Update 4
+12:57:13,277  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:13,277  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:13,277  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:13,278  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:13,278  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:13,278  INFO Application:91 - Module Codes Array Length -> 3
+12:57:13,280  INFO Application:69 - Update Succeed
+12:57:17,294  INFO Application:30 - Interval Update 4
+12:57:17,296  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:17,296  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:17,296  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:17,296  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:17,296  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:17,297  INFO Application:91 - Module Codes Array Length -> 3
+12:57:17,298  INFO Application:69 - Update Succeed
+12:57:21,300  INFO Application:30 - Interval Update 4
+12:57:21,302  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:21,302  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:21,302  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:21,302  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:21,302  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:21,303  INFO Application:91 - Module Codes Array Length -> 3
+12:57:21,304  INFO Application:69 - Update Succeed
+12:57:25,309  INFO Application:30 - Interval Update 4
+12:57:25,311  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:25,312  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:25,312  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:25,312  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:25,312  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:25,312  INFO Application:91 - Module Codes Array Length -> 3
+12:57:25,313  INFO Application:69 - Update Succeed
+12:57:29,324  INFO Application:30 - Interval Update 4
+12:57:29,326  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:29,326  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:29,326  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:29,327  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:29,327  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:29,327  INFO Application:91 - Module Codes Array Length -> 3
+12:57:29,328  INFO Application:69 - Update Succeed
+12:57:33,333  INFO Application:30 - Interval Update 4
+12:57:33,335  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:33,335  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:33,335  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:33,335  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:33,336  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:33,336  INFO Application:91 - Module Codes Array Length -> 3
+12:57:33,337  INFO Application:69 - Update Succeed
+12:57:37,349  INFO Application:30 - Interval Update 4
+12:57:37,351  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:37,351  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:37,352  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:37,352  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:37,352  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:37,352  INFO Application:91 - Module Codes Array Length -> 3
+12:57:37,353  INFO Application:69 - Update Succeed
+12:57:41,355  INFO Application:30 - Interval Update 4
+12:57:41,357  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:41,357  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:41,357  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:41,357  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:41,357  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:41,358  INFO Application:91 - Module Codes Array Length -> 3
+12:57:41,359  INFO Application:69 - Update Succeed
+12:57:45,365  INFO Application:30 - Interval Update 4
+12:57:45,367  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:45,367  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:45,367  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:45,367  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:45,367  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:45,368  INFO Application:91 - Module Codes Array Length -> 3
+12:57:45,369  INFO Application:69 - Update Succeed
+12:57:49,378  INFO Application:30 - Interval Update 4
+12:57:49,380  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:49,380  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:49,380  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:49,380  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:49,381  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:49,381  INFO Application:91 - Module Codes Array Length -> 3
+12:57:49,382  INFO Application:69 - Update Succeed
+12:57:53,391  INFO Application:30 - Interval Update 4
+12:57:53,393  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:53,393  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:53,393  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:53,393  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:53,393  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:53,394  INFO Application:91 - Module Codes Array Length -> 3
+12:57:53,396  INFO Application:69 - Update Succeed
+12:57:57,406  INFO Application:30 - Interval Update 4
+12:57:57,408  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:57:57,408  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:57:57,408  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:57:57,408  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:57:57,408  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:57:57,409  INFO Application:91 - Module Codes Array Length -> 3
+12:57:57,411  INFO Application:69 - Update Succeed
+12:58:01,421  INFO Application:30 - Interval Update 4
+12:58:01,423  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:01,423  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:01,423  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:01,423  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:01,423  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:01,424  INFO Application:91 - Module Codes Array Length -> 3
+12:58:01,425  INFO Application:69 - Update Succeed
+12:58:05,437  INFO Application:30 - Interval Update 4
+12:58:05,439  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:05,439  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:05,440  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:05,440  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:05,440  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:05,440  INFO Application:91 - Module Codes Array Length -> 3
+12:58:05,441  INFO Application:69 - Update Succeed
+12:58:09,446  INFO Application:30 - Interval Update 4
+12:58:09,449  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:09,449  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:09,449  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:09,450  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:09,450  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:09,450  INFO Application:91 - Module Codes Array Length -> 3
+12:58:09,451  INFO Application:69 - Update Succeed
+12:58:13,457  INFO Application:30 - Interval Update 4
+12:58:13,488  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:13,488  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:13,488  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:13,488  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:13,488  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:13,489  INFO Application:91 - Module Codes Array Length -> 3
+12:58:13,518  INFO Application:69 - Update Succeed
+12:58:17,531  INFO Application:30 - Interval Update 4
+12:58:17,534  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:17,534  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:17,534  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:17,534  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:17,534  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:17,534  INFO Application:91 - Module Codes Array Length -> 3
+12:58:17,537  INFO Application:69 - Update Succeed
+12:58:21,550  INFO Application:30 - Interval Update 4
+12:58:21,552  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:21,552  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:21,552  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:21,552  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:21,552  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:21,553  INFO Application:91 - Module Codes Array Length -> 3
+12:58:21,554  INFO Application:69 - Update Succeed
+12:58:25,555  INFO Application:30 - Interval Update 4
+12:58:25,558  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:25,558  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:25,558  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:25,559  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:25,559  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:25,559  INFO Application:91 - Module Codes Array Length -> 3
+12:58:25,561  INFO Application:69 - Update Succeed
+12:58:29,562  INFO Application:30 - Interval Update 4
+12:58:29,564  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:29,564  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:29,564  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:29,564  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:29,565  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:29,565  INFO Application:91 - Module Codes Array Length -> 3
+12:58:29,566  INFO Application:69 - Update Succeed
+12:58:44,047  INFO Application:30 - Interval Update 4
+12:58:46,603  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:46,603  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:46,604  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:46,604  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:46,604  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:46,607  INFO Application:92 - Module Codes Array Length -> 3
+12:58:46,617  INFO Application:69 - Update Succeed
+12:58:50,623  INFO Application:30 - Interval Update 4
+12:58:50,625  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:50,625  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:50,625  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:50,625  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:50,625  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:50,626  INFO Application:92 - Module Codes Array Length -> 3
+12:58:50,628  INFO Application:69 - Update Succeed
+12:58:54,635  INFO Application:30 - Interval Update 4
+12:58:54,637  INFO Application:59 - List Of Actives Modules for Product Code x100
+12:58:54,638  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:58:54,638  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+12:58:54,638  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+12:58:54,638  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+12:58:54,638  INFO Application:92 - Module Codes Array Length -> 3
+12:58:54,640  INFO Application:69 - Update Succeed
+13:00:09,088  INFO Application:30 - Interval Update 4
+13:00:11,932  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:00:11,932  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:00:11,933  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:00:11,933  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:00:11,933  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:00:11,936  INFO Application:77 - Current Itteration = 1
+13:00:11,936  INFO Application:77 - Current Itteration = 2
+13:00:11,936  INFO Application:77 - Current Itteration = 3
+13:00:11,936  INFO Application:93 - Module Codes Array Length -> 3
+13:00:11,946  INFO Application:69 - Update Succeed
+13:00:15,951  INFO Application:30 - Interval Update 4
+13:00:15,953  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:00:15,954  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:00:15,954  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:00:15,954  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:00:15,954  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:00:15,955  INFO Application:77 - Current Itteration = 1
+13:00:15,955  INFO Application:77 - Current Itteration = 2
+13:00:15,955  INFO Application:77 - Current Itteration = 3
+13:00:15,955  INFO Application:93 - Module Codes Array Length -> 3
+13:00:15,957  INFO Application:69 - Update Succeed
+13:00:19,964  INFO Application:30 - Interval Update 4
+13:00:19,966  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:00:19,966  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:00:19,966  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:00:19,966  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:00:19,966  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:00:19,966  INFO Application:77 - Current Itteration = 1
+13:00:19,966  INFO Application:77 - Current Itteration = 2
+13:00:19,967  INFO Application:77 - Current Itteration = 3
+13:00:19,967  INFO Application:93 - Module Codes Array Length -> 3
+13:00:19,968  INFO Application:69 - Update Succeed
+13:00:23,973  INFO Application:30 - Interval Update 4
+13:00:27,165  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:00:27,165  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:00:27,165  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:00:27,165  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:00:27,165  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:00:27,166  INFO Application:77 - Current Itteration = 1
+13:00:27,166  INFO Application:77 - Current Itteration = 2
+13:00:27,166  INFO Application:77 - Current Itteration = 3
+13:00:27,166  INFO Application:93 - Module Codes Array Length -> 3
+13:00:27,170  INFO Application:69 - Update Succeed
+13:01:07,298  INFO Application:30 - Interval Update 60
+13:01:09,938  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:01:09,939  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:01:09,939  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:01:09,940  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:01:09,940  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:01:09,943  INFO Application:93 - Module Codes Array Length -> 3
+13:01:09,953  INFO Application:69 - Update Succeed
+13:02:09,964  INFO Application:30 - Interval Update 60
+13:02:09,968  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:02:09,968  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:02:09,968  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:02:09,969  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:02:09,969  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:02:09,969  INFO Application:93 - Module Codes Array Length -> 3
+13:02:09,973  INFO Application:69 - Update Succeed
+13:03:09,981  INFO Application:30 - Interval Update 60
+13:03:09,985  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:03:09,986  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:03:09,986  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:03:09,986  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:03:09,986  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:03:09,987  INFO Application:93 - Module Codes Array Length -> 3
+13:03:09,991  INFO Application:69 - Update Succeed
+13:04:09,996  INFO Application:30 - Interval Update 60
+13:04:10,003  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:04:10,004  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:04:10,004  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:04:10,004  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:04:10,004  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:04:10,005  INFO Application:93 - Module Codes Array Length -> 3
+13:04:10,010  INFO Application:69 - Update Succeed
+13:04:44,570  INFO Application:30 - Interval Update 60
+13:04:50,644  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:04:50,644  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:04:50,645  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:04:50,645  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:04:50,646  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:04:50,650  INFO Application:95 - Module Codes Array Length -> 3
+13:04:51,018  INFO Application:69 - Update Succeed
+13:05:43,675  INFO Application:30 - Interval Update 60
+13:05:46,410  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:05:46,410  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:05:46,410  INFO Application:64 - 302 | X100 | 25,000.00 | -1
+13:05:46,411  INFO Application:64 - 309 | X100 | 25,000.00 | -1
+13:05:46,411  INFO Application:64 - 297 | X100 | 98,050.00 | -1
+13:05:46,413  INFO Application:95 - Module Codes Array Length -> 3
+13:05:46,497  INFO Application:69 - Update Succeed

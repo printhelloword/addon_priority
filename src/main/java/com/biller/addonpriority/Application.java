@@ -7,6 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 
 //@EnableConfigServer
@@ -45,7 +46,7 @@ public class Application {
             propertyProductCodes = Settings.getProperty("kode.produk");
             String[] arrayProductCodes = propertyProductCodes.split(" ");
 
-            HashMap<String, Integer> productsToBeUpdate = new HashMap<String, Integer>();
+            HashMap<String, String> productsToBeUpdate = new LinkedHashMap<>();
 
             List<Object[]> parsing;
             ParsingDBHelper parsingdb = new ParsingDBHelper();
@@ -53,16 +54,16 @@ public class Application {
             for (int i = 0; i < arrayProductCodes.length; i++) {
                 parsing = parsingdb.getParsing(arrayProductCodes[i]);
                 if (parsing.isEmpty()) {
-                    log.info("No Active Products");
+                    log.info("No Active Modules for " + arrayProductCodes[i]);
                 } else {
-                    log.info("List Of Actives Products: ");
+                    log.info("List Of Actives Modules for Product Code " + arrayProductCodes[i]);
 
-                    log.info("kode_modul|kode_produk|harga_beli");
-                    int j = 1;
+                    log.info("kode_modul|kode_produk|harga_beli|prioritas");
+                    /*int j = 1;*/
                     for (Object[] row : parsing) {
-                        log.info(row[0] + " | " + row[1] + " | " + String.format("%,.2f", row[2]));
-                        productsToBeUpdate.put(row[0].toString(), j);
-                        j++;
+                        log.info(row[0] + " | " + row[1] + " | " + String.format("%,.2f", row[2])+ " | " +row[3]);
+                        productsToBeUpdate.put(row[0].toString(), row[2].toString());
+                        /*j++;*/
                     }
                     if (parsingdb.updatePriority(productsToBeUpdate)) {
                         log.info("Update Succeed");

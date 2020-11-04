@@ -59,11 +59,9 @@ public class Application {
                     log.info("List Of Actives Modules for Product Code " + arrayProductCodes[i]);
 
                     log.info("kode_modul|kode_produk|harga_beli|prioritas");
-                    /*int j = 1;*/
                     for (Object[] row : parsing) {
                         log.info(row[0] + " | " + row[1] + " | " + String.format("%,.2f", row[2])+ " | " +row[3]);
                         productsToBeUpdate.put(row[0].toString(), row[2].toString());
-                        /*j++;*/
                     }
                     if (parsingdb.updatePriority(productsToBeUpdate)) {
                         log.info("Update Succeed");

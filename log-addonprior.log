@@ -2858,3 +2858,202 @@
 13:17:25,093  INFO Application:64 - 304 | X100 | 99,975.00 | 6
 13:17:25,096  INFO Application:97 - Module Codes Array Length -> 4
 13:17:25,215  INFO Application:69 - Update Succeed
+13:43:32,242  INFO Application:30 - Interval Update 60
+13:43:35,692  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:43:35,692  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:43:35,693  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+13:43:35,693  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+13:43:35,693  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+13:43:35,694  INFO Application:64 - 297 | X100 | 98,050.00 | 0
+13:43:35,694  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+13:43:35,697  INFO Application:97 - Module Codes Array Length -> 5
+13:43:35,708  INFO Application:69 - Update Succeed
+13:44:35,717  INFO Application:30 - Interval Update 60
+13:44:35,724  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:44:35,724  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:44:35,724  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+13:44:35,724  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+13:44:35,725  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+13:44:35,726  INFO Application:64 - 297 | X100 | 98,050.00 | 0
+13:44:35,726  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+13:44:35,728  INFO Application:97 - Module Codes Array Length -> 5
+13:44:35,735  INFO Application:69 - Update Succeed
+13:45:39,525  INFO Application:30 - Interval Update 60
+13:45:42,879  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:45:42,879  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:45:42,880  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+13:45:42,880  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+13:45:42,880  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+13:45:42,881  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+13:45:42,881  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+13:45:42,883  INFO Application:97 - Module Codes Array Length -> 5
+13:45:42,896  INFO Application:69 - Update Succeed
+13:47:01,065  INFO Application:30 - Interval Update 60
+13:47:03,425  INFO Application:59 - List Of Actives Modules for Product Code x100
+13:47:03,425  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+13:47:03,426  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+13:47:03,426  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+13:47:03,426  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+13:47:03,426  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+13:47:03,426  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+13:47:03,429  INFO Application:97 - Module Codes Array Length -> 5
+13:47:03,439  INFO Application:69 - Update Succeed
+08:38:46,475  INFO Application:30 - Interval Update 60
+08:41:33,379  INFO Application:59 - List Of Actives Modules for Product Code x100
+08:41:33,379  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+08:41:33,380  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+08:41:33,381  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+08:41:33,381  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+08:41:33,381  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+08:41:33,382  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+08:41:33,384  INFO Application:99 - Module Codes Array Length -> 5
+08:44:12,916  INFO Application:30 - Interval Update 60
+08:44:16,699  INFO Application:59 - List Of Actives Modules for Product Code x100
+08:44:16,699  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+08:44:16,700  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+08:44:16,700  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+08:44:16,701  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+08:44:16,701  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+08:44:16,701  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+08:44:16,705  INFO Application:99 - Module Codes Array Length -> 5
+08:44:16,725  INFO Application:69 - Update Succeed
+08:49:19,943  INFO Application:30 - Interval Update 60
+08:49:27,105  INFO Application:59 - List Of Actives Modules for Product Code x100
+08:49:27,105  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+08:49:27,106  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+08:49:27,107  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+08:49:27,107  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+08:49:27,107  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+08:49:27,108  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+08:49:27,111  INFO Application:99 - Module Codes Array Length -> 5
+08:49:27,133  INFO Application:69 - Update Succeed
+09:21:19,771  INFO Application:30 - Interval Update 60
+09:21:23,122  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:21:23,122  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:21:23,123  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:21:23,123  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:21:23,124  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:21:23,124  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:21:23,124  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:21:23,126  INFO Application:99 - Module Codes Array Length -> 5
+09:21:23,138  INFO Application:69 - Update Succeed
+09:21:44,632  INFO Application:30 - Interval Update 60
+09:21:48,092  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:21:48,092  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:21:48,093  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:21:48,094  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:21:48,094  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:21:48,095  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:21:48,095  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:21:48,098  INFO Application:99 - Module Codes Array Length -> 5
+09:21:48,112  INFO Application:69 - Update Succeed
+09:35:49,933  INFO Application:30 - Interval Update 60
+09:35:53,406  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:35:53,407  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:35:53,408  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:35:53,408  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:35:53,408  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:35:53,409  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:35:53,409  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:35:53,412  INFO Application:96 - Module Codes Array Length -> 5
+09:35:53,425  INFO Application:69 - Update Succeed
+09:37:19,482  INFO Application:30 - Interval Update 60
+09:37:22,827  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:37:22,827  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:37:22,827  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:37:22,828  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:37:22,828  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:37:22,828  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:37:22,829  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:37:22,831  INFO Application:97 - Module Codes Array Length -> 5
+09:37:22,843  INFO Application:69 - Update Succeed
+09:38:38,862  INFO Application:30 - Interval Update 60
+09:38:42,203  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:38:42,204  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:38:42,205  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:38:42,205  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:38:42,206  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:38:42,206  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:38:42,206  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:38:42,209  INFO Application:97 - Module Codes Array Length -> 5
+09:38:42,225  INFO Application:69 - Update Succeed
+09:42:08,681  INFO Application:30 - Interval Update 60
+09:42:12,003  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:42:12,003  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:42:12,004  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:42:12,004  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:42:12,004  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:42:12,005  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:42:12,005  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:42:12,009  INFO Application:97 - Module Codes Array Length -> 5
+09:42:12,021  INFO Application:69 - Update Succeed
+09:43:38,558  INFO Application:30 - Interval Update 60
+09:43:42,074  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:43:42,075  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:43:42,076  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:43:42,076  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:43:42,077  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:43:42,077  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:43:42,077  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:43:42,081  INFO Application:97 - Module Codes Array Length -> 5
+09:43:42,111  INFO Application:69 - Update Succeed
+09:44:14,221  INFO Application:30 - Interval Update 60
+09:44:17,506  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:44:17,507  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:44:17,507  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:44:17,508  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:44:17,508  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:44:17,509  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:44:17,509  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:44:17,512  INFO Application:97 - Module Codes Array Length -> 5
+09:44:17,527  INFO Application:69 - Update Succeed
+09:48:30,716  INFO Application:30 - Interval Update 60
+09:48:34,143  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:48:34,143  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:48:34,144  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:48:34,145  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:48:34,145  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:48:34,145  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:48:34,145  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:48:34,149  INFO Application:99 - Module Codes Array Length -> 5
+09:48:34,162  INFO Application:69 - Update Succeed
+09:49:47,523  INFO Application:30 - Interval Update 60
+09:49:50,661  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:49:50,661  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:49:50,661  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:49:50,661  INFO Application:64 - 309 | X100 | 96,325.00 | 0
+09:49:50,663  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:49:50,663  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:49:50,663  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:49:50,665  INFO Application:99 - Module Codes Array Length -> 5
+09:49:50,677  INFO Application:69 - Update Succeed
+09:53:53,058  INFO Application:30 - Interval Update 60
+09:53:56,545  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:53:56,545  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:53:56,546  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:53:56,547  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:53:56,547  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:53:56,548  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:53:56,548  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:53:56,552  INFO Application:99 - Module Codes Array Length -> 5
+09:53:56,563  INFO Application:69 - Update Succeed
+09:54:30,019  INFO Application:30 - Interval Update 60
+09:54:33,046  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:54:33,047  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:54:33,047  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:54:33,048  INFO Application:64 - 309 | X100 | 25,000.00 | 0
+09:54:33,048  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:54:33,048  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:54:33,048  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:54:33,051  INFO Application:99 - Module Codes Array Length -> 5
+09:54:33,063  INFO Application:69 - Update Succeed
+09:55:36,157  INFO Application:30 - Interval Update 60
+09:55:38,906  INFO Application:59 - List Of Actives Modules for Product Code x100
+09:55:38,906  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+09:55:38,907  INFO Application:64 - 302 | X100 | 25,000.00 | 0
+09:55:38,907  INFO Application:64 - 309 | X100 | 96,325.00 | 0
+09:55:38,907  INFO Application:64 - 400 | X100 | 96,325.00 | 0
+09:55:38,908  INFO Application:64 - 304 | X100 | 99,975.00 | 0
+09:55:38,908  INFO Application:64 - 297 | X100 | 99,975.00 | 0
+09:55:38,910  INFO Application:99 - Module Codes Array Length -> 5
+09:55:38,922  INFO Application:69 - Update Succeed

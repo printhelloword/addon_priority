@@ -32,6 +32,7 @@ public class ParsingDBHelper {
                             "where aktif=1 " +
                             "and kode_produk=:productCode " +
                             "and harga_beli is not null " +
+                            "and harga_beli > 0 " +
                             "order by harga_beli asc");
             query.setParameter("productCode", productCode);
 
@@ -47,7 +48,7 @@ public class ParsingDBHelper {
         return results;
     }
 
-    public boolean updatePriority(Map collectionModuleCodes) {
+    public boolean updatePriority(Map collectionModuleCodes, String productCode) {
         boolean isSuccess = false;
         Session session = null;
         Transaction tx = null;
@@ -56,34 +57,42 @@ public class ParsingDBHelper {
             session = getSession();
             tx = session.beginTransaction();
             List<String> moduleCodes = new ArrayList<>();
-            String[] arrayModuleCodes = new String[collectionModuleCodes.size()];
+
             String sql = "UPDATE dbo.parsing " + "SET prioritas = CASE ";
             int iter = 1;
             String tempModuleCode = "";
             int tempIter = 0;
+            String moduleCodesArr="";
             for (Object i : collectionModuleCodes.keySet()) {
 
                 if (iter == 1) {
                     sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + iter + " ";
                     System.out.println("set prioritas = "+iter);
                 } else {
-                    System.out.println("set prioritas = "+(iter-tempIter));
                     if (collectionModuleCodes.get(i).toString().equalsIgnoreCase(tempModuleCode)) {
                         tempIter++;
                     }
                     sql += "WHEN kode_modul = '" + i.toString() + "' THEN " + (iter - tempIter) + " ";
+                    System.out.println("set prioritas = "+(iter-tempIter));
                 }
 
                 tempModuleCode = collectionModuleCodes.get(i).toString();
                 moduleCodes.add(i.toString());
                 iter++;
             }
-            sql += " END WHERE kode_modul IN :moduleCodes";
+//            sql += " END WHERE kode_modul IN :moduleCodes";
+            String comaSeparatedModuleCodes = String.join(", ", moduleCodes);
+            String productCodeParam = "'"+productCode+"'";
+            System.out.println("module codes ->> "+comaSeparatedModuleCodes);
+            sql += " END WHERE kode_modul IN ("+comaSeparatedModuleCodes+") AND kode_produk='"+productCode+"'";
+//            sql += "END WHERE kode_modul IN ("+comaSeparatedModuleCodes+") AND kode_produk='"+productCode+"'";
+            Application.log.info("Query -->>>> "+sql);
             Application.log.info("Module Codes Array Length -> " + moduleCodes.size());
 
             Query query = session.
                     createNativeQuery(sql);
-            query.setParameter("moduleCodes", Arrays.asList(arrayModuleCodes));
+//            query.setParameter("moduleCodes", comaSeparatedModuleCodes);
+//            query.setParameter("productCode", productCodeParam);
             query.executeUpdate();
             tx.commit();
             isSuccess = true;

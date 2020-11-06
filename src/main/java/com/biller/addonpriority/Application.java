@@ -60,10 +60,10 @@ public class Application {
 
                     log.info("kode_modul|kode_produk|harga_beli|prioritas");
                     for (Object[] row : parsing) {
-                        log.info(row[0] + " | " + row[1] + " | " + String.format("%,.2f", row[2])+ " | " +row[3]);
+                        log.info(row[0] + " | " + row[1] + " | " +row[2]+ " | " +row[3]);
                         productsToBeUpdate.put(row[0].toString(), row[2].toString());
                     }
-                    if (parsingdb.updatePriority(productsToBeUpdate)) {
+                    if (parsingdb.updatePriority(productsToBeUpdate, arrayProductCodes[i])) {
                         log.info("Update Succeed");
                     } else
                         log.info("Update Failed");

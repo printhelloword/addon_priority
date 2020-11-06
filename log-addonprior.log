@@ -3057,3 +3057,1446 @@
 09:55:38,908  INFO Application:64 - 297 | X100 | 99,975.00 | 0
 09:55:38,910  INFO Application:99 - Module Codes Array Length -> 5
 09:55:38,922  INFO Application:69 - Update Succeed
+15:20:41,987  INFO Application:30 - Interval Update 60
+15:24:56,932  INFO Application:30 - Interval Update 60
+15:31:50,681  INFO Application:30 - Interval Update 60
+15:39:42,199  INFO Application:30 - Interval Update 60
+15:39:49,635  INFO Application:59 - List Of Actives Modules for Product Code X100
+15:39:49,636  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+15:39:49,638  INFO Application:63 - 297 | X100 | 98,050.00 | 0
+15:39:49,638  INFO Application:63 - 302 | X100 | 98,075.00 | 0
+15:39:49,639  INFO Application:63 - 309 | X100 | 99,250.00 | 0
+15:39:49,681  INFO Application:83 - Module Codes Array Length -> 3
+15:39:49,739 FATAL Application:92 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+15:39:49,769  INFO Application:69 - Update Failed
+15:40:49,776  INFO Application:30 - Interval Update 60
+15:40:49,790  INFO Application:59 - List Of Actives Modules for Product Code X100
+15:40:49,790  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+15:40:49,790  INFO Application:63 - 297 | X100 | 98,050.00 | 0
+15:40:49,791  INFO Application:63 - 302 | X100 | 98,075.00 | 0
+15:40:49,791  INFO Application:63 - 309 | X100 | 99,250.00 | 0
+15:40:49,803  INFO Application:83 - Module Codes Array Length -> 3
+15:40:49,811 FATAL Application:92 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+15:40:49,817  INFO Application:69 - Update Failed
+15:44:57,190  INFO Application:30 - Interval Update 60
+15:45:02,563  INFO Application:59 - List Of Actives Modules for Product Code X100
+15:45:02,563  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:02,564  INFO Application:63 - 297 | X100 | 98,050.00 | 0
+15:45:02,564  INFO Application:63 - 302 | X100 | 98,075.00 | 0
+15:45:02,564  INFO Application:63 - 309 | X100 | 99,250.00 | 0
+15:45:02,571  INFO Application:84 - Module Codes Array Length -> 3
+15:45:02,581 FATAL Application:93 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+15:45:02,586  INFO Application:69 - Update Failed
+08:28:36,302  INFO Application:30 - Interval Update 60
+10:43:36,405  INFO Application:30 - Interval Update 60
+10:43:55,521  INFO Application:59 - List Of Actives Modules for Product Code X100
+10:43:55,521  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+10:43:55,523  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+10:43:55,523  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+10:43:55,523  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+10:43:55,524  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+10:43:55,524  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+10:43:55,528  INFO Application:85 - Module Codes Array Length -> 5
+10:43:55,533 FATAL Application:94 - java.util.NoSuchElementException
+10:43:55,535  INFO Application:69 - Update Failed
+10:44:55,545  INFO Application:30 - Interval Update 60
+10:44:55,550  INFO Application:59 - List Of Actives Modules for Product Code X100
+10:44:55,550  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+10:44:55,550  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+10:44:55,550  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+10:44:55,550  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+10:44:55,550  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+10:44:55,550  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+10:44:55,552  INFO Application:85 - Module Codes Array Length -> 5
+10:44:55,552 FATAL Application:94 - java.util.NoSuchElementException
+10:44:55,552  INFO Application:69 - Update Failed
+10:45:55,564  INFO Application:30 - Interval Update 60
+10:45:55,566  INFO Application:59 - List Of Actives Modules for Product Code X100
+10:45:55,566  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+10:45:55,566  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+10:45:55,566  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+10:45:55,566  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+10:45:55,566  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+10:45:55,566  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+10:45:55,567  INFO Application:85 - Module Codes Array Length -> 5
+10:45:55,567 FATAL Application:94 - java.util.NoSuchElementException
+10:45:55,567  INFO Application:69 - Update Failed
+10:46:55,582  INFO Application:30 - Interval Update 60
+10:46:55,585  INFO Application:59 - List Of Actives Modules for Product Code X100
+10:46:55,586  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+10:46:55,586  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+10:46:55,586  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+10:46:55,586  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+10:46:55,586  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+10:46:55,586  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+10:46:55,586  INFO Application:85 - Module Codes Array Length -> 5
+10:46:55,587 FATAL Application:94 - java.util.NoSuchElementException
+10:46:55,587  INFO Application:69 - Update Failed
+10:47:55,601  INFO Application:30 - Interval Update 60
+10:47:57,485  INFO Application:59 - List Of Actives Modules for Product Code X100
+10:47:57,485  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+10:47:57,485  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+10:47:57,485  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+10:47:57,485  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+10:47:57,486  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+10:47:57,486  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+10:47:57,486  INFO Application:85 - Module Codes Array Length -> 5
+10:47:57,486 FATAL Application:94 - java.util.NoSuchElementException
+10:47:57,487  INFO Application:69 - Update Failed
+10:48:57,496  INFO Application:30 - Interval Update 60
+10:48:57,525  INFO Application:59 - List Of Actives Modules for Product Code X100
+10:48:57,525  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+10:48:57,525  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+10:48:57,525  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+10:48:57,525  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+10:48:57,526  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+10:48:57,526  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+10:48:57,526  INFO Application:85 - Module Codes Array Length -> 5
+10:48:57,527 FATAL Application:94 - java.util.NoSuchElementException
+10:48:57,527  INFO Application:69 - Update Failed
+11:03:19,886  INFO Application:30 - Interval Update 60
+11:04:09,184  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:04:09,184  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:04:09,185  INFO Application:63 - 302 | X100 | 25,000.00 | 1
+11:04:09,186  INFO Application:63 - 309 | X100 | 96,325.00 | 1
+11:04:09,186  INFO Application:63 - 400 | X100 | 96,325.00 | 3
+11:04:09,187  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+11:04:09,187  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+11:04:09,191  INFO Application:85 - Module Codes Array Length -> 5
+11:04:09,197 FATAL Application:95 - java.util.NoSuchElementException
+11:04:09,198  INFO Application:69 - Update Failed
+11:09:25,036  INFO Application:30 - Interval Update 60
+11:09:28,210  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:09:28,210  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:09:28,211  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+11:09:28,211  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+11:09:28,212  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+11:09:28,212  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+11:09:28,212  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+11:09:28,215  INFO Application:85 - Module Codes Array Length -> 5
+11:09:28,220 FATAL Application:95 - java.util.NoSuchElementException
+11:09:28,221  INFO Application:69 - Update Failed
+11:10:23,837  INFO Application:30 - Interval Update 60
+11:10:30,072  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:10:30,072  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:10:30,073  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+11:10:30,073  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+11:10:30,073  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+11:10:30,074  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+11:10:30,074  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+11:10:30,078  INFO Application:85 - Module Codes Array Length -> 5
+11:10:30,082 FATAL Application:95 - java.util.NoSuchElementException
+11:10:30,083  INFO Application:69 - Update Failed
+11:11:19,144  INFO Application:30 - Interval Update 60
+11:12:10,201  INFO Application:30 - Interval Update 60
+11:13:04,856  INFO Application:30 - Interval Update 4
+11:13:21,442  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:13:21,442  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:13:21,443  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+11:13:21,443  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+11:13:21,443  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+11:13:21,444  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+11:13:21,444  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+11:13:21,448  INFO Application:85 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+11:13:21,448  INFO Application:86 - Module Codes Array Length -> 5
+11:13:21,453 FATAL Application:96 - java.util.NoSuchElementException
+11:13:21,454  INFO Application:69 - Update Failed
+11:13:25,459  INFO Application:30 - Interval Update 4
+11:13:25,463  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:13:25,463  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:13:25,463  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+11:13:25,464  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+11:13:25,464  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+11:13:25,464  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+11:13:25,464  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+11:13:25,465  INFO Application:85 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+11:13:25,465  INFO Application:86 - Module Codes Array Length -> 5
+11:13:25,465 FATAL Application:96 - java.util.NoSuchElementException
+11:13:25,466  INFO Application:69 - Update Failed
+11:13:29,471  INFO Application:30 - Interval Update 4
+11:13:29,474  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:13:29,474  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:13:29,475  INFO Application:63 - 302 | X100 | 25,000.00 | 0
+11:13:29,475  INFO Application:63 - 309 | X100 | 96,325.00 | 0
+11:13:29,475  INFO Application:63 - 400 | X100 | 96,325.00 | 0
+11:13:29,475  INFO Application:63 - 304 | X100 | 99,975.00 | 0
+11:13:29,475  INFO Application:63 - 297 | X100 | 99,975.00 | 0
+11:13:29,475  INFO Application:85 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+11:13:29,475  INFO Application:86 - Module Codes Array Length -> 5
+11:13:29,476 FATAL Application:96 - java.util.NoSuchElementException
+11:13:29,476  INFO Application:69 - Update Failed
+11:44:15,647  INFO Application:30 - Interval Update 4
+11:44:19,225  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:19,225  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:19,226 FATAL Application:76 - f != java.lang.Integer
+11:44:23,240  INFO Application:30 - Interval Update 4
+11:44:23,272  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:23,273  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:23,273 FATAL Application:76 - f != java.lang.Integer
+11:44:27,281  INFO Application:30 - Interval Update 4
+11:44:27,314  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:27,314  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:27,315 FATAL Application:76 - f != java.lang.Integer
+11:44:31,328  INFO Application:30 - Interval Update 4
+11:44:31,348  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:31,348  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:31,348 FATAL Application:76 - f != java.lang.Integer
+11:44:35,364  INFO Application:30 - Interval Update 4
+11:44:35,411  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:35,411  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:35,412 FATAL Application:76 - f != java.lang.Integer
+11:44:39,412  INFO Application:30 - Interval Update 4
+11:44:39,426  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:39,426  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:39,426 FATAL Application:76 - f != java.lang.Integer
+11:44:43,430  INFO Application:30 - Interval Update 4
+11:44:43,459  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:43,459  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:43,459 FATAL Application:76 - f != java.lang.Integer
+11:44:47,469  INFO Application:30 - Interval Update 4
+11:44:47,501  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:47,501  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:47,502 FATAL Application:76 - f != java.lang.Integer
+11:44:51,504  INFO Application:30 - Interval Update 4
+11:44:51,551  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:51,551  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:51,552 FATAL Application:76 - f != java.lang.Integer
+11:44:55,554  INFO Application:30 - Interval Update 4
+11:44:55,580  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:55,580  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:55,581 FATAL Application:76 - f != java.lang.Integer
+11:44:59,586  INFO Application:30 - Interval Update 4
+11:44:59,612  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:44:59,612  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:44:59,612 FATAL Application:76 - f != java.lang.Integer
+11:45:03,614  INFO Application:30 - Interval Update 4
+11:45:03,628  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:45:03,628  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:45:03,628 FATAL Application:76 - f != java.lang.Integer
+11:45:07,632  INFO Application:30 - Interval Update 4
+11:45:07,663  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:45:07,663  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:45:07,663 FATAL Application:76 - f != java.lang.Integer
+11:45:11,669  INFO Application:30 - Interval Update 4
+11:45:11,700  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:45:11,700  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:45:11,701 FATAL Application:76 - f != java.lang.Integer
+11:45:15,710  INFO Application:30 - Interval Update 4
+11:45:15,726  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:45:15,726  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:45:15,726 FATAL Application:76 - f != java.lang.Integer
+11:45:19,737  INFO Application:30 - Interval Update 4
+11:45:19,757  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:45:19,757  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:45:19,758 FATAL Application:76 - f != java.lang.Integer
+11:45:23,773  INFO Application:30 - Interval Update 4
+11:45:23,789  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:45:23,789  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:45:23,790 FATAL Application:76 - f != java.lang.Integer
+11:45:27,792  INFO Application:30 - Interval Update 4
+11:45:27,846  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:45:27,847  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:45:27,847 FATAL Application:76 - f != java.lang.Integer
+11:45:31,855  INFO Application:30 - Interval Update 4
+11:45:31,870  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:45:31,870  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:45:31,870 FATAL Application:76 - f != java.lang.Integer
+11:45:35,878  INFO Application:30 - Interval Update 4
+11:45:35,918  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:45:35,918  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:45:35,919 FATAL Application:76 - f != java.lang.Integer
+11:45:58,484  INFO Application:30 - Interval Update 4
+11:46:01,565  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:46:01,566  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:46:01,567 FATAL Application:76 - f != java.lang.Integer
+11:46:05,579  INFO Application:30 - Interval Update 4
+11:46:05,607  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:46:05,607  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:46:05,607 FATAL Application:76 - f != java.lang.Integer
+11:46:09,616  INFO Application:30 - Interval Update 4
+11:46:09,646  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:46:09,646  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:46:09,646 FATAL Application:76 - f != java.lang.Integer
+11:47:46,416  INFO Application:30 - Interval Update 4
+11:47:49,048  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:47:49,049  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:47:49,050 FATAL Application:76 - f != java.lang.Integer
+11:47:53,056  INFO Application:30 - Interval Update 4
+11:47:53,084  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:47:53,084  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:47:53,085 FATAL Application:76 - f != java.lang.Integer
+11:49:05,935  INFO Application:30 - Interval Update 4
+11:49:08,155  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:49:08,155  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:49:08,155  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:49:08,155  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:49:08,155  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:49:08,155  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:49:08,155  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:49:08,157  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+11:49:08,158  INFO Application:88 - Module Codes Array Length -> 5
+11:49:08,158  INFO Application:69 - Update Failed
+11:49:12,171  INFO Application:30 - Interval Update 4
+11:49:12,184  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:49:12,184  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:49:12,184  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:49:12,184  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:49:12,185  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:49:12,185  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:49:12,185  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:49:12,186  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+11:49:12,186  INFO Application:88 - Module Codes Array Length -> 5
+11:49:12,187  INFO Application:69 - Update Failed
+11:50:07,907  INFO Application:30 - Interval Update 4
+11:50:10,211  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:50:10,211  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:50:10,212  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:50:10,212  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:50:10,212  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:50:10,212  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:50:10,212  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:50:10,215  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk=X100
+11:50:10,215  INFO Application:88 - Module Codes Array Length -> 5
+11:50:10,215 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [moduleCodes], expecting one of []
+11:50:10,216  INFO Application:69 - Update Failed
+11:50:14,219  INFO Application:30 - Interval Update 4
+11:50:14,221  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:50:14,222  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:50:14,222  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:50:14,223  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:50:14,223  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:50:14,223  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:50:14,223  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:50:14,224  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk=X100
+11:50:14,224  INFO Application:88 - Module Codes Array Length -> 5
+11:50:14,224 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [moduleCodes], expecting one of []
+11:50:14,225  INFO Application:69 - Update Failed
+11:50:18,237  INFO Application:30 - Interval Update 4
+11:50:18,239  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:50:18,240  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:50:18,240  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:50:18,240  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:50:18,240  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:50:18,240  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:50:18,240  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:50:18,241  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk=X100
+11:50:18,241  INFO Application:88 - Module Codes Array Length -> 5
+11:50:18,241 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [moduleCodes], expecting one of []
+11:50:18,242  INFO Application:69 - Update Failed
+11:50:22,251  INFO Application:30 - Interval Update 4
+11:50:22,253  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:50:22,253  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:50:22,253  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:50:22,253  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:50:22,253  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:50:22,253  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:50:22,253  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:50:22,254  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk=X100
+11:50:22,254  INFO Application:88 - Module Codes Array Length -> 5
+11:50:22,254 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [moduleCodes], expecting one of []
+11:50:22,255  INFO Application:69 - Update Failed
+11:51:39,075  INFO Application:30 - Interval Update 4
+11:51:41,369  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:51:41,369  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:51:41,369  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:51:41,369  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:51:41,369  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:51:41,370  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:51:41,370  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:51:41,372  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:51:41,372  INFO Application:88 - Module Codes Array Length -> 5
+11:51:41,372  INFO Application:69 - Update Failed
+11:51:45,372  INFO Application:30 - Interval Update 4
+11:51:45,375  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:51:45,375  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:51:45,375  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:51:45,375  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:51:45,376  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:51:45,376  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:51:45,376  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:51:45,376  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:51:45,376  INFO Application:88 - Module Codes Array Length -> 5
+11:51:45,377  INFO Application:69 - Update Failed
+11:51:49,378  INFO Application:30 - Interval Update 4
+11:51:49,383  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:51:49,383  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:51:49,383  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:51:49,383  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:51:49,383  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:51:49,383  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:51:49,383  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:51:49,384  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:51:49,384  INFO Application:88 - Module Codes Array Length -> 5
+11:51:49,385  INFO Application:69 - Update Failed
+11:51:53,395  INFO Application:30 - Interval Update 4
+11:51:53,399  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:51:53,399  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:51:53,399  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:51:53,399  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:51:53,399  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:51:53,399  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:51:53,399  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:51:53,400  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:51:53,400  INFO Application:88 - Module Codes Array Length -> 5
+11:51:53,400  INFO Application:69 - Update Failed
+11:51:57,408  INFO Application:30 - Interval Update 4
+11:51:57,410  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:51:57,410  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:51:57,410  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:51:57,411  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:51:57,411  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:51:57,411  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:51:57,411  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:51:57,411  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:51:57,411  INFO Application:88 - Module Codes Array Length -> 5
+11:51:57,412  INFO Application:69 - Update Failed
+11:52:01,415  INFO Application:30 - Interval Update 4
+11:52:01,417  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:52:01,418  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:52:01,418  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:52:01,418  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:52:01,418  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:52:01,418  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:52:01,418  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:52:01,419  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:52:01,419  INFO Application:88 - Module Codes Array Length -> 5
+11:52:01,419  INFO Application:69 - Update Failed
+11:52:05,432  INFO Application:30 - Interval Update 4
+11:52:05,435  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:52:05,435  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:52:05,435  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:52:05,435  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:52:05,435  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:52:05,435  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:52:05,435  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:52:05,436  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:52:05,436  INFO Application:88 - Module Codes Array Length -> 5
+11:52:05,436  INFO Application:69 - Update Failed
+11:52:09,443  INFO Application:30 - Interval Update 4
+11:52:09,445  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:52:09,446  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:52:09,446  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:52:09,446  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:52:09,446  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:52:09,446  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:52:09,446  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:52:09,447  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:52:09,447  INFO Application:88 - Module Codes Array Length -> 5
+11:52:09,447  INFO Application:69 - Update Failed
+11:52:13,457  INFO Application:30 - Interval Update 4
+11:52:13,459  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:52:13,459  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:52:13,459  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:52:13,459  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:52:13,460  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:52:13,460  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:52:13,460  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:52:13,460  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:52:13,460  INFO Application:88 - Module Codes Array Length -> 5
+11:52:13,461  INFO Application:69 - Update Failed
+11:52:17,464  INFO Application:30 - Interval Update 4
+11:52:17,466  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:52:17,466  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:52:17,466  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:52:17,466  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:52:17,466  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:52:17,467  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:52:17,467  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:52:17,467  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:52:17,467  INFO Application:88 - Module Codes Array Length -> 5
+11:52:17,468  INFO Application:69 - Update Failed
+11:54:21,593  INFO Application:30 - Interval Update 4
+11:54:23,910  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:54:23,910  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:54:23,910  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:54:23,910  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:54:23,910  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:54:23,911  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:54:23,911  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:54:23,913  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:54:23,913  INFO Application:88 - Module Codes Array Length -> 5
+11:54:23,913  INFO Application:69 - Update Failed
+11:54:40,995  INFO Application:30 - Interval Update 4
+11:54:43,126  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:54:43,127  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:54:43,127  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:54:43,127  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:54:43,127  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:54:43,127  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:54:43,127  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:54:43,129  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:54:43,129  INFO Application:88 - Module Codes Array Length -> 5
+11:54:43,129  INFO Application:69 - Update Failed
+11:54:47,136  INFO Application:30 - Interval Update 4
+11:54:47,138  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:54:47,138  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:54:47,138  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:54:47,138  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:54:47,139  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:54:47,139  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:54:47,139  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:54:47,140  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:54:47,140  INFO Application:88 - Module Codes Array Length -> 5
+11:54:47,140  INFO Application:69 - Update Failed
+11:54:51,152  INFO Application:30 - Interval Update 4
+11:54:51,154  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:54:51,154  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:54:51,155  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:54:51,155  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:54:51,155  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:54:51,155  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:54:51,155  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:54:51,156  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:54:51,156  INFO Application:88 - Module Codes Array Length -> 5
+11:54:51,157  INFO Application:69 - Update Failed
+11:54:55,161  INFO Application:30 - Interval Update 4
+11:54:55,164  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:54:55,164  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:54:55,164  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:54:55,164  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:54:55,164  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:54:55,164  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:54:55,164  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:54:55,165  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 304, 297) AND kode_produk='X100'
+11:54:55,165  INFO Application:88 - Module Codes Array Length -> 5
+11:54:55,165  INFO Application:69 - Update Failed
+11:56:11,565  INFO Application:30 - Interval Update 4
+11:56:14,052  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:14,052  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:14,052  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:14,072  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:14,072  INFO Application:88 - Module Codes Array Length -> 1
+11:56:14,091  INFO Application:69 - Update Failed
+11:56:18,106  INFO Application:30 - Interval Update 4
+11:56:18,156  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:18,156  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:18,156  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:18,183  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:18,183  INFO Application:88 - Module Codes Array Length -> 1
+11:56:18,201  INFO Application:69 - Update Failed
+11:56:22,215  INFO Application:30 - Interval Update 4
+11:56:22,240  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:22,241  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:22,241  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:22,261  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:22,261  INFO Application:88 - Module Codes Array Length -> 1
+11:56:22,281  INFO Application:69 - Update Failed
+11:56:26,293  INFO Application:30 - Interval Update 4
+11:56:26,318  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:26,318  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:26,318  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:26,331  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:26,331  INFO Application:88 - Module Codes Array Length -> 1
+11:56:26,352  INFO Application:69 - Update Failed
+11:56:30,357  INFO Application:30 - Interval Update 4
+11:56:30,378  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:30,378  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:30,378  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:30,395  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:30,396  INFO Application:88 - Module Codes Array Length -> 1
+11:56:30,401  INFO Application:69 - Update Failed
+11:56:34,408  INFO Application:30 - Interval Update 4
+11:56:34,429  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:34,429  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:34,429  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:34,450  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:34,450  INFO Application:88 - Module Codes Array Length -> 1
+11:56:34,471  INFO Application:69 - Update Failed
+11:56:38,484  INFO Application:30 - Interval Update 4
+11:56:38,508  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:38,508  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:38,509  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:38,512  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:38,512  INFO Application:88 - Module Codes Array Length -> 1
+11:56:38,517  INFO Application:69 - Update Failed
+11:56:42,521  INFO Application:30 - Interval Update 4
+11:56:42,549  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:42,549  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:42,549  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:42,571  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:42,572  INFO Application:88 - Module Codes Array Length -> 1
+11:56:42,591  INFO Application:69 - Update Failed
+11:56:46,592  INFO Application:30 - Interval Update 4
+11:56:46,622  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:46,623  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:46,623  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:46,641  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:46,641  INFO Application:88 - Module Codes Array Length -> 1
+11:56:46,661  INFO Application:69 - Update Failed
+11:56:50,670  INFO Application:30 - Interval Update 4
+11:56:50,697  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:50,697  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:50,697  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:50,711  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:50,711  INFO Application:88 - Module Codes Array Length -> 1
+11:56:50,731  INFO Application:69 - Update Failed
+11:56:54,741  INFO Application:30 - Interval Update 4
+11:56:54,769  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:54,769  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:54,769  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:54,887  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:54,887  INFO Application:88 - Module Codes Array Length -> 1
+11:56:54,902  INFO Application:69 - Update Failed
+11:56:58,908  INFO Application:30 - Interval Update 4
+11:56:58,939  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:56:58,939  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:56:58,939  INFO Application:63 - 770 | X100 | 98525 | 0
+11:56:58,962  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:56:58,962  INFO Application:88 - Module Codes Array Length -> 1
+11:56:58,982  INFO Application:69 - Update Failed
+11:57:02,995  INFO Application:30 - Interval Update 4
+11:57:03,017  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:57:03,017  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:57:03,017  INFO Application:63 - 770 | X100 | 98525 | 0
+11:57:03,032  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '770' THEN 1  END WHERE kode_modul IN (770) AND kode_produk='X100'
+11:57:03,032  INFO Application:88 - Module Codes Array Length -> 1
+11:57:03,051  INFO Application:69 - Update Failed
+11:58:12,747  INFO Application:30 - Interval Update 4
+11:58:15,565  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:58:15,565  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:58:15,565  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:58:15,565  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:58:15,566  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:58:15,566  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:58:15,566  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:58:15,569  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:58:15,569  INFO Application:88 - Module Codes Array Length -> 5
+11:58:15,569  INFO Application:69 - Update Failed
+11:58:19,583  INFO Application:30 - Interval Update 4
+11:58:19,587  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:58:19,587  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:58:19,587  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:58:19,587  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:58:19,588  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:58:19,588  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:58:19,588  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:58:19,589  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:58:19,589  INFO Application:88 - Module Codes Array Length -> 5
+11:58:19,589  INFO Application:69 - Update Failed
+11:58:38,531  INFO Application:30 - Interval Update 4
+11:58:41,184  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:58:41,184  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:58:41,184  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:58:41,184  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:58:41,185  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:58:41,185  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:58:41,185  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:58:41,187  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:58:41,187  INFO Application:88 - Module Codes Array Length -> 5
+11:58:41,188 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes]
+11:58:41,189  INFO Application:69 - Update Failed
+11:58:45,196  INFO Application:30 - Interval Update 4
+11:58:45,198  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:58:45,199  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:58:45,199  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:58:45,199  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:58:45,200  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:58:45,200  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:58:45,200  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:58:45,200  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:58:45,200  INFO Application:88 - Module Codes Array Length -> 5
+11:58:45,201 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes]
+11:58:45,201  INFO Application:69 - Update Failed
+11:58:49,203  INFO Application:30 - Interval Update 4
+11:58:49,206  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:58:49,206  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:58:49,206  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:58:49,206  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:58:49,206  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:58:49,206  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:58:49,206  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:58:49,207  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:58:49,207  INFO Application:88 - Module Codes Array Length -> 5
+11:58:49,207 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes]
+11:58:49,207  INFO Application:69 - Update Failed
+11:58:53,221  INFO Application:30 - Interval Update 4
+11:58:53,223  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:58:53,223  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:58:53,223  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:58:53,224  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:58:53,224  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:58:53,224  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:58:53,224  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:58:53,224  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:58:53,225  INFO Application:88 - Module Codes Array Length -> 5
+11:58:53,225 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes]
+11:58:53,226  INFO Application:69 - Update Failed
+11:58:57,235  INFO Application:30 - Interval Update 4
+11:58:57,237  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:58:57,237  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:58:57,237  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:58:57,237  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:58:57,237  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:58:57,237  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:58:57,237  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:58:57,238  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:58:57,238  INFO Application:88 - Module Codes Array Length -> 5
+11:58:57,238 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes]
+11:58:57,239  INFO Application:69 - Update Failed
+11:59:01,241  INFO Application:30 - Interval Update 4
+11:59:01,243  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:01,243  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:01,244  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:01,244  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:01,244  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:01,244  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:01,244  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:01,245  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:59:01,245  INFO Application:88 - Module Codes Array Length -> 5
+11:59:01,245 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes]
+11:59:01,246  INFO Application:69 - Update Failed
+11:59:05,251  INFO Application:30 - Interval Update 4
+11:59:05,253  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:05,253  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:05,253  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:05,253  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:05,253  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:05,253  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:05,253  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:05,254  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:59:05,254  INFO Application:88 - Module Codes Array Length -> 5
+11:59:05,254 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes]
+11:59:05,254  INFO Application:69 - Update Failed
+11:59:09,263  INFO Application:30 - Interval Update 4
+11:59:09,265  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:09,265  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:09,265  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:09,265  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:09,265  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:09,265  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:09,265  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:09,266  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:59:09,266  INFO Application:88 - Module Codes Array Length -> 5
+11:59:09,266 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes]
+11:59:09,266  INFO Application:69 - Update Failed
+11:59:13,277  INFO Application:30 - Interval Update 4
+11:59:13,279  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:13,279  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:13,279  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:13,279  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:13,279  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:13,279  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:13,279  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:13,280  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=':productCode'
+11:59:13,280  INFO Application:88 - Module Codes Array Length -> 5
+11:59:13,280 FATAL Application:98 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes]
+11:59:13,281  INFO Application:69 - Update Failed
+11:59:24,257  INFO Application:30 - Interval Update 4
+11:59:26,579  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:26,579  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:26,579  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:26,579  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:26,579  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:26,579  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:26,579  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:26,581  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+11:59:26,581  INFO Application:88 - Module Codes Array Length -> 5
+11:59:26,681 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+11:59:26,682  INFO Application:69 - Update Failed
+11:59:30,692  INFO Application:30 - Interval Update 4
+11:59:30,694  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:30,694  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:30,695  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:30,696  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:30,696  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:30,696  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:30,696  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:30,697  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+11:59:30,697  INFO Application:88 - Module Codes Array Length -> 5
+11:59:30,700 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+11:59:30,701  INFO Application:69 - Update Failed
+11:59:34,704  INFO Application:30 - Interval Update 4
+11:59:34,708  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:34,709  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:34,709  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:34,709  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:34,709  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:34,709  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:34,709  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:34,710  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+11:59:34,710  INFO Application:88 - Module Codes Array Length -> 5
+11:59:34,711 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+11:59:34,712  INFO Application:69 - Update Failed
+11:59:38,713  INFO Application:30 - Interval Update 4
+11:59:38,717  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:38,717  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:38,718  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:38,718  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:38,718  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:38,718  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:38,718  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:38,718  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+11:59:38,718  INFO Application:88 - Module Codes Array Length -> 5
+11:59:38,720 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+11:59:38,721  INFO Application:69 - Update Failed
+11:59:42,723  INFO Application:30 - Interval Update 4
+11:59:42,726  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:42,727  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:42,727  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:42,727  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:42,727  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:42,727  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:42,727  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:42,727  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+11:59:42,728  INFO Application:88 - Module Codes Array Length -> 5
+11:59:42,729 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+11:59:42,730  INFO Application:69 - Update Failed
+11:59:46,739  INFO Application:30 - Interval Update 4
+11:59:46,741  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:46,741  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:46,741  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:46,742  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:46,742  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:46,742  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:46,742  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:46,743  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+11:59:46,743  INFO Application:88 - Module Codes Array Length -> 5
+11:59:46,744 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+11:59:46,745  INFO Application:69 - Update Failed
+11:59:50,752  INFO Application:30 - Interval Update 4
+11:59:50,754  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:50,754  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:50,754  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:50,754  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:50,754  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:50,754  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:50,754  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:50,754  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+11:59:50,754  INFO Application:88 - Module Codes Array Length -> 5
+11:59:50,756 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+11:59:50,756  INFO Application:69 - Update Failed
+11:59:54,758  INFO Application:30 - Interval Update 4
+11:59:54,760  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:54,760  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:54,760  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:54,760  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:54,760  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:54,760  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:54,760  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:54,761  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+11:59:54,761  INFO Application:88 - Module Codes Array Length -> 5
+11:59:54,762 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+11:59:54,763  INFO Application:69 - Update Failed
+11:59:58,771  INFO Application:30 - Interval Update 4
+11:59:58,773  INFO Application:59 - List Of Actives Modules for Product Code X100
+11:59:58,773  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+11:59:58,774  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+11:59:58,774  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+11:59:58,774  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+11:59:58,774  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+11:59:58,774  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+11:59:58,775  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+11:59:58,775  INFO Application:88 - Module Codes Array Length -> 5
+11:59:58,777 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+11:59:58,778  INFO Application:69 - Update Failed
+12:00:02,785  INFO Application:30 - Interval Update 4
+12:00:02,786  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:00:02,787  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:00:02,787  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:00:02,787  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:00:02,787  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:00:02,787  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:00:02,787  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:00:02,788  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:00:02,788  INFO Application:88 - Module Codes Array Length -> 5
+12:00:02,789 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:00:02,790  INFO Application:69 - Update Failed
+12:00:06,794  INFO Application:30 - Interval Update 4
+12:00:06,796  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:00:06,796  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:00:06,796  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:00:06,796  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:00:06,796  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:00:06,796  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:00:06,796  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:00:06,797  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:00:06,797  INFO Application:88 - Module Codes Array Length -> 5
+12:00:06,798 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:00:06,798  INFO Application:69 - Update Failed
+12:00:10,811  INFO Application:30 - Interval Update 4
+12:00:10,813  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:00:10,813  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:00:10,813  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:00:10,813  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:00:10,813  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:00:10,813  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:00:10,813  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:00:10,813  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:00:10,814  INFO Application:88 - Module Codes Array Length -> 5
+12:00:10,815 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:00:10,815  INFO Application:69 - Update Failed
+12:00:14,825  INFO Application:30 - Interval Update 4
+12:00:14,827  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:00:14,827  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:00:14,827  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:00:14,828  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:00:14,828  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:00:14,828  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:00:14,828  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:00:14,828  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:00:14,828  INFO Application:88 - Module Codes Array Length -> 5
+12:00:14,830 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:00:14,831  INFO Application:69 - Update Failed
+12:00:18,840  INFO Application:30 - Interval Update 4
+12:00:18,842  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:00:18,842  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:00:18,842  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:00:18,842  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:00:18,842  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:00:18,843  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:00:18,843  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:00:18,843  INFO Application:87 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3 END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:00:18,843  INFO Application:88 - Module Codes Array Length -> 5
+12:00:18,844 FATAL Application:98 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:00:18,845  INFO Application:69 - Update Failed
+12:01:48,249  INFO Application:30 - Interval Update 4
+12:01:50,537  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:01:50,537  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:01:50,537  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:01:50,537  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:01:50,537  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:01:50,537  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:01:50,538  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:01:50,540  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:01:50,540  INFO Application:89 - Module Codes Array Length -> 5
+12:01:50,547 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:01:50,548  INFO Application:69 - Update Failed
+12:01:54,559  INFO Application:30 - Interval Update 4
+12:01:54,561  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:01:54,561  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:01:54,562  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:01:54,562  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:01:54,562  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:01:54,562  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:01:54,562  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:01:54,563  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:01:54,563  INFO Application:89 - Module Codes Array Length -> 5
+12:01:54,565 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:01:54,566  INFO Application:69 - Update Failed
+12:01:58,580  INFO Application:30 - Interval Update 4
+12:01:58,583  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:01:58,583  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:01:58,583  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:01:58,583  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:01:58,583  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:01:58,583  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:01:58,583  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:01:58,584  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:01:58,584  INFO Application:89 - Module Codes Array Length -> 5
+12:01:58,585 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:01:58,586  INFO Application:69 - Update Failed
+12:02:02,598  INFO Application:30 - Interval Update 4
+12:02:02,599  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:02:02,599  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:02:02,599  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:02:02,599  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:02:02,599  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:02:02,600  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:02:02,600  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:02:02,600  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:02:02,600  INFO Application:89 - Module Codes Array Length -> 5
+12:02:02,602 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:02:02,603  INFO Application:69 - Update Failed
+12:02:38,550  INFO Application:30 - Interval Update 4
+12:02:40,815  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:02:40,815  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:02:40,815  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:02:40,815  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:02:40,815  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:02:40,816  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:02:40,816  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:02:40,818  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:02:40,818  INFO Application:89 - Module Codes Array Length -> 5
+12:02:40,820 FATAL Application:99 - java.util.NoSuchElementException
+12:02:40,821  INFO Application:69 - Update Failed
+12:02:44,830  INFO Application:30 - Interval Update 4
+12:02:44,833  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:02:44,833  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:02:44,833  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:02:44,834  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:02:44,834  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:02:44,834  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:02:44,834  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:02:44,835  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:02:44,835  INFO Application:89 - Module Codes Array Length -> 5
+12:02:44,835 FATAL Application:99 - java.util.NoSuchElementException
+12:02:44,836  INFO Application:69 - Update Failed
+12:02:48,840  INFO Application:30 - Interval Update 4
+12:02:48,842  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:02:48,842  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:02:48,842  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:02:48,842  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:02:48,842  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:02:48,842  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:02:48,842  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:02:48,843  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:02:48,843  INFO Application:89 - Module Codes Array Length -> 5
+12:02:48,843 FATAL Application:99 - java.util.NoSuchElementException
+12:02:48,844  INFO Application:69 - Update Failed
+12:02:52,845  INFO Application:30 - Interval Update 4
+12:02:52,849  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:02:52,849  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:02:52,849  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:02:52,850  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:02:52,850  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:02:52,850  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:02:52,850  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:02:52,850  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:02:52,850  INFO Application:89 - Module Codes Array Length -> 5
+12:02:52,851 FATAL Application:99 - java.util.NoSuchElementException
+12:02:52,851  INFO Application:69 - Update Failed
+12:02:56,855  INFO Application:30 - Interval Update 4
+12:02:56,860  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:02:56,860  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:02:56,860  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:02:56,860  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:02:56,860  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:02:56,860  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:02:56,860  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:02:56,860  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:02:56,861  INFO Application:89 - Module Codes Array Length -> 5
+12:02:56,861 FATAL Application:99 - java.util.NoSuchElementException
+12:02:56,862  INFO Application:69 - Update Failed
+12:03:00,875  INFO Application:30 - Interval Update 4
+12:03:00,878  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:00,878  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:00,878  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:00,878  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:00,878  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:00,879  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:00,879  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:00,879  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:03:00,879  INFO Application:89 - Module Codes Array Length -> 5
+12:03:00,880 FATAL Application:99 - java.util.NoSuchElementException
+12:03:00,881  INFO Application:69 - Update Failed
+12:03:04,889  INFO Application:30 - Interval Update 4
+12:03:04,890  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:04,891  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:04,891  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:04,891  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:04,891  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:04,891  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:04,891  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:04,891  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:03:04,891  INFO Application:89 - Module Codes Array Length -> 5
+12:03:04,892 FATAL Application:99 - java.util.NoSuchElementException
+12:03:04,893  INFO Application:69 - Update Failed
+12:03:08,905  INFO Application:30 - Interval Update 4
+12:03:08,907  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:08,907  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:08,907  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:08,907  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:08,907  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:08,907  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:08,907  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:08,908  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:03:08,908  INFO Application:89 - Module Codes Array Length -> 5
+12:03:08,908 FATAL Application:99 - java.util.NoSuchElementException
+12:03:08,909  INFO Application:69 - Update Failed
+12:03:17,345  INFO Application:30 - Interval Update 4
+12:03:19,675  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:19,675  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:19,676  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:19,676  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:19,676  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:19,676  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:19,676  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:19,679  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode;
+12:03:19,679  INFO Application:89 - Module Codes Array Length -> 5
+12:03:19,679 FATAL Application:99 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes, productCode;]
+12:03:19,680  INFO Application:69 - Update Failed
+12:03:23,690  INFO Application:30 - Interval Update 4
+12:03:23,694  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:23,695  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:23,695  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:23,695  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:23,695  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:23,695  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:23,695  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:23,696  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode;
+12:03:23,696  INFO Application:89 - Module Codes Array Length -> 5
+12:03:23,696 FATAL Application:99 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes, productCode;]
+12:03:23,697  INFO Application:69 - Update Failed
+12:03:27,701  INFO Application:30 - Interval Update 4
+12:03:27,705  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:27,705  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:27,705  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:27,706  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:27,706  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:27,706  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:27,706  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:27,706  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode;
+12:03:27,706  INFO Application:89 - Module Codes Array Length -> 5
+12:03:27,706 FATAL Application:99 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes, productCode;]
+12:03:27,707  INFO Application:69 - Update Failed
+12:03:31,721  INFO Application:30 - Interval Update 4
+12:03:31,724  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:31,724  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:31,725  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:31,725  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:31,725  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:31,725  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:31,725  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:31,725  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode;
+12:03:31,725  INFO Application:89 - Module Codes Array Length -> 5
+12:03:31,726 FATAL Application:99 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes, productCode;]
+12:03:31,726  INFO Application:69 - Update Failed
+12:03:35,730  INFO Application:30 - Interval Update 4
+12:03:35,734  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:35,734  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:35,734  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:35,734  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:35,734  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:35,734  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:35,735  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:35,735  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode;
+12:03:35,735  INFO Application:89 - Module Codes Array Length -> 5
+12:03:35,735 FATAL Application:99 - java.lang.IllegalArgumentException: Could not locate named parameter [productCode], expecting one of [moduleCodes, productCode;]
+12:03:35,736  INFO Application:69 - Update Failed
+12:03:44,059  INFO Application:30 - Interval Update 4
+12:03:46,317  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:46,317  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:46,317  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:46,317  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:46,317  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:46,317  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:46,318  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:46,319  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode ;
+12:03:46,319  INFO Application:89 - Module Codes Array Length -> 5
+12:03:46,327 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:03:46,329  INFO Application:69 - Update Failed
+12:03:50,337  INFO Application:30 - Interval Update 4
+12:03:50,341  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:03:50,341  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:03:50,342  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:03:50,342  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:03:50,342  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:03:50,342  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:03:50,342  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:03:50,343  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode ;
+12:03:50,343  INFO Application:89 - Module Codes Array Length -> 5
+12:03:50,344 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:03:50,345  INFO Application:69 - Update Failed
+12:04:25,002  INFO Application:30 - Interval Update 4
+12:04:27,425  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:04:27,425  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:04:27,425  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:04:27,425  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:04:27,425  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:04:27,425  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:04:27,426  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:04:27,428  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:04:27,428  INFO Application:89 - Module Codes Array Length -> 5
+12:04:27,435 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:04:27,437  INFO Application:69 - Update Failed
+12:04:31,442  INFO Application:30 - Interval Update 4
+12:04:31,447  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:04:31,447  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:04:31,447  INFO Application:63 - 302 | X100 | 25000.0000 | 0
+12:04:31,448  INFO Application:63 - 309 | X100 | 96325.0000 | 0
+12:04:31,448  INFO Application:63 - 400 | X100 | 96325.0000 | 0
+12:04:31,448  INFO Application:63 - 304 | X100 | 99975.0000 | 0
+12:04:31,448  INFO Application:63 - 297 | X100 | 99975.0000 | 0
+12:04:31,449  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '304' THEN 3 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode
+12:04:31,449  INFO Application:89 - Module Codes Array Length -> 5
+12:04:31,451 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:04:31,453  INFO Application:69 - Update Failed
+12:08:07,046  INFO Application:30 - Interval Update 4
+12:08:14,538  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:08:14,539  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:08:14,539  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:08:14,539  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:08:14,539  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:08:14,539  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:08:14,581  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:08:14,581  INFO Application:89 - Module Codes Array Length -> 4
+12:08:14,584 FATAL Application:99 - java.util.NoSuchElementException
+12:08:14,614  INFO Application:69 - Update Failed
+12:08:18,626  INFO Application:30 - Interval Update 4
+12:08:18,648  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:08:18,649  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:08:18,649  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:08:18,649  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:08:18,649  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:08:18,649  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:08:18,671  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:08:18,671  INFO Application:89 - Module Codes Array Length -> 4
+12:08:18,672 FATAL Application:99 - java.util.NoSuchElementException
+12:08:18,711  INFO Application:69 - Update Failed
+12:08:22,712  INFO Application:30 - Interval Update 4
+12:08:22,814  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:08:22,814  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:08:22,814  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:08:22,814  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:08:22,815  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:08:22,815  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:08:22,879  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:08:22,879  INFO Application:89 - Module Codes Array Length -> 4
+12:08:22,880 FATAL Application:99 - java.util.NoSuchElementException
+12:08:22,952  INFO Application:69 - Update Failed
+12:08:26,958  INFO Application:30 - Interval Update 4
+12:08:27,047  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:08:27,047  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:08:27,047  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:08:27,047  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:08:27,047  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:08:27,047  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:08:27,072  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:08:27,072  INFO Application:89 - Module Codes Array Length -> 4
+12:08:27,072 FATAL Application:99 - java.util.NoSuchElementException
+12:08:27,091  INFO Application:69 - Update Failed
+12:08:31,098  INFO Application:30 - Interval Update 4
+12:08:31,168  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:08:31,168  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:08:31,168  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:08:31,168  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:08:31,168  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:08:31,168  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:08:31,176  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN :moduleCodes AND kode_produk=:productCode)
+12:08:31,176  INFO Application:89 - Module Codes Array Length -> 4
+12:08:31,177 FATAL Application:99 - java.util.NoSuchElementException
+12:08:31,221  INFO Application:69 - Update Failed
+12:29:39,291  INFO Application:30 - Interval Update 4
+12:29:43,524  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:29:43,525  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:29:43,525  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:29:43,525  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:29:43,525  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:29:43,526  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:29:43,632  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:29:43,632  INFO Application:89 - Module Codes Array Length -> 4
+12:29:43,664 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:29:43,712  INFO Application:69 - Update Failed
+12:29:47,716  INFO Application:30 - Interval Update 4
+12:29:47,896  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:29:47,896  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:29:47,896  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:29:47,896  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:29:47,897  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:29:47,897  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:29:47,965  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:29:47,965  INFO Application:89 - Module Codes Array Length -> 4
+12:29:48,011 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:29:48,050  INFO Application:69 - Update Failed
+12:29:52,052  INFO Application:30 - Interval Update 4
+12:29:52,158  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:29:52,158  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:29:52,158  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:29:52,158  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:29:52,158  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:29:52,158  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:29:52,201  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:29:52,201  INFO Application:89 - Module Codes Array Length -> 4
+12:29:52,225 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:29:52,284  INFO Application:69 - Update Failed
+12:29:56,291  INFO Application:30 - Interval Update 4
+12:29:56,987  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:29:56,987  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:29:56,987  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:29:56,987  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:29:56,987  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:29:56,987  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:29:57,032  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:29:57,032  INFO Application:89 - Module Codes Array Length -> 4
+12:29:57,073 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:29:57,143  INFO Application:69 - Update Failed
+12:30:01,152  INFO Application:30 - Interval Update 4
+12:30:01,301  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:01,302  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:01,302  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:30:01,302  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:30:01,302  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:30:01,302  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:30:01,311  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:30:01,311  INFO Application:89 - Module Codes Array Length -> 4
+12:30:01,319 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:30:01,331  INFO Application:69 - Update Failed
+12:30:05,344  INFO Application:30 - Interval Update 4
+12:30:05,469  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:05,470  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:05,470  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:30:05,470  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:30:05,470  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:30:05,470  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:30:05,520  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:30:05,520  INFO Application:89 - Module Codes Array Length -> 4
+12:30:05,538 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:30:05,603  INFO Application:69 - Update Failed
+12:30:09,615  INFO Application:30 - Interval Update 4
+12:30:09,720  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:09,720  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:09,720  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:30:09,720  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:30:09,720  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:30:09,720  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:30:09,761  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:30:09,761  INFO Application:89 - Module Codes Array Length -> 4
+12:30:09,822 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:30:09,930  INFO Application:69 - Update Failed
+12:30:13,942  INFO Application:30 - Interval Update 4
+12:30:13,977  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:13,977  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:13,977  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:30:13,977  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:30:13,978  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:30:13,978  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:30:13,993  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:30:13,993  INFO Application:89 - Module Codes Array Length -> 4
+12:30:14,043 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:30:14,100  INFO Application:69 - Update Failed
+12:30:18,105  INFO Application:30 - Interval Update 4
+12:30:18,206  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:18,207  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:18,207  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:30:18,207  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:30:18,207  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:30:18,207  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:30:18,240  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:30:18,240  INFO Application:89 - Module Codes Array Length -> 4
+12:30:18,261 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:30:18,340  INFO Application:69 - Update Failed
+12:30:22,344  INFO Application:30 - Interval Update 4
+12:30:22,366  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:22,366  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:22,366  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:30:22,366  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:30:22,366  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:30:22,367  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:30:22,382  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN ((297, 302, 307, 309)) AND kode_produk='X100'
+12:30:22,383  INFO Application:89 - Module Codes Array Length -> 4
+12:30:22,387 FATAL Application:99 - javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+12:30:22,470  INFO Application:69 - Update Failed
+12:30:34,262  INFO Application:30 - Interval Update 4
+12:30:38,979  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:38,979  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:38,980  INFO Application:63 - 297 | X100 | 98050.0000 | 0
+12:30:38,980  INFO Application:63 - 302 | X100 | 98075.0000 | 0
+12:30:38,980  INFO Application:63 - 307 | X100 | 98075.0000 | 0
+12:30:38,980  INFO Application:63 - 309 | X100 | 99250.0000 | 0
+12:30:39,030  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN (297, 302, 307, 309) AND kode_produk='X100'
+12:30:39,030  INFO Application:89 - Module Codes Array Length -> 4
+12:30:39,163  INFO Application:67 - Update Succeed
+12:30:43,171  INFO Application:30 - Interval Update 4
+12:30:43,292  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:43,292  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:43,293  INFO Application:63 - 297 | X100 | 98050.0000 | 1
+12:30:43,293  INFO Application:63 - 302 | X100 | 98075.0000 | 2
+12:30:43,293  INFO Application:63 - 307 | X100 | 98075.0000 | 2
+12:30:43,293  INFO Application:63 - 309 | X100 | 99250.0000 | 3
+12:30:43,329  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN (297, 302, 307, 309) AND kode_produk='X100'
+12:30:43,330  INFO Application:89 - Module Codes Array Length -> 4
+12:30:43,480  INFO Application:67 - Update Succeed
+12:30:47,485  INFO Application:30 - Interval Update 4
+12:30:47,572  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:47,573  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:47,573  INFO Application:63 - 297 | X100 | 98050.0000 | 1
+12:30:47,573  INFO Application:63 - 302 | X100 | 98075.0000 | 2
+12:30:47,573  INFO Application:63 - 307 | X100 | 98075.0000 | 2
+12:30:47,573  INFO Application:63 - 309 | X100 | 99250.0000 | 3
+12:30:47,618  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN (297, 302, 307, 309) AND kode_produk='X100'
+12:30:47,618  INFO Application:89 - Module Codes Array Length -> 4
+12:30:47,656  INFO Application:67 - Update Succeed
+12:30:51,662  INFO Application:30 - Interval Update 4
+12:30:51,805  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:30:51,806  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:30:51,806  INFO Application:63 - 297 | X100 | 98050.0000 | 1
+12:30:51,806  INFO Application:63 - 302 | X100 | 98075.0000 | 2
+12:30:51,806  INFO Application:63 - 307 | X100 | 98075.0000 | 2
+12:30:51,806  INFO Application:63 - 309 | X100 | 99250.0000 | 3
+12:30:51,872  INFO Application:88 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '297' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '307' THEN 2 WHEN kode_modul = '309' THEN 3  END WHERE kode_modul IN (297, 302, 307, 309) AND kode_produk='X100'
+12:30:51,872  INFO Application:89 - Module Codes Array Length -> 4
+12:30:52,076  INFO Application:67 - Update Succeed
+12:34:13,621  INFO Application:30 - Interval Update 4
+12:34:16,000  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:34:16,000  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:34:16,001  INFO Application:63 - 302 | X100 | 92000.0000 | 1
+12:34:16,001  INFO Application:63 - 309 | X100 | 96325.0000 | 2
+12:34:16,001  INFO Application:63 - 400 | X100 | 96325.0000 | 3
+12:34:16,001  INFO Application:63 - 297 | X100 | 99975.0000 | 3
+12:34:16,004  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 297) AND kode_produk='X100'
+12:34:16,004  INFO Application:90 - Module Codes Array Length -> 4
+12:34:16,015  INFO Application:67 - Update Succeed
+12:34:20,029  INFO Application:30 - Interval Update 4
+12:34:20,035  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:34:20,035  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:34:20,035  INFO Application:63 - 302 | X100 | 92000.0000 | 1
+12:34:20,035  INFO Application:63 - 309 | X100 | 96325.0000 | 2
+12:34:20,035  INFO Application:63 - 400 | X100 | 96325.0000 | 2
+12:34:20,036  INFO Application:63 - 297 | X100 | 99975.0000 | 3
+12:34:20,036  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 297) AND kode_produk='X100'
+12:34:20,037  INFO Application:90 - Module Codes Array Length -> 4
+12:34:20,046  INFO Application:67 - Update Succeed
+12:34:24,054  INFO Application:30 - Interval Update 4
+12:34:24,060  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:34:24,060  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:34:24,060  INFO Application:63 - 302 | X100 | 92000.0000 | 1
+12:34:24,061  INFO Application:63 - 309 | X100 | 96325.0000 | 2
+12:34:24,061  INFO Application:63 - 400 | X100 | 96325.0000 | 2
+12:34:24,061  INFO Application:63 - 297 | X100 | 99975.0000 | 3
+12:34:24,062  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 297) AND kode_produk='X100'
+12:34:24,062  INFO Application:90 - Module Codes Array Length -> 4
+12:34:24,067  INFO Application:67 - Update Succeed
+12:34:28,069  INFO Application:30 - Interval Update 4
+12:34:28,244  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:34:28,245  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:34:28,245  INFO Application:63 - 302 | X100 | 92000.0000 | 1
+12:34:28,245  INFO Application:63 - 309 | X100 | 96325.0000 | 2
+12:34:28,245  INFO Application:63 - 400 | X100 | 96325.0000 | 2
+12:34:28,245  INFO Application:63 - 297 | X100 | 99975.0000 | 3
+12:34:28,245  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 297) AND kode_produk='X100'
+12:34:28,246  INFO Application:90 - Module Codes Array Length -> 4
+12:34:28,634  INFO Application:67 - Update Succeed
+12:34:32,641  INFO Application:30 - Interval Update 4
+12:34:32,645  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:34:32,646  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:34:32,646  INFO Application:63 - 304 | X100 | 10000.0000 | 0
+12:34:32,646  INFO Application:63 - 302 | X100 | 92000.0000 | 1
+12:34:32,646  INFO Application:63 - 309 | X100 | 96325.0000 | 2
+12:34:32,646  INFO Application:63 - 400 | X100 | 96325.0000 | 2
+12:34:32,646  INFO Application:63 - 297 | X100 | 99975.0000 | 3
+12:34:32,646  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '309' THEN 3 WHEN kode_modul = '400' THEN 3 WHEN kode_modul = '297' THEN 4  END WHERE kode_modul IN (304, 302, 309, 400, 297) AND kode_produk='X100'
+12:34:32,646  INFO Application:90 - Module Codes Array Length -> 5
+12:34:32,652  INFO Application:67 - Update Succeed
+12:34:36,661  INFO Application:30 - Interval Update 4
+12:34:36,664  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:34:36,664  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:34:36,664  INFO Application:63 - 302 | X100 | 92000.0000 | 2
+12:34:36,664  INFO Application:63 - 309 | X100 | 96325.0000 | 3
+12:34:36,664  INFO Application:63 - 400 | X100 | 96325.0000 | 3
+12:34:36,664  INFO Application:63 - 297 | X100 | 99975.0000 | 4
+12:34:36,665  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3  END WHERE kode_modul IN (302, 309, 400, 297) AND kode_produk='X100'
+12:34:36,665  INFO Application:90 - Module Codes Array Length -> 4
+12:34:36,670  INFO Application:67 - Update Succeed
+12:34:40,671  INFO Application:30 - Interval Update 4
+12:34:40,673  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:34:40,673  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:34:40,673  INFO Application:63 - 302 | X100 | 92000.0000 | 1
+12:34:40,673  INFO Application:63 - 309 | X100 | 96325.0000 | 2
+12:34:40,673  INFO Application:63 - 400 | X100 | 96325.0000 | 2
+12:34:40,673  INFO Application:63 - 297 | X100 | 99975.0000 | 3
+12:34:40,673  INFO Application:63 - 304 | X100 | 1000000.0000 | 1
+12:34:40,674  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+12:34:40,674  INFO Application:90 - Module Codes Array Length -> 5
+12:34:40,679  INFO Application:67 - Update Succeed
+12:34:44,679  INFO Application:30 - Interval Update 4
+12:34:44,681  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:34:44,681  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:34:44,682  INFO Application:63 - 302 | X100 | 92000.0000 | 1
+12:34:44,682  INFO Application:63 - 309 | X100 | 96325.0000 | 2
+12:34:44,682  INFO Application:63 - 400 | X100 | 96325.0000 | 2
+12:34:44,682  INFO Application:63 - 297 | X100 | 99975.0000 | 3
+12:34:44,682  INFO Application:63 - 304 | X100 | 1000000.0000 | 4
+12:34:44,683  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+12:34:44,683  INFO Application:90 - Module Codes Array Length -> 5
+12:34:44,684  INFO Application:67 - Update Succeed
+12:34:48,692  INFO Application:30 - Interval Update 4
+12:34:48,710  INFO Application:59 - List Of Actives Modules for Product Code X100
+12:34:48,710  INFO Application:61 - kode_modul|kode_produk|harga_beli|prioritas
+12:34:48,711  INFO Application:63 - 302 | X100 | 92000.0000 | 1
+12:34:48,711  INFO Application:63 - 309 | X100 | 96325.0000 | 2
+12:34:48,711  INFO Application:63 - 400 | X100 | 96325.0000 | 2
+12:34:48,711  INFO Application:63 - 297 | X100 | 99975.0000 | 3
+12:34:48,711  INFO Application:63 - 304 | X100 | 1000000.0000 | 4
+12:34:48,711  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+12:34:48,711  INFO Application:90 - Module Codes Array Length -> 5
+12:34:48,716  INFO Application:67 - Update Succeed

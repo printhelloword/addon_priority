@@ -48,10 +48,32 @@ public class ParsingDBHelper {
         return results;
     }
 
+    public String[] getAllProductCodes(){
+        System.out.println("Fetching All Product Codes");
+        Session session = getSession();
+
+        String[] results = null;
+        try {
+            Query query = session.
+                    createNativeQuery("SELECT DISTINCT (kode_produk) from parsing");
+
+            results = new String[query.getResultList().size()];
+            query.getResultList().toArray(results);
+
+        } catch (Exception e) {
+            e.printStackTrace();
+            Application.log.fatal(e);
+        } finally {
+            session.close();
+        }
+
+        return results;
+    }
+
     public boolean updatePriority(Map collectionModuleCodes, String productCode) {
         boolean isSuccess = false;
         Session session = null;
-        Transaction tx = null;
+        Transaction tx;
 
         try {
             session = getSession();
@@ -62,7 +84,6 @@ public class ParsingDBHelper {
             int iter = 1;
             String tempModuleCode = "";
             int tempIter = 0;
-            String moduleCodesArr="";
             for (Object i : collectionModuleCodes.keySet()) {
 
                 if (iter == 1) {
@@ -80,19 +101,15 @@ public class ParsingDBHelper {
                 moduleCodes.add(i.toString());
                 iter++;
             }
-//            sql += " END WHERE kode_modul IN :moduleCodes";
             String comaSeparatedModuleCodes = String.join(", ", moduleCodes);
             String productCodeParam = "'"+productCode+"'";
             System.out.println("module codes ->> "+comaSeparatedModuleCodes);
             sql += " END WHERE kode_modul IN ("+comaSeparatedModuleCodes+") AND kode_produk='"+productCode+"'";
-//            sql += "END WHERE kode_modul IN ("+comaSeparatedModuleCodes+") AND kode_produk='"+productCode+"'";
             Application.log.info("Query -->>>> "+sql);
             Application.log.info("Module Codes Array Length -> " + moduleCodes.size());
 
             Query query = session.
                     createNativeQuery(sql);
-//            query.setParameter("moduleCodes", comaSeparatedModuleCodes);
-//            query.setParameter("productCode", productCodeParam);
             query.executeUpdate();
             tx.commit();
             isSuccess = true;

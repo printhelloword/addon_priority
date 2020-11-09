@@ -4500,3 +4500,1546 @@
 12:34:48,711  INFO Application:89 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
 12:34:48,711  INFO Application:90 - Module Codes Array Length -> 5
 12:34:48,716  INFO Application:67 - Update Succeed
+17:41:29,813  INFO Application:39 - Interval Update 4
+17:41:33,816  INFO Application:39 - Interval Update 4
+17:41:37,821  INFO Application:39 - Interval Update 4
+17:41:41,829  INFO Application:39 - Interval Update 4
+17:41:45,839  INFO Application:39 - Interval Update 4
+17:41:49,851  INFO Application:39 - Interval Update 4
+17:41:53,856  INFO Application:39 - Interval Update 4
+17:41:57,869  INFO Application:39 - Interval Update 4
+15:37:06,234  INFO Application:41 - Modul Running
+15:37:10,237  INFO Application:106 - List Of Actives Modules for Product Code X100
+15:37:10,237  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:37:10,238  INFO Application:110 - 302 | X100 | 92000.0000 | -1
+15:37:10,238  INFO Application:110 - 309 | X100 | 96325.0000 | -1
+15:37:10,239  INFO Application:110 - 400 | X100 | 96325.0000 | -1
+15:37:10,239  INFO Application:110 - 297 | X100 | 99975.0000 | -1
+15:37:10,239  INFO Application:110 - 304 | X100 | 1000000.0000 | -1
+15:37:10,242  INFO Application:112 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+15:37:10,242  INFO Application:113 - Module Codes Array Length -> 5
+15:37:10,262  INFO Application:114 - Update Succeed
+15:37:10,266  INFO Application:106 - List Of Actives Modules for Product Code CEKPLN20
+15:37:10,267  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:37:10,267  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 0
+15:37:10,267  INFO Application:112 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='CEKPLN20'
+15:37:10,267  INFO Application:113 - Module Codes Array Length -> 5
+15:37:10,274  INFO Application:114 - Update Succeed
+15:37:10,274  INFO Application:56 - Interval Update 4
+15:37:14,286  INFO Application:41 - Modul Running
+15:37:14,650  INFO Application:106 - List Of Actives Modules for Product Code X100
+15:37:14,650  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:37:14,650  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+15:37:14,650  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+15:37:14,650  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+15:37:14,650  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+15:37:14,650  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+15:37:14,651  INFO Application:112 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+15:37:14,651  INFO Application:113 - Module Codes Array Length -> 5
+15:37:20,329  INFO Application:114 - Update Succeed
+15:37:20,361  INFO Application:106 - List Of Actives Modules for Product Code CEKPLN20
+15:37:20,361  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:37:20,361  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 4
+15:37:20,361  INFO Application:112 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='CEKPLN20'
+15:37:20,361  INFO Application:113 - Module Codes Array Length -> 5
+15:37:24,635  INFO Application:114 - Update Succeed
+15:37:24,635  INFO Application:56 - Interval Update 4
+15:37:28,641  INFO Application:41 - Modul Running
+15:37:28,646  INFO Application:106 - List Of Actives Modules for Product Code X100
+15:37:28,646  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:37:28,646  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+15:37:28,646  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+15:37:28,646  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+15:37:28,646  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+15:37:28,646  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+15:37:28,656  INFO Application:112 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+15:37:28,656  INFO Application:113 - Module Codes Array Length -> 5
+15:37:28,795  INFO Application:114 - Update Succeed
+15:37:28,803  INFO Application:106 - List Of Actives Modules for Product Code CEKPLN20
+15:37:28,803  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:37:28,803  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 4
+15:37:28,804  INFO Application:112 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='CEKPLN20'
+15:37:28,804  INFO Application:113 - Module Codes Array Length -> 5
+15:37:28,813  INFO Application:114 - Update Succeed
+15:37:28,813  INFO Application:56 - Interval Update 4
+15:45:13,318  INFO Application:41 - Modul Running
+15:45:22,140  INFO Application:106 - List Of Actives Modules for Product Code CEKPLN20
+15:45:22,140  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:22,140  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 4
+15:45:22,142  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+15:45:22,143  INFO Application:112 - Module Codes Array Length -> 1
+15:45:22,150  INFO Application:114 - Update Succeed
+15:45:22,153  INFO Application:106 - List Of Actives Modules for Product Code X100
+15:45:22,154  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:22,154  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+15:45:22,154  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+15:45:22,154  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+15:45:22,154  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+15:45:22,154  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+15:45:22,154  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '309' THEN 3 WHEN kode_modul = '400' THEN 3 WHEN kode_modul = '297' THEN 4  END WHERE kode_modul IN (304, 302, 309, 400, 297) AND kode_produk='X100'
+15:45:22,154  INFO Application:112 - Module Codes Array Length -> 5
+15:45:22,158  INFO Application:114 - Update Succeed
+15:45:22,159  INFO Application:56 - Interval Update 4
+15:45:26,168  INFO Application:41 - Modul Running
+15:45:26,172  INFO Application:106 - List Of Actives Modules for Product Code CEKPLN20
+15:45:26,172  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:26,172  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+15:45:26,173  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+15:45:26,173  INFO Application:112 - Module Codes Array Length -> 1
+15:45:26,176  INFO Application:114 - Update Succeed
+15:45:26,177  INFO Application:106 - List Of Actives Modules for Product Code X100
+15:45:26,178  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:26,178  INFO Application:110 - 302 | X100 | 92000.0000 | 2
+15:45:26,178  INFO Application:110 - 309 | X100 | 96325.0000 | 3
+15:45:26,178  INFO Application:110 - 400 | X100 | 96325.0000 | 3
+15:45:26,178  INFO Application:110 - 297 | X100 | 99975.0000 | 4
+15:45:26,178  INFO Application:110 - 304 | X100 | 1000000.0000 | 1
+15:45:26,178  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '309' THEN 3 WHEN kode_modul = '400' THEN 3 WHEN kode_modul = '297' THEN 4  END WHERE kode_modul IN (304, 302, 309, 400, 297) AND kode_produk='X100'
+15:45:26,179  INFO Application:112 - Module Codes Array Length -> 5
+15:45:26,685  INFO Application:114 - Update Succeed
+15:45:26,686  INFO Application:56 - Interval Update 4
+15:45:30,688  INFO Application:41 - Modul Running
+15:45:30,692  INFO Application:106 - List Of Actives Modules for Product Code CEKPLN20
+15:45:30,692  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:30,692  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+15:45:30,692  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+15:45:30,692  INFO Application:112 - Module Codes Array Length -> 1
+15:45:30,695  INFO Application:114 - Update Succeed
+15:45:30,697  INFO Application:106 - List Of Actives Modules for Product Code X100
+15:45:30,697  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:30,697  INFO Application:110 - 302 | X100 | 92000.0000 | 2
+15:45:30,697  INFO Application:110 - 309 | X100 | 96325.0000 | 3
+15:45:30,697  INFO Application:110 - 400 | X100 | 96325.0000 | 3
+15:45:30,697  INFO Application:110 - 297 | X100 | 99975.0000 | 4
+15:45:30,697  INFO Application:110 - 304 | X100 | 1000000.0000 | 1
+15:45:30,698  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '309' THEN 3 WHEN kode_modul = '400' THEN 3 WHEN kode_modul = '297' THEN 4  END WHERE kode_modul IN (304, 302, 309, 400, 297) AND kode_produk='X100'
+15:45:30,698  INFO Application:112 - Module Codes Array Length -> 5
+15:45:30,752  INFO Application:114 - Update Succeed
+15:45:30,752  INFO Application:56 - Interval Update 4
+15:45:34,761  INFO Application:41 - Modul Running
+15:45:35,201  INFO Application:106 - List Of Actives Modules for Product Code CEKPLN20
+15:45:35,201  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:35,201  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+15:45:35,202  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+15:45:35,202  INFO Application:112 - Module Codes Array Length -> 1
+15:45:35,206  INFO Application:114 - Update Succeed
+15:45:35,209  INFO Application:106 - List Of Actives Modules for Product Code X100
+15:45:35,210  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:35,210  INFO Application:110 - 302 | X100 | 92000.0000 | 2
+15:45:35,210  INFO Application:110 - 309 | X100 | 96325.0000 | 3
+15:45:35,210  INFO Application:110 - 400 | X100 | 96325.0000 | 3
+15:45:35,210  INFO Application:110 - 297 | X100 | 99975.0000 | 4
+15:45:35,210  INFO Application:110 - 304 | X100 | 1000000.0000 | 1
+15:45:35,210  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '309' THEN 3 WHEN kode_modul = '400' THEN 3 WHEN kode_modul = '297' THEN 4  END WHERE kode_modul IN (304, 302, 309, 400, 297) AND kode_produk='X100'
+15:45:35,210  INFO Application:112 - Module Codes Array Length -> 5
+15:45:35,215  INFO Application:114 - Update Succeed
+15:45:35,215  INFO Application:56 - Interval Update 4
+15:45:39,227  INFO Application:41 - Modul Running
+15:45:39,230  INFO Application:106 - List Of Actives Modules for Product Code CEKPLN20
+15:45:39,230  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:39,230  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+15:45:39,231  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+15:45:39,231  INFO Application:112 - Module Codes Array Length -> 1
+15:45:39,233  INFO Application:114 - Update Succeed
+15:45:39,235  INFO Application:106 - List Of Actives Modules for Product Code X100
+15:45:39,235  INFO Application:108 - kode_modul|kode_produk|harga_beli|prioritas
+15:45:39,235  INFO Application:110 - 302 | X100 | 92000.0000 | 2
+15:45:39,235  INFO Application:110 - 309 | X100 | 96325.0000 | 3
+15:45:39,235  INFO Application:110 - 400 | X100 | 96325.0000 | 3
+15:45:39,235  INFO Application:110 - 297 | X100 | 99975.0000 | 4
+15:45:39,235  INFO Application:110 - 304 | X100 | 1000000.0000 | 1
+15:45:39,236  INFO Application:111 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '302' THEN 2 WHEN kode_modul = '309' THEN 3 WHEN kode_modul = '400' THEN 3 WHEN kode_modul = '297' THEN 4  END WHERE kode_modul IN (304, 302, 309, 400, 297) AND kode_produk='X100'
+15:45:39,236  INFO Application:112 - Module Codes Array Length -> 5
+16:22:14,614  INFO Application:41 - Modul Running
+16:22:17,110  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:17,111  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:17,111  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:17,114  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:17,114  INFO Application:109 - Module Codes Array Length -> 1
+16:22:17,220  INFO Application:114 - Update Succeed
+16:22:17,225  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:17,225  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:17,225  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:17,225  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:17,226  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:17,226  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:17,226  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:17,226  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:17,226  INFO Application:109 - Module Codes Array Length -> 5
+16:22:17,234  INFO Application:114 - Update Succeed
+16:22:17,235  INFO Application:56 - Interval Update 4
+16:22:21,242  INFO Application:41 - Modul Running
+16:22:21,248  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:21,248  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:21,248  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:21,249  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:21,249  INFO Application:109 - Module Codes Array Length -> 1
+16:22:21,447  INFO Application:114 - Update Succeed
+16:22:21,466  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:21,466  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:21,466  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:21,466  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:21,466  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:21,466  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:21,466  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:21,467  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:21,467  INFO Application:109 - Module Codes Array Length -> 5
+16:22:21,473  INFO Application:114 - Update Succeed
+16:22:21,473  INFO Application:56 - Interval Update 4
+16:22:25,484  INFO Application:41 - Modul Running
+16:22:25,488  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:25,488  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:25,488  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:25,489  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:25,489  INFO Application:109 - Module Codes Array Length -> 1
+16:22:25,516  INFO Application:114 - Update Succeed
+16:22:25,625  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:25,625  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:25,625  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:25,625  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:25,625  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:25,625  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:25,625  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:25,626  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:25,626  INFO Application:109 - Module Codes Array Length -> 5
+16:22:25,657  INFO Application:114 - Update Succeed
+16:22:25,658  INFO Application:56 - Interval Update 4
+16:22:29,669  INFO Application:41 - Modul Running
+16:22:29,910  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:29,911  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:29,911  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:29,911  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:29,911  INFO Application:109 - Module Codes Array Length -> 1
+16:22:29,922  INFO Application:114 - Update Succeed
+16:22:29,926  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:29,927  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:29,927  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:29,927  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:29,927  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:29,927  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:29,927  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:29,927  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:29,928  INFO Application:109 - Module Codes Array Length -> 5
+16:22:29,969  INFO Application:114 - Update Succeed
+16:22:29,969  INFO Application:56 - Interval Update 4
+16:22:33,979  INFO Application:41 - Modul Running
+16:22:33,982  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:33,982  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:33,982  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:33,983  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:33,983  INFO Application:109 - Module Codes Array Length -> 1
+16:22:34,359  INFO Application:114 - Update Succeed
+16:22:34,406  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:34,407  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:34,407  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:34,407  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:34,407  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:34,407  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:34,407  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:34,408  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:34,408  INFO Application:109 - Module Codes Array Length -> 5
+16:22:34,414  INFO Application:114 - Update Succeed
+16:22:34,414  INFO Application:56 - Interval Update 4
+16:22:38,430  INFO Application:41 - Modul Running
+16:22:38,881  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:38,882  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:38,882  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:38,882  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:38,882  INFO Application:109 - Module Codes Array Length -> 1
+16:22:38,887  INFO Application:114 - Update Succeed
+16:22:38,897  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:38,897  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:38,897  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:38,897  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:38,897  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:38,897  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:38,897  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:38,898  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:38,898  INFO Application:109 - Module Codes Array Length -> 5
+16:22:38,913  INFO Application:114 - Update Succeed
+16:22:38,914  INFO Application:56 - Interval Update 4
+16:22:42,922  INFO Application:41 - Modul Running
+16:22:42,941  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:42,941  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:42,941  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:42,941  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:42,941  INFO Application:109 - Module Codes Array Length -> 1
+16:22:43,460  INFO Application:114 - Update Succeed
+16:22:43,468  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:43,468  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:43,468  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:43,468  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:43,468  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:43,468  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:43,469  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:43,469  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:43,469  INFO Application:109 - Module Codes Array Length -> 5
+16:22:43,477  INFO Application:114 - Update Succeed
+16:22:43,478  INFO Application:56 - Interval Update 4
+16:22:47,487  INFO Application:41 - Modul Running
+16:22:47,506  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:47,506  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:47,506  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:47,506  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:47,506  INFO Application:109 - Module Codes Array Length -> 1
+16:22:47,678  INFO Application:114 - Update Succeed
+16:22:47,694  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:47,694  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:47,694  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:47,695  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:47,695  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:47,695  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:47,695  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:47,695  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:47,695  INFO Application:109 - Module Codes Array Length -> 5
+16:22:47,700  INFO Application:114 - Update Succeed
+16:22:47,700  INFO Application:56 - Interval Update 4
+16:22:51,709  INFO Application:41 - Modul Running
+16:22:51,714  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:51,714  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:51,714  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:51,715  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:51,715  INFO Application:109 - Module Codes Array Length -> 1
+16:22:51,725  INFO Application:114 - Update Succeed
+16:22:51,776  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:51,777  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:51,777  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:51,777  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:51,777  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:51,777  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:51,777  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:51,777  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:51,778  INFO Application:109 - Module Codes Array Length -> 5
+16:22:51,802  INFO Application:114 - Update Succeed
+16:22:51,802  INFO Application:56 - Interval Update 4
+16:22:55,815  INFO Application:41 - Modul Running
+16:22:55,819  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:55,819  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:55,819  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:55,820  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:55,820  INFO Application:109 - Module Codes Array Length -> 1
+16:22:55,911  INFO Application:114 - Update Succeed
+16:22:55,925  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:22:55,925  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:55,925  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:22:55,925  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:22:55,925  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:22:55,925  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:22:55,925  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:22:55,926  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:22:55,926  INFO Application:109 - Module Codes Array Length -> 5
+16:22:55,930  INFO Application:114 - Update Succeed
+16:22:55,931  INFO Application:56 - Interval Update 4
+16:22:59,937  INFO Application:41 - Modul Running
+16:22:59,940  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:22:59,940  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:22:59,940  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:22:59,941  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:22:59,941  INFO Application:109 - Module Codes Array Length -> 1
+16:23:00,334  INFO Application:114 - Update Succeed
+16:23:00,335  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:00,335  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:00,335  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:00,335  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:00,336  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:00,336  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:00,336  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:00,336  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:00,336  INFO Application:109 - Module Codes Array Length -> 5
+16:23:00,380  INFO Application:114 - Update Succeed
+16:23:00,380  INFO Application:56 - Interval Update 4
+16:23:04,395  INFO Application:41 - Modul Running
+16:23:04,399  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:04,399  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:04,399  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:04,399  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:04,399  INFO Application:109 - Module Codes Array Length -> 1
+16:23:04,695  INFO Application:114 - Update Succeed
+16:23:04,696  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:04,696  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:04,696  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:04,696  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:04,696  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:04,696  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:04,697  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:04,697  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:04,697  INFO Application:109 - Module Codes Array Length -> 5
+16:23:04,866  INFO Application:114 - Update Succeed
+16:23:04,867  INFO Application:56 - Interval Update 4
+16:23:08,879  INFO Application:41 - Modul Running
+16:23:08,883  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:08,883  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:08,883  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:08,883  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:08,883  INFO Application:109 - Module Codes Array Length -> 1
+16:23:08,887  INFO Application:114 - Update Succeed
+16:23:08,890  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:08,890  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:08,891  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:08,891  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:08,891  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:08,891  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:08,891  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:08,891  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:08,891  INFO Application:109 - Module Codes Array Length -> 5
+16:23:08,899  INFO Application:114 - Update Succeed
+16:23:08,899  INFO Application:56 - Interval Update 4
+16:23:12,914  INFO Application:41 - Modul Running
+16:23:12,929  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:12,929  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:12,929  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:12,930  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:12,930  INFO Application:109 - Module Codes Array Length -> 1
+16:23:12,933  INFO Application:114 - Update Succeed
+16:23:12,935  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:12,935  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:12,935  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:12,935  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:12,935  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:12,935  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:12,935  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:12,935  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:12,935  INFO Application:109 - Module Codes Array Length -> 5
+16:23:12,939  INFO Application:114 - Update Succeed
+16:23:12,939  INFO Application:56 - Interval Update 4
+16:23:16,954  INFO Application:41 - Modul Running
+16:23:16,958  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:16,958  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:16,958  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:16,959  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:16,959  INFO Application:109 - Module Codes Array Length -> 1
+16:23:17,269  INFO Application:114 - Update Succeed
+16:23:17,274  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:17,274  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:17,274  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:17,274  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:17,274  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:17,274  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:17,274  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:17,274  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:17,274  INFO Application:109 - Module Codes Array Length -> 5
+16:23:17,278  INFO Application:114 - Update Succeed
+16:23:17,278  INFO Application:56 - Interval Update 4
+16:23:21,284  INFO Application:41 - Modul Running
+16:23:21,288  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:21,288  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:21,288  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:21,289  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:21,289  INFO Application:109 - Module Codes Array Length -> 1
+16:23:21,968  INFO Application:114 - Update Succeed
+16:23:21,971  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:21,971  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:21,971  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:21,971  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:21,971  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:21,972  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:21,972  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:21,972  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:21,972  INFO Application:109 - Module Codes Array Length -> 5
+16:23:21,977  INFO Application:114 - Update Succeed
+16:23:21,977  INFO Application:56 - Interval Update 4
+16:23:25,982  INFO Application:41 - Modul Running
+16:23:26,079  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:26,080  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:26,080  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:26,093  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:26,093  INFO Application:109 - Module Codes Array Length -> 1
+16:23:26,111  INFO Application:114 - Update Succeed
+16:23:26,125  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:26,125  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:26,125  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:26,125  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:26,125  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:26,125  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:26,125  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:26,126  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:26,126  INFO Application:109 - Module Codes Array Length -> 5
+16:23:26,130  INFO Application:114 - Update Succeed
+16:23:26,130  INFO Application:56 - Interval Update 4
+16:23:30,141  INFO Application:41 - Modul Running
+16:23:30,519  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:30,519  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:30,519  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:30,520  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:30,520  INFO Application:109 - Module Codes Array Length -> 1
+16:23:30,567  INFO Application:114 - Update Succeed
+16:23:30,581  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:30,581  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:30,581  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:30,581  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:30,581  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:30,581  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:30,581  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:30,582  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:30,582  INFO Application:109 - Module Codes Array Length -> 5
+16:23:30,587  INFO Application:114 - Update Succeed
+16:23:30,587  INFO Application:56 - Interval Update 4
+16:23:34,599  INFO Application:41 - Modul Running
+16:23:34,603  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:34,603  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:34,603  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:34,603  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:34,603  INFO Application:109 - Module Codes Array Length -> 1
+16:23:34,885  INFO Application:114 - Update Succeed
+16:23:34,886  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:34,886  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:34,886  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:34,886  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:34,886  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:34,886  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:34,886  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:34,887  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:34,887  INFO Application:109 - Module Codes Array Length -> 5
+16:23:35,075  INFO Application:114 - Update Succeed
+16:23:35,075  INFO Application:56 - Interval Update 4
+16:23:39,087  INFO Application:41 - Modul Running
+16:23:39,546  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:39,546  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:39,546  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:39,546  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:39,546  INFO Application:109 - Module Codes Array Length -> 1
+16:23:39,605  INFO Application:114 - Update Succeed
+16:23:39,608  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:39,608  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:39,608  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:39,608  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:39,608  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:39,608  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:39,608  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:39,609  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:39,609  INFO Application:109 - Module Codes Array Length -> 5
+16:23:39,613  INFO Application:114 - Update Succeed
+16:23:39,613  INFO Application:56 - Interval Update 4
+16:23:43,617  INFO Application:41 - Modul Running
+16:23:43,920  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:43,920  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:43,920  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:43,921  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:43,921  INFO Application:109 - Module Codes Array Length -> 1
+16:23:43,949  INFO Application:114 - Update Succeed
+16:23:43,953  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:43,953  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:43,953  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:43,953  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:43,953  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:43,954  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:43,954  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:43,954  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:43,954  INFO Application:109 - Module Codes Array Length -> 5
+16:23:43,959  INFO Application:114 - Update Succeed
+16:23:43,959  INFO Application:56 - Interval Update 4
+16:23:47,960  INFO Application:41 - Modul Running
+16:23:48,323  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:48,323  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:48,323  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:48,324  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:48,324  INFO Application:109 - Module Codes Array Length -> 1
+16:23:48,334  INFO Application:114 - Update Succeed
+16:23:48,359  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:48,359  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:48,359  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:48,360  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:48,360  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:48,360  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:48,360  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:48,360  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:48,360  INFO Application:109 - Module Codes Array Length -> 5
+16:23:48,368  INFO Application:114 - Update Succeed
+16:23:48,368  INFO Application:56 - Interval Update 4
+16:23:52,374  INFO Application:41 - Modul Running
+16:23:52,926  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:52,926  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:52,927  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:52,928  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:52,928  INFO Application:109 - Module Codes Array Length -> 1
+16:23:52,944  INFO Application:114 - Update Succeed
+16:23:52,947  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:52,947  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:52,948  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:52,948  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:52,948  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:52,948  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:52,948  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:52,948  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:52,948  INFO Application:109 - Module Codes Array Length -> 5
+16:23:52,952  INFO Application:114 - Update Succeed
+16:23:52,953  INFO Application:56 - Interval Update 4
+16:23:56,967  INFO Application:41 - Modul Running
+16:23:57,000  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:23:57,001  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:57,001  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:23:57,001  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:23:57,001  INFO Application:109 - Module Codes Array Length -> 1
+16:23:57,029  INFO Application:114 - Update Succeed
+16:23:57,034  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:23:57,034  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:23:57,034  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:23:57,034  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:23:57,034  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:23:57,034  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:23:57,035  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:23:57,035  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:23:57,035  INFO Application:109 - Module Codes Array Length -> 5
+16:23:57,044  INFO Application:114 - Update Succeed
+16:23:57,044  INFO Application:56 - Interval Update 4
+16:24:01,055  INFO Application:41 - Modul Running
+16:24:01,073  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:24:01,074  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:01,074  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:24:01,074  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:24:01,074  INFO Application:109 - Module Codes Array Length -> 1
+16:24:01,462  INFO Application:114 - Update Succeed
+16:24:01,466  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:24:01,466  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:01,466  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:24:01,466  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:24:01,466  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:24:01,466  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:24:01,466  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:24:01,467  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:24:01,467  INFO Application:109 - Module Codes Array Length -> 5
+16:24:01,470  INFO Application:114 - Update Succeed
+16:24:01,470  INFO Application:56 - Interval Update 4
+16:24:05,473  INFO Application:41 - Modul Running
+16:24:05,477  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:24:05,477  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:05,477  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:24:05,477  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:24:05,477  INFO Application:109 - Module Codes Array Length -> 1
+16:24:05,480  INFO Application:114 - Update Succeed
+16:24:05,483  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:24:05,483  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:05,483  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:24:05,483  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:24:05,483  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:24:05,483  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:24:05,483  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:24:05,484  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:24:05,484  INFO Application:109 - Module Codes Array Length -> 5
+16:24:05,584  INFO Application:114 - Update Succeed
+16:24:05,584  INFO Application:56 - Interval Update 4
+16:24:09,591  INFO Application:41 - Modul Running
+16:24:09,595  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:24:09,595  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:09,595  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:24:09,595  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:24:09,595  INFO Application:109 - Module Codes Array Length -> 1
+16:24:10,124  INFO Application:114 - Update Succeed
+16:24:10,157  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:24:10,157  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:10,157  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:24:10,157  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:24:10,157  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:24:10,157  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:24:10,157  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:24:10,158  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:24:10,158  INFO Application:109 - Module Codes Array Length -> 5
+16:24:10,162  INFO Application:114 - Update Succeed
+16:24:10,162  INFO Application:56 - Interval Update 4
+16:24:14,164  INFO Application:41 - Modul Running
+16:24:14,179  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:24:14,179  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:14,179  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:24:14,180  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:24:14,180  INFO Application:109 - Module Codes Array Length -> 1
+16:24:14,183  INFO Application:114 - Update Succeed
+16:24:14,211  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:24:14,211  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:14,211  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:24:14,211  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:24:14,211  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:24:14,211  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:24:14,211  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:24:14,212  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:24:14,212  INFO Application:109 - Module Codes Array Length -> 5
+16:24:14,242  INFO Application:114 - Update Succeed
+16:24:14,242  INFO Application:56 - Interval Update 4
+16:24:18,246  INFO Application:41 - Modul Running
+16:24:18,451  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:24:18,451  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:18,451  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:24:18,451  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:24:18,451  INFO Application:109 - Module Codes Array Length -> 1
+16:24:18,542  INFO Application:114 - Update Succeed
+16:24:18,560  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:24:18,561  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:18,561  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:24:18,561  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:24:18,561  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:24:18,561  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:24:18,561  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:24:18,561  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:24:18,561  INFO Application:109 - Module Codes Array Length -> 5
+16:24:18,565  INFO Application:114 - Update Succeed
+16:24:18,565  INFO Application:56 - Interval Update 4
+16:24:22,576  INFO Application:41 - Modul Running
+16:24:36,300  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:24:36,300  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:36,300  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:24:36,300  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:24:36,300  INFO Application:109 - Module Codes Array Length -> 1
+16:24:49,826  INFO Application:114 - Update Succeed
+16:24:49,831  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:24:49,831  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:49,831  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:24:49,831  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:24:49,831  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:24:49,831  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:24:49,831  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:24:49,831  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:24:49,832  INFO Application:109 - Module Codes Array Length -> 5
+16:24:50,077  INFO Application:114 - Update Succeed
+16:24:50,078  INFO Application:56 - Interval Update 4
+16:24:54,088  INFO Application:41 - Modul Running
+16:24:54,244  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:24:54,244  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:54,244  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:24:54,244  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:24:54,244  INFO Application:109 - Module Codes Array Length -> 1
+16:24:54,247  INFO Application:114 - Update Succeed
+16:24:54,250  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:24:54,250  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:54,250  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:24:54,250  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:24:54,250  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:24:54,250  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:24:54,250  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:24:54,251  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:24:54,251  INFO Application:109 - Module Codes Array Length -> 5
+16:24:54,255  INFO Application:114 - Update Succeed
+16:24:54,255  INFO Application:56 - Interval Update 4
+16:24:58,262  INFO Application:41 - Modul Running
+16:24:58,277  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:24:58,277  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:58,277  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:24:58,277  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:24:58,277  INFO Application:109 - Module Codes Array Length -> 1
+16:24:58,280  INFO Application:114 - Update Succeed
+16:24:58,293  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:24:58,293  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:24:58,293  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:24:58,293  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:24:58,293  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:24:58,293  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:24:58,293  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:24:58,294  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:24:58,294  INFO Application:109 - Module Codes Array Length -> 5
+16:24:58,308  INFO Application:114 - Update Succeed
+16:24:58,308  INFO Application:56 - Interval Update 4
+16:25:02,323  INFO Application:41 - Modul Running
+16:25:02,341  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:02,341  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:02,341  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:02,342  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:02,342  INFO Application:109 - Module Codes Array Length -> 1
+16:25:02,402  INFO Application:114 - Update Succeed
+16:25:02,405  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:02,405  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:02,406  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:02,406  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:02,406  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:02,406  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:02,406  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:02,406  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:02,406  INFO Application:109 - Module Codes Array Length -> 5
+16:25:02,419  INFO Application:114 - Update Succeed
+16:25:02,420  INFO Application:56 - Interval Update 4
+16:25:06,423  INFO Application:41 - Modul Running
+16:25:06,426  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:06,426  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:06,426  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:06,427  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:06,427  INFO Application:109 - Module Codes Array Length -> 1
+16:25:06,430  INFO Application:114 - Update Succeed
+16:25:06,431  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:06,431  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:06,431  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:06,432  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:06,432  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:06,432  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:06,432  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:06,432  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:06,432  INFO Application:109 - Module Codes Array Length -> 5
+16:25:06,435  INFO Application:114 - Update Succeed
+16:25:06,435  INFO Application:56 - Interval Update 4
+16:25:10,448  INFO Application:41 - Modul Running
+16:25:10,451  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:10,451  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:10,451  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:10,451  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:10,451  INFO Application:109 - Module Codes Array Length -> 1
+16:25:10,454  INFO Application:114 - Update Succeed
+16:25:10,457  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:10,457  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:10,457  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:10,457  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:10,457  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:10,457  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:10,457  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:10,457  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:10,457  INFO Application:109 - Module Codes Array Length -> 5
+16:25:10,482  INFO Application:114 - Update Succeed
+16:25:10,482  INFO Application:56 - Interval Update 4
+16:25:14,486  INFO Application:41 - Modul Running
+16:25:14,489  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:14,489  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:14,490  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:14,490  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:14,490  INFO Application:109 - Module Codes Array Length -> 1
+16:25:14,769  INFO Application:114 - Update Succeed
+16:25:14,771  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:14,771  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:14,771  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:14,771  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:14,771  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:14,771  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:14,771  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:14,771  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:14,771  INFO Application:109 - Module Codes Array Length -> 5
+16:25:14,819  INFO Application:114 - Update Succeed
+16:25:14,819  INFO Application:56 - Interval Update 4
+16:25:18,834  INFO Application:41 - Modul Running
+16:25:19,493  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:19,493  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:19,493  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:19,493  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:19,493  INFO Application:109 - Module Codes Array Length -> 1
+16:25:19,535  INFO Application:114 - Update Succeed
+16:25:19,550  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:19,550  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:19,550  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:19,550  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:19,550  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:19,550  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:19,550  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:19,551  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:19,551  INFO Application:109 - Module Codes Array Length -> 5
+16:25:19,555  INFO Application:114 - Update Succeed
+16:25:19,555  INFO Application:56 - Interval Update 4
+16:25:23,560  INFO Application:41 - Modul Running
+16:25:23,563  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:23,563  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:23,563  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:23,563  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:23,563  INFO Application:109 - Module Codes Array Length -> 1
+16:25:23,565  INFO Application:114 - Update Succeed
+16:25:23,566  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:23,566  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:23,566  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:23,566  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:23,566  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:23,566  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:23,566  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:23,566  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:23,566  INFO Application:109 - Module Codes Array Length -> 5
+16:25:23,569  INFO Application:114 - Update Succeed
+16:25:23,569  INFO Application:56 - Interval Update 4
+16:25:27,585  INFO Application:41 - Modul Running
+16:25:27,632  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:27,632  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:27,632  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:27,632  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:27,632  INFO Application:109 - Module Codes Array Length -> 1
+16:25:27,650  INFO Application:114 - Update Succeed
+16:25:27,653  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:27,653  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:27,653  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:27,653  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:27,653  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:27,653  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:27,653  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:27,653  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:27,653  INFO Application:109 - Module Codes Array Length -> 5
+16:25:27,680  INFO Application:114 - Update Succeed
+16:25:27,680  INFO Application:56 - Interval Update 4
+16:25:31,696  INFO Application:41 - Modul Running
+16:25:31,889  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:31,889  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:31,889  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:31,889  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:31,889  INFO Application:109 - Module Codes Array Length -> 1
+16:25:32,370  INFO Application:114 - Update Succeed
+16:25:32,373  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:32,373  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:32,373  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:32,373  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:32,373  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:32,373  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:32,373  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:32,373  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:32,373  INFO Application:109 - Module Codes Array Length -> 5
+16:25:32,416  INFO Application:114 - Update Succeed
+16:25:32,416  INFO Application:56 - Interval Update 4
+16:25:36,426  INFO Application:41 - Modul Running
+16:25:36,430  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:36,430  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:36,430  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:36,431  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:36,431  INFO Application:109 - Module Codes Array Length -> 1
+16:25:36,473  INFO Application:114 - Update Succeed
+16:25:36,475  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:36,475  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:36,475  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:36,475  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:36,475  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:36,475  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:36,475  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:36,475  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:36,475  INFO Application:109 - Module Codes Array Length -> 5
+16:25:36,478  INFO Application:114 - Update Succeed
+16:25:36,478  INFO Application:56 - Interval Update 4
+16:25:40,486  INFO Application:41 - Modul Running
+16:25:40,490  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:40,490  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:40,490  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:40,490  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:40,490  INFO Application:109 - Module Codes Array Length -> 1
+16:25:40,835  INFO Application:114 - Update Succeed
+16:25:40,841  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:40,841  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:40,841  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:40,841  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:40,841  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:40,841  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:40,842  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:40,842  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:40,842  INFO Application:109 - Module Codes Array Length -> 5
+16:25:40,847  INFO Application:114 - Update Succeed
+16:25:40,847  INFO Application:56 - Interval Update 4
+16:25:44,853  INFO Application:41 - Modul Running
+16:25:44,861  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:44,861  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:44,861  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:44,862  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:44,862  INFO Application:109 - Module Codes Array Length -> 1
+16:25:44,866  INFO Application:114 - Update Succeed
+16:25:44,872  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:44,872  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:44,872  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:44,872  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:44,873  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:44,873  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:44,873  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:44,873  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:44,873  INFO Application:109 - Module Codes Array Length -> 5
+16:25:44,880  INFO Application:114 - Update Succeed
+16:25:44,880  INFO Application:56 - Interval Update 4
+16:25:48,892  INFO Application:41 - Modul Running
+16:25:48,897  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:48,897  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:48,897  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:48,897  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:48,897  INFO Application:109 - Module Codes Array Length -> 1
+16:25:49,364  INFO Application:114 - Update Succeed
+16:25:49,367  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:49,367  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:49,367  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:49,367  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:49,367  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:49,367  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:49,367  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:49,367  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:49,367  INFO Application:109 - Module Codes Array Length -> 5
+16:25:49,371  INFO Application:114 - Update Succeed
+16:25:49,371  INFO Application:56 - Interval Update 4
+16:25:53,383  INFO Application:41 - Modul Running
+16:25:53,434  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:53,434  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:53,434  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:53,434  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:53,434  INFO Application:109 - Module Codes Array Length -> 1
+16:25:53,437  INFO Application:114 - Update Succeed
+16:25:53,450  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:53,450  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:53,450  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:53,450  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:53,450  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:53,450  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:53,450  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:53,450  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:53,451  INFO Application:109 - Module Codes Array Length -> 5
+16:25:53,455  INFO Application:114 - Update Succeed
+16:25:53,455  INFO Application:56 - Interval Update 4
+16:25:57,461  INFO Application:41 - Modul Running
+16:25:57,542  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:25:57,542  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:57,542  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:25:57,542  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:25:57,542  INFO Application:109 - Module Codes Array Length -> 1
+16:25:57,556  INFO Application:114 - Update Succeed
+16:25:57,560  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:25:57,561  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:25:57,561  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:25:57,561  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:25:57,561  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:25:57,561  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:25:57,561  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:25:57,561  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:25:57,561  INFO Application:109 - Module Codes Array Length -> 5
+16:25:57,565  INFO Application:114 - Update Succeed
+16:25:57,565  INFO Application:56 - Interval Update 4
+16:26:01,580  INFO Application:41 - Modul Running
+16:26:01,644  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:01,644  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:01,644  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:01,645  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:01,645  INFO Application:109 - Module Codes Array Length -> 1
+16:26:01,647  INFO Application:114 - Update Succeed
+16:26:01,648  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:01,648  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:01,648  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:01,648  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:01,648  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:01,648  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:01,648  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:01,649  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:01,649  INFO Application:109 - Module Codes Array Length -> 5
+16:26:01,651  INFO Application:114 - Update Succeed
+16:26:01,652  INFO Application:56 - Interval Update 4
+16:26:05,664  INFO Application:41 - Modul Running
+16:26:05,667  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:05,667  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:05,667  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:05,668  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:05,668  INFO Application:109 - Module Codes Array Length -> 1
+16:26:05,671  INFO Application:114 - Update Succeed
+16:26:05,674  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:05,674  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:05,674  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:05,675  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:05,675  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:05,675  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:05,675  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:05,675  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:05,675  INFO Application:109 - Module Codes Array Length -> 5
+16:26:05,679  INFO Application:114 - Update Succeed
+16:26:05,679  INFO Application:56 - Interval Update 4
+16:26:09,690  INFO Application:41 - Modul Running
+16:26:10,465  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:10,465  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:10,465  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:10,466  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:10,466  INFO Application:109 - Module Codes Array Length -> 1
+16:26:10,468  INFO Application:114 - Update Succeed
+16:26:10,472  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:10,472  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:10,472  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:10,472  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:10,472  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:10,472  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:10,472  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:10,472  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:10,472  INFO Application:109 - Module Codes Array Length -> 5
+16:26:10,476  INFO Application:114 - Update Succeed
+16:26:10,476  INFO Application:56 - Interval Update 4
+16:26:14,488  INFO Application:41 - Modul Running
+16:26:14,538  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:14,538  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:14,538  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:14,538  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:14,538  INFO Application:109 - Module Codes Array Length -> 1
+16:26:15,573  INFO Application:114 - Update Succeed
+16:26:15,742  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:15,742  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:15,742  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:15,742  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:15,742  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:15,742  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:15,742  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:15,742  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:15,743  INFO Application:109 - Module Codes Array Length -> 5
+16:26:15,747  INFO Application:114 - Update Succeed
+16:26:15,747  INFO Application:56 - Interval Update 4
+16:26:19,755  INFO Application:41 - Modul Running
+16:26:19,868  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:19,868  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:19,868  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:19,869  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:19,869  INFO Application:109 - Module Codes Array Length -> 1
+16:26:19,872  INFO Application:114 - Update Succeed
+16:26:19,875  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:19,875  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:19,875  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:19,875  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:19,875  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:19,875  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:19,875  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:19,876  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:19,876  INFO Application:109 - Module Codes Array Length -> 5
+16:26:19,880  INFO Application:114 - Update Succeed
+16:26:19,880  INFO Application:56 - Interval Update 4
+16:26:23,885  INFO Application:41 - Modul Running
+16:26:23,891  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:23,891  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:23,891  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:23,892  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:23,892  INFO Application:109 - Module Codes Array Length -> 1
+16:26:24,705  INFO Application:114 - Update Succeed
+16:26:24,710  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:24,710  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:24,710  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:24,710  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:24,710  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:24,710  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:24,710  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:24,711  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:24,711  INFO Application:109 - Module Codes Array Length -> 5
+16:26:24,715  INFO Application:114 - Update Succeed
+16:26:24,719  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:26:24,720  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:24,720  INFO Application:110 - 304 | PLN20 | 19975.0000 | 0
+16:26:24,720  INFO Application:110 - 303 | PLN20 | 24775.0000 | 0
+16:26:24,720  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:26:24,720  INFO Application:109 - Module Codes Array Length -> 2
+16:26:24,726  INFO Application:114 - Update Succeed
+16:26:24,726  INFO Application:56 - Interval Update 4
+16:26:28,727  INFO Application:41 - Modul Running
+16:26:29,239  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:29,239  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:29,239  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:29,239  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:29,240  INFO Application:109 - Module Codes Array Length -> 1
+16:26:29,242  INFO Application:114 - Update Succeed
+16:26:29,245  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:29,245  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:29,245  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:29,245  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:29,245  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:29,245  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:29,245  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:29,245  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:29,245  INFO Application:109 - Module Codes Array Length -> 5
+16:26:29,272  INFO Application:114 - Update Succeed
+16:26:29,276  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:26:29,276  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:29,276  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:26:29,276  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:26:29,276  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:26:29,276  INFO Application:109 - Module Codes Array Length -> 2
+16:26:29,281  INFO Application:114 - Update Succeed
+16:26:29,281  INFO Application:56 - Interval Update 4
+16:26:33,288  INFO Application:41 - Modul Running
+16:26:33,948  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:33,948  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:33,948  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:33,949  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:33,949  INFO Application:109 - Module Codes Array Length -> 1
+16:26:33,951  INFO Application:114 - Update Succeed
+16:26:33,954  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:33,954  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:33,954  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:33,954  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:33,954  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:33,954  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:33,955  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:33,955  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:33,955  INFO Application:109 - Module Codes Array Length -> 5
+16:26:33,959  INFO Application:114 - Update Succeed
+16:26:33,962  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:26:33,962  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:33,962  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:26:33,962  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:26:33,962  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:26:33,963  INFO Application:109 - Module Codes Array Length -> 2
+16:26:33,966  INFO Application:114 - Update Succeed
+16:26:33,966  INFO Application:56 - Interval Update 4
+16:26:37,973  INFO Application:41 - Modul Running
+16:26:38,037  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:38,037  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:38,037  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:38,037  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:38,037  INFO Application:109 - Module Codes Array Length -> 1
+16:26:38,040  INFO Application:114 - Update Succeed
+16:26:38,043  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:38,043  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:38,043  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:38,043  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:38,043  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:38,043  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:38,043  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:38,044  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:38,044  INFO Application:109 - Module Codes Array Length -> 5
+16:26:38,048  INFO Application:114 - Update Succeed
+16:26:38,051  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:26:38,051  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:38,051  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:26:38,051  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:26:38,052  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:26:38,052  INFO Application:109 - Module Codes Array Length -> 2
+16:26:38,057  INFO Application:114 - Update Succeed
+16:26:38,057  INFO Application:56 - Interval Update 4
+16:26:42,058  INFO Application:41 - Modul Running
+16:26:42,074  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:42,074  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:42,074  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:42,074  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:42,074  INFO Application:109 - Module Codes Array Length -> 1
+16:26:42,077  INFO Application:114 - Update Succeed
+16:26:42,081  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:42,081  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:42,081  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:42,081  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:42,081  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:42,081  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:42,081  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:42,081  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:42,081  INFO Application:109 - Module Codes Array Length -> 5
+16:26:42,085  INFO Application:114 - Update Succeed
+16:26:42,088  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:26:42,088  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:42,088  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:26:42,088  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:26:42,088  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:26:42,088  INFO Application:109 - Module Codes Array Length -> 2
+16:26:42,092  INFO Application:114 - Update Succeed
+16:26:42,092  INFO Application:56 - Interval Update 4
+16:26:46,094  INFO Application:41 - Modul Running
+16:26:46,097  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:46,097  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:46,097  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:46,098  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:46,098  INFO Application:109 - Module Codes Array Length -> 1
+16:26:46,269  INFO Application:114 - Update Succeed
+16:26:46,285  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:46,285  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:46,285  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:46,285  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:46,285  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:46,285  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:46,285  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:46,286  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:46,286  INFO Application:109 - Module Codes Array Length -> 5
+16:26:46,347  INFO Application:114 - Update Succeed
+16:26:46,381  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:26:46,381  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:46,381  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:26:46,381  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:26:46,382  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:26:46,382  INFO Application:109 - Module Codes Array Length -> 2
+16:26:46,395  INFO Application:114 - Update Succeed
+16:26:46,395  INFO Application:56 - Interval Update 4
+16:26:50,408  INFO Application:41 - Modul Running
+16:26:50,412  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:50,412  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:50,412  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:50,412  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:50,412  INFO Application:109 - Module Codes Array Length -> 1
+16:26:50,414  INFO Application:114 - Update Succeed
+16:26:50,415  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:50,415  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:50,415  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:50,415  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:50,415  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:50,415  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:50,415  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:50,416  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:50,416  INFO Application:109 - Module Codes Array Length -> 5
+16:26:50,419  INFO Application:114 - Update Succeed
+16:26:50,420  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:26:50,420  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:50,420  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:26:50,420  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:26:50,420  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:26:50,420  INFO Application:109 - Module Codes Array Length -> 2
+16:26:50,423  INFO Application:114 - Update Succeed
+16:26:50,423  INFO Application:56 - Interval Update 4
+16:26:54,424  INFO Application:41 - Modul Running
+16:26:54,457  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:26:54,458  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:54,458  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:26:54,458  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:26:54,458  INFO Application:109 - Module Codes Array Length -> 1
+16:26:54,461  INFO Application:114 - Update Succeed
+16:26:54,465  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:26:54,465  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:54,465  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:26:54,465  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:26:54,465  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:26:54,465  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:26:54,465  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:26:54,466  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:26:54,466  INFO Application:109 - Module Codes Array Length -> 5
+16:26:54,470  INFO Application:114 - Update Succeed
+16:26:54,474  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:26:54,474  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:26:54,474  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:26:54,474  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:26:54,475  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:26:54,475  INFO Application:109 - Module Codes Array Length -> 2
+16:26:54,479  INFO Application:114 - Update Succeed
+16:26:54,479  INFO Application:56 - Interval Update 4
+16:26:58,482  INFO Application:41 - Modul Running
+16:27:10,650  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:10,650  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:10,650  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:10,651  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:10,651  INFO Application:109 - Module Codes Array Length -> 1
+16:27:10,654  INFO Application:114 - Update Succeed
+16:27:10,658  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:10,658  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:10,658  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:10,658  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:10,658  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:10,658  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:10,658  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:10,659  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:10,659  INFO Application:109 - Module Codes Array Length -> 5
+16:27:10,664  INFO Application:114 - Update Succeed
+16:27:10,667  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:10,667  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:10,667  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:10,668  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:10,668  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:10,668  INFO Application:109 - Module Codes Array Length -> 2
+16:27:10,695  INFO Application:114 - Update Succeed
+16:27:10,695  INFO Application:56 - Interval Update 4
+16:27:14,697  INFO Application:41 - Modul Running
+16:27:14,700  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:14,700  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:14,700  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:14,701  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:14,701  INFO Application:109 - Module Codes Array Length -> 1
+16:27:14,703  INFO Application:114 - Update Succeed
+16:27:14,705  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:14,705  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:14,705  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:14,705  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:14,705  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:14,705  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:14,705  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:14,705  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:14,705  INFO Application:109 - Module Codes Array Length -> 5
+16:27:14,709  INFO Application:114 - Update Succeed
+16:27:14,710  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:14,710  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:14,710  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:14,710  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:14,710  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:14,710  INFO Application:109 - Module Codes Array Length -> 2
+16:27:14,713  INFO Application:114 - Update Succeed
+16:27:14,713  INFO Application:56 - Interval Update 4
+16:27:18,715  INFO Application:41 - Modul Running
+16:27:18,719  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:18,719  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:18,719  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:18,719  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:18,719  INFO Application:109 - Module Codes Array Length -> 1
+16:27:18,722  INFO Application:114 - Update Succeed
+16:27:18,723  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:18,723  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:18,723  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:18,723  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:18,723  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:18,724  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:18,724  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:18,724  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:18,724  INFO Application:109 - Module Codes Array Length -> 5
+16:27:19,480  INFO Application:114 - Update Succeed
+16:27:19,481  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:19,481  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:19,481  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:19,481  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:19,482  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:19,482  INFO Application:109 - Module Codes Array Length -> 2
+16:27:19,484  INFO Application:114 - Update Succeed
+16:27:19,484  INFO Application:56 - Interval Update 4
+16:27:23,486  INFO Application:41 - Modul Running
+16:27:24,196  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:24,196  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:24,196  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:24,197  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:24,197  INFO Application:109 - Module Codes Array Length -> 1
+16:27:24,199  INFO Application:114 - Update Succeed
+16:27:24,201  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:24,201  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:24,201  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:24,201  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:24,202  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:24,202  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:24,202  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:24,202  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:24,202  INFO Application:109 - Module Codes Array Length -> 5
+16:27:24,207  INFO Application:114 - Update Succeed
+16:27:24,209  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:24,210  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:24,210  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:24,210  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:24,210  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:24,210  INFO Application:109 - Module Codes Array Length -> 2
+16:27:24,213  INFO Application:114 - Update Succeed
+16:27:24,213  INFO Application:56 - Interval Update 4
+16:27:28,222  INFO Application:41 - Modul Running
+16:27:28,241  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:28,241  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:28,241  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:28,241  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:28,241  INFO Application:109 - Module Codes Array Length -> 1
+16:27:28,243  INFO Application:114 - Update Succeed
+16:27:28,244  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:28,244  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:28,244  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:28,244  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:28,244  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:28,244  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:28,244  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:28,245  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:28,245  INFO Application:109 - Module Codes Array Length -> 5
+16:27:28,351  INFO Application:114 - Update Succeed
+16:27:28,355  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:28,355  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:28,355  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:28,355  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:28,355  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:28,355  INFO Application:109 - Module Codes Array Length -> 2
+16:27:28,360  INFO Application:114 - Update Succeed
+16:27:28,360  INFO Application:56 - Interval Update 4
+16:27:32,370  INFO Application:41 - Modul Running
+16:27:32,373  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:32,373  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:32,373  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:32,373  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:32,373  INFO Application:109 - Module Codes Array Length -> 1
+16:27:32,375  INFO Application:114 - Update Succeed
+16:27:32,376  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:32,376  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:32,376  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:32,376  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:32,376  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:32,376  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:32,376  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:32,377  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:32,377  INFO Application:109 - Module Codes Array Length -> 5
+16:27:32,621  INFO Application:114 - Update Succeed
+16:27:32,622  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:32,622  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:32,622  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:32,622  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:32,623  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:32,623  INFO Application:109 - Module Codes Array Length -> 2
+16:27:32,625  INFO Application:114 - Update Succeed
+16:27:32,625  INFO Application:56 - Interval Update 4
+16:27:36,632  INFO Application:41 - Modul Running
+16:27:36,636  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:36,636  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:36,636  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:36,637  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:36,637  INFO Application:109 - Module Codes Array Length -> 1
+16:27:36,639  INFO Application:114 - Update Succeed
+16:27:36,642  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:36,643  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:36,643  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:36,643  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:36,643  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:36,643  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:36,643  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:36,643  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:36,643  INFO Application:109 - Module Codes Array Length -> 5
+16:27:36,647  INFO Application:114 - Update Succeed
+16:27:36,650  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:36,650  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:36,650  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:36,650  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:36,651  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:36,651  INFO Application:109 - Module Codes Array Length -> 2
+16:27:36,655  INFO Application:114 - Update Succeed
+16:27:36,655  INFO Application:56 - Interval Update 4
+16:27:40,662  INFO Application:41 - Modul Running
+16:27:40,664  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:40,664  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:40,664  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:40,665  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:40,665  INFO Application:109 - Module Codes Array Length -> 1
+16:27:40,670  INFO Application:114 - Update Succeed
+16:27:40,671  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:40,671  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:40,671  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:40,671  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:40,671  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:40,671  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:40,671  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:40,672  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:40,672  INFO Application:109 - Module Codes Array Length -> 5
+16:27:40,734  INFO Application:114 - Update Succeed
+16:27:40,737  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:40,737  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:40,737  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:40,737  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:40,738  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:40,738  INFO Application:109 - Module Codes Array Length -> 2
+16:27:40,745  INFO Application:114 - Update Succeed
+16:27:40,745  INFO Application:56 - Interval Update 4
+16:27:44,753  INFO Application:41 - Modul Running
+16:27:44,756  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:44,756  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:44,756  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:44,756  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:44,756  INFO Application:109 - Module Codes Array Length -> 1
+16:27:44,758  INFO Application:114 - Update Succeed
+16:27:44,759  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:44,759  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:44,759  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:44,759  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:44,759  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:44,759  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:44,759  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:44,760  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:44,760  INFO Application:109 - Module Codes Array Length -> 5
+16:27:45,040  INFO Application:114 - Update Succeed
+16:27:45,041  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:45,041  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:45,041  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:45,041  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:45,042  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:45,042  INFO Application:109 - Module Codes Array Length -> 2
+16:27:45,044  INFO Application:114 - Update Succeed
+16:27:45,044  INFO Application:56 - Interval Update 4
+16:27:49,045  INFO Application:41 - Modul Running
+16:27:49,048  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:49,049  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:49,049  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | -1
+16:27:49,049  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:49,049  INFO Application:109 - Module Codes Array Length -> 1
+16:27:49,456  INFO Application:114 - Update Succeed
+16:27:49,459  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:49,459  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:49,459  INFO Application:110 - 302 | X100 | 92000.0000 | -1
+16:27:49,459  INFO Application:110 - 309 | X100 | 96325.0000 | -1
+16:27:49,459  INFO Application:110 - 400 | X100 | 96325.0000 | -1
+16:27:49,459  INFO Application:110 - 297 | X100 | 99975.0000 | -1
+16:27:49,459  INFO Application:110 - 304 | X100 | 1000000.0000 | -1
+16:27:49,460  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:49,460  INFO Application:109 - Module Codes Array Length -> 5
+16:27:49,463  INFO Application:114 - Update Succeed
+16:27:49,466  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:49,466  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:49,466  INFO Application:110 - 304 | PLN20 | 19975.0000 | -1
+16:27:49,466  INFO Application:110 - 303 | PLN20 | 24775.0000 | -1
+16:27:49,466  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:49,466  INFO Application:109 - Module Codes Array Length -> 2
+16:27:49,470  INFO Application:114 - Update Succeed
+16:27:49,470  INFO Application:56 - Interval Update 4
+16:27:53,471  INFO Application:41 - Modul Running
+16:27:53,474  INFO Application:105 - List Of Actives Modules for Product Code CEKPLN20
+16:27:53,474  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:53,474  INFO Application:110 - 304 | CEKPLN20 | 500.0000 | 1
+16:27:53,475  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1  END WHERE kode_modul IN (304) AND kode_produk='CEKPLN20'
+16:27:53,475  INFO Application:109 - Module Codes Array Length -> 1
+16:27:53,551  INFO Application:114 - Update Succeed
+16:27:53,565  INFO Application:105 - List Of Actives Modules for Product Code X100
+16:27:53,565  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:53,565  INFO Application:110 - 302 | X100 | 92000.0000 | 1
+16:27:53,565  INFO Application:110 - 309 | X100 | 96325.0000 | 2
+16:27:53,565  INFO Application:110 - 400 | X100 | 96325.0000 | 2
+16:27:53,565  INFO Application:110 - 297 | X100 | 99975.0000 | 3
+16:27:53,565  INFO Application:110 - 304 | X100 | 1000000.0000 | 4
+16:27:53,566  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '302' THEN 1 WHEN kode_modul = '309' THEN 2 WHEN kode_modul = '400' THEN 2 WHEN kode_modul = '297' THEN 3 WHEN kode_modul = '304' THEN 4  END WHERE kode_modul IN (302, 309, 400, 297, 304) AND kode_produk='X100'
+16:27:53,566  INFO Application:109 - Module Codes Array Length -> 5
+16:27:53,569  INFO Application:114 - Update Succeed
+16:27:53,572  INFO Application:105 - List Of Actives Modules for Product Code PLN20
+16:27:53,572  INFO Application:107 - kode_modul|kode_produk|harga_beli|prioritas
+16:27:53,573  INFO Application:110 - 304 | PLN20 | 19975.0000 | 1
+16:27:53,573  INFO Application:110 - 303 | PLN20 | 24775.0000 | 2
+16:27:53,573  INFO Application:108 - Query -->>>> UPDATE dbo.parsing SET prioritas = CASE WHEN kode_modul = '304' THEN 1 WHEN kode_modul = '303' THEN 2  END WHERE kode_modul IN (304, 303) AND kode_produk='PLN20'
+16:27:53,573  INFO Application:109 - Module Codes Array Length -> 2
+16:27:53,585  INFO Application:114 - Update Succeed
+16:27:53,585  INFO Application:56 - Interval Update 4
